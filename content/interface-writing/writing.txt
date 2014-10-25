@@ -281,5 +281,5 @@ Footnotes:
 	<li><a href="/writing/writing-for-beginners">Writing for Beginners</a></li>
 	<li><a href="//www.swellcontent.com/2012/02/baby-steps-to-better-product-content/">Baby Steps to Better Product Content</a></li>
 	<li><a href="//www.swellcontent.com/2012/04/working-with-developers/">Working on Content with Developers</a></li>
-	<li><a href="//www.x-entertainment.com/articles/0952/">Dr. Sbaitso from Creative Labs</a></li>
+	<li><a href="//www.x-entertainment.com/articles/0952/">Dr. Sbaitso</a> from Creative Labs</li>
 </ul>
