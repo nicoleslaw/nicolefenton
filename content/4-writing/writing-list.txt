@@ -48,7 +48,7 @@ Whether you’re a writer, designer, developer, or business owner, this book is 
 
 Personal-writing: * [Why I Write](//nicoleslaw.com/post/88447345479/why-i-write)
 * [First Year in New York](//nicoleslaw.com/post/77885298170/first-year-in-new-york)
-* [Geoffrey the Magnificent](//nicoleslaw.com/post/67263889168/geoffrey-the-magnificent)
+* [Geoffrey the Magnificent](/geoffrey-the-magnificent)
 * [Two Stories](//nicoleslaw.com/post/63658097382/two-stories)
 * [On Feeding and Being Fed](//www.bornhungrymag.com/2012/08/feeding/)
 * [Humble Beginnings](//www.bornhungrymag.com/2012/06/humble-beginnings/)
