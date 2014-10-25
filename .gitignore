@@ -24,6 +24,5 @@ sftp-*
 site/templates/x-*.php
 *.woff
 *.eot
-*.svg
 *.ttf
 sftp-config.*
