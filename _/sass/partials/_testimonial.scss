@@ -1,0 +1,90 @@
+// _testimonial.scss
+// PAGE SPECIFIC: Home
+// http://nicolefenton.com/
+
+@mixin testimonial-quote {
+  font-weight: normal;
+  font-style: italic;
+  line-height: (28/16);
+  // transition: all 0.1s $easeOutQuint;
+  letter-spacing: 0;
+  color: $c-purple;
+
+  @include font-size(16);
+  &,
+  p {
+    margin: 0;
+  }
+}
+
+@mixin testimonial-cite {
+  font-style: normal;
+  line-height: (21/14);
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: $c-black;
+
+  @include font-size(14);
+  &:before {
+    content: '— ';
+  }
+}
+
+.testimonial {
+  font-weight: normal;
+  font-style: normal;
+  margin-bottom: 2em;
+
+  @include font-size(16);
+  h3,
+  & > p {
+    @include testimonial-cite;
+  }
+  blockquote {
+    @include testimonial-quote;
+  }
+}
+
+[id='testimonials'],
+.testimonial-list {
+  margin-bottom: 5em;
+  li {
+    display: none;
+  }
+  li:first-child {
+    display: block;
+  }
+}
+
+.testimonial--home {
+  margin-bottom: 4em;
+
+  @include media(not-mobile) {
+    margin-left: 1rem;
+  }
+  li > p {
+    @include testimonial-cite;
+  }
+  blockquote {
+    line-height: (32/28);
+
+    @include font-size(18);
+    @include testimonial-quote;
+    @include media(not-mobile) {
+      @include font-size(22);
+    }
+  }
+}
+
+// Project: Testimonial
+
+.page-template--project {
+  blockquote {
+    @include testimonial-quote;
+    & + h3 {
+      @include testimonial-cite;
+    }
+  }
+}

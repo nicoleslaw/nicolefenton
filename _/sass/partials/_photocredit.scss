@@ -1,0 +1,12 @@
+
+.photo-credit {
+  display: block;
+  margin-top: 3rem;
+  &,
+  p {
+    text-align: center;
+
+    @extend %font-sans;
+    @include font-size(11);
+  }
+}

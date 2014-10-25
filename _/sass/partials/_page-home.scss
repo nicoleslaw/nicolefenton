@@ -1,0 +1,50 @@
+// _page-home.scss
+
+.content--home {
+  // max-width: 33em;
+  // @include center;
+}
+
+.page-template--home {
+  .main {
+    max-width: 40rem;
+
+    @include center;
+    @include media(not-mobile) {
+      padding-left: 1em;
+    }
+    figure {
+      @include media(mobile-only) {
+        max-width: 50%;
+      }
+    }
+  }
+}
+
+.home-bio {
+  display: block;
+  // pointer-events: none;
+  margin-top: 1.5em;
+  // max-width: 20.5em;
+  margin-bottom: 2em;
+
+  @include font-size(23);
+  @include center;
+  @include media(not-mobile) {
+    margin-left: 1rem;
+  }
+  @media screen and ($tall-height) and (min-width: $breakpoint-mobile-plus-1) {
+    margin-bottom: 15%;
+  }
+  &,
+  h2 {
+    font-style: normal;
+    line-height: 1.4;
+
+    @include media(not-mobile) {
+      line-height: 1.3;
+
+      @include font-size(32);
+    }
+  }
+}

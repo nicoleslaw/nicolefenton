@@ -1,0 +1,40 @@
+/* Typography
+-------------------------------------------------- */
+
+/////////////////////////////////////
+// MAJOR FONT CLASSES
+/////////////////////////////////////
+
+%font-serif {
+  font-family: $f-serif;
+}
+
+%font-sans {
+  font-family: $f-sans-regular;
+  font-style: normal;
+  transition: visibility 0.1s $easing-default;
+  .wf-apercuregular-n4-loading & {
+    visibility: hidden;
+  }
+}
+
+%font-sans-italic {
+  font-family: $f-sans-italic;
+  font-style: italic;
+  transition: visibility 0.1s $easing-default;
+  .wf-apercuitalic-n4-loading & {
+    visibility: hidden;
+  }
+}
+
+/////////////////////////////////////
+// WEBFONT FOUT
+/////////////////////////////////////
+
+.wf-loading .body-wrap {
+  visibility: hidden;
+}
+.body-wrap {
+  transition: visibility 0.1s ease-in;
+}
+

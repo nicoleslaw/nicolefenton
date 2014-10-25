@@ -1,0 +1,30 @@
+/* Site
+-------------------------------------------------- */
+body {
+  font-size: 1.1em;
+  line-height: 1.5em;
+  position: relative;
+  min-width: 320px;
+  max-width: 50em;
+  max-width: none;
+  margin: 0 auto;
+  padding: 1.5em;
+  padding: 0;
+  color: #222222;
+  border: 30px solid #ffffff;
+  background-color: $c-page-bg;
+
+  @include media(mobile-only) {
+    border-width: 20px 0;
+  }
+}
+
+%white-page {
+  border-color: $c-page-bg;
+  background-color: #ffffff;
+}
+
+// .page-template--project,
+.page-template--writing {
+  @extend %white-page;
+}

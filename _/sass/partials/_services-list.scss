@@ -1,0 +1,37 @@
+
+// Projects: List of Services
+
+.services-list {
+  max-width: 40em;
+  margin-bottom: 6rem;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: (32/15);
+
+  @extend %font-sans-italic;
+  @include column-rule(2px solid $c-column-rule);
+  @include columns(2 9em);
+  &, li {
+    @include font-size(16);
+  }
+  @include center;
+  h3 {
+    font-style: normal;
+    @extend %font-sans;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    @include font-size(16);
+  }
+  & em {
+    font-weight: 400;
+    line-height: (19.2/16);
+    margin-bottom: 0;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: $c-black;
+
+    @extend %font-sans;
+    @include font-size(16);
+  }
+}

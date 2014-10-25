@@ -1,0 +1,78 @@
+Title: Writing
+
+----
+
+Lede: I write essays, talks, and books about writing iteratively and making digital products.
+
+----
+
+Featured-writing: ## Featured Writing ## {.list-section-title}
+
+### [Interface Writing: Code for Humans](/interface-writing/) ###
+We build systems to help real people. But honestly, are we being that helpful in our interfaces? Or are we treating words as an afterthought and letting people fend for themselves?
+
+### [Writing for Beginners](/writing-for-beginners/) ###
+What if writing comes from a place of *not knowing*, a place of exploration, seeking clarity, and wanting to communicate—a place for beginners?
+
+### [Power and Responsibility](/power-and-responsibility/) ###
+Have you ever looked someone up in a database? Did you find what you were looking for?
+
+### [Winning Tactics](/winning-tactics) ###
+Building relationships is a huge part of my work. In this lightning talk, I share some quick tips from my first year as a senior content strategist at Facebook.
+
+----
+
+Business-writing: * [Editing the Past](//www.swellcontent.com/2013/02/editing-the-past/)
+* [Dreaming of Writing in Space](//www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
+* [I Want a World](//www.swellcontent.com/2012/11/i-want-a-world/)
+* [Working in Technology](//www.swellcontent.com/2013/04/working-in-technology/)
+* [Strategy for Small Brands](//www.swellcontent.com/2012/12/small-brand-strategy/)
+* [Working on Content with Developers](//www.swellcontent.com/2012/04/working-with-developers/)
+
+More on [Swell Content](//swellcontent.com).
+
+----
+
+The-book: ## The Book ## {.list-section-title}
+
+(figure: /writing/nicely_said.jpg)
+
+### *[Nicely Said: Writing for the Web with Style and Purpose](//nicelysaid.co)* ###
+
+Whether you’re a writer, designer, developer, or business owner, this book is for you. Kate Kiefer Lee and I share our methods for developing clear, friendly, and useful content in what *.net* Magazine calls a “fantastic, practical, and elegant guide to improving your web writing.”
+
+- [Buy the Book](//nicelysaid.co)
+- [Join Our Workshop](//confabevents.com/events/higher-ed)
+
+----
+
+Personal-writing: * [Why I Write](//nicoleslaw.com/post/88447345479/why-i-write)
+* [First Year in New York](//nicoleslaw.com/post/77885298170/first-year-in-new-york)
+* [Geoffrey the Magnificent](//nicoleslaw.com/post/67263889168/geoffrey-the-magnificent)
+* [Two Stories](//nicoleslaw.com/post/63658097382/two-stories)
+* [On Feeding and Being Fed](//www.bornhungrymag.com/2012/08/feeding/)
+* [Humble Beginnings](//www.bornhungrymag.com/2012/06/humble-beginnings/)
+
+More on [Tumblr](//nicoleslaw.com) and [Born Hungry](//bornhungrymag.com).
+
+----
+
+Published-elsewhere: [Writing for Global Readers](//webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
+
+[Leaning into Longform](//webstandardssherpa.com/reviews/leaning-into-longform/), Web Standards Sherpa
+
+[Art of the Quiet Interface](//webstandardssherpa.com/reviews/art-of-the-quiet-interface/), Web Standards Sherpa
+
+[Space to Breathe](//contentsmagazine.com/articles/space-to-breathe/), *Contents* Magazine
+
+[A Year of Ideas](//the-pastry-box-project.net/baker/nicole-fenton/), The Pastry Box Project
+
+[Wayfinding: Writing for Accessibility](//webstandardssherpa.com/reviews/wayfinding-writing-for-accessibility/), Web Standards Sherpa
+
+[Dear Web](//www.offscreenmag.com/issue5/), *Offscreen* Magazine
+
+[Content Strategy in the Fortune 500](//visitmix.com/writings/content-strategy-in-the-fortune-500), MIX Online
+
+----
+
+Text: 

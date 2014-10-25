@@ -1,0 +1,25 @@
+
+/* Links
+-------------------------------------------------- */
+a {
+  transition: background 0.3s $easing-default, border 0.3s $easing-default;
+  text-decoration: none;
+  color: #000000;
+}
+a:hover,
+a:active {
+  transition: background 0.3s $easing-default, border 0.3s $easing-default;
+  color: #111111;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a {
+  color: inherit;
+  border: none;
+}
+p a {
+  position: relative;
+  margin: -0.125em -0.05em;
+  padding: 0.125em 0.05em;
+}

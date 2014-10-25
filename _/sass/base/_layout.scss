@@ -1,0 +1,36 @@
+/* Layout
+-------------------------------------------------- */
+
+$border-width: 2rem;
+$border-width-negative: -1 * $border-width;
+
+.body-wrap {
+  // position: relative;
+  min-height: 100vh;
+  @include display(flex);
+  @include flex-direction(column);
+  margin: $border-width-negative auto $border-width-negative auto;
+}
+.header,
+.main {
+  position: relative;
+  width: 100%;
+  height: auto;
+
+  @include center;
+}
+.main {
+  max-width: $page-max-width;
+
+  @include flex(1);
+  -ms-flex-preferred-size: auto;
+  @include media(not-large) {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+.footer {
+  margin-bottom: $border-width;
+}
+
+@import 'base/background';

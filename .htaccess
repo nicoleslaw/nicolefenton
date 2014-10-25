@@ -1,0 +1,98 @@
+################################
+### //nicolefenton.com/.htaccess
+################################
+
+################# REDIRECT LINKS (and Kirby)
+
+<IfModule mod_rewrite.c>
+
+	RewriteEngine on
+	RewriteBase /
+
+	#############
+	### Redirects
+
+	RewriteRule ^build-2013/?$ /writing-for-beginners/ [R=301,NC,L]
+	RewriteRule ^services/?$ /what-i-do/ [R=301,NC,L]
+	RewriteRule ^work/?$ /projects/ [R=301,NC,L]
+
+
+	############
+	### Security
+
+	# block text files in the content folder from being accessed directly
+	RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
+
+	# block all files in the site folder from being accessed directly
+	RewriteRule ^site/(.*) error [R=301,L]
+
+	# block all files in the kirby folder from being accessed directly
+	RewriteRule ^kirby/(.*) error [R=301,L]
+
+	#############
+	### The Panel
+
+	# make panel links work
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^panel/(.*) panel/index.php [L]
+
+	####################
+	### Kirby Site Pages
+
+	# make site links work
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.*) index.php [L]
+
+</IfModule>
+
+################# PERFORMANCE
+
+<IfModule deflate_module>
+	<IfModule filter_module>
+		AddOutputFilterByType DEFLATE text/plain text/html text/text
+		AddOutputFilterByType DEFLATE text/xml application/xml application/xhtml+xml application/xml-dtd
+		AddOutputFilterByType DEFLATE application/rdf+xml application/rss+xml application/atom+xml image/svg+xml
+		AddOutputFilterByType DEFLATE text/css
+		AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
+		AddOutputFilterByType DEFLATE font/otf font/opentype application/font-otf application/x-font-otf
+		AddOutputFilterByType DEFLATE font/ttf font/truetype application/font-ttf application/x-font-ttf
+		AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+	</IfModule>
+</IfModule>
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+	ExpiresActive On
+  ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+  ExpiresByType application/x-font-ttf    "access plus 2 months"
+  ExpiresByType application/x-font-woff   "access plus 2 months"
+  ExpiresByType font/opentype             "access plus 2 months"
+  # ExpiresByType image/svg+xml             "access plus 2 months"
+	ExpiresDefault "access 2 minutes"
+</IfModule>
+## EXPIRES CACHING ##
+
+Header set Cache-Control "max-age=290304000, public"
+
+
+################# COMPATIBILITY
+
+AddDefaultCharset UTF-8
+
+
+################# php.ini
+
+php_flag short_open_tag on
+php_value upload_max_filesize 2M
+
+
+################# DEVELOPMENT ONLY
+
+# AuthUserFile .htpasswd
+# AuthType Basic
+# AuthName "nicole"
+# Require valid-user
+
+php_flag display_errors on

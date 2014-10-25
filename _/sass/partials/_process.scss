@@ -1,0 +1,29 @@
+// Projects: Manifesto
+
+.process {
+  background: transparent url('/_/images/dec/bg-process.svg') no-repeat;
+  background-position: top center;
+  margin-bottom: 0.875rem;
+  &,
+  h3 {
+    line-height: (28/16);
+    text-align: center;
+
+    @extend %font-serif;
+    @include font-size(16);
+  }
+  h3 {
+    // font-style: normal;
+    display: block;
+    max-width: 40em;
+    text-transform: uppercase;
+
+    @include center;
+  }
+  p {
+    font-style: italic;
+    max-width: 36em;
+
+    @include center;
+  }
+}

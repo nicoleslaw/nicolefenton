@@ -1,0 +1,98 @@
+// Project: Figcaption
+
+.page-template--project figcaption,
+.page-template--project .figcaption {
+  margin-top: 1rem;
+
+  @extend %font-sans-italic;
+  @include red-box($style: italic);
+}
+
+// Project: Text
+
+.project-text {
+  h1 {
+    @include article-header;
+  }
+  h2 {
+    font-style: italic;
+    line-height: (28/21);
+    margin-bottom: 0.9em;
+
+    @include font-size(21);
+  }
+  p {
+    line-height: (28/16);
+
+    @include font-size(17.6);
+  }
+}
+
+// Project: Services
+
+.project-services {
+  // @include center;
+  text-align: center;
+  &,
+  a {
+    @include aside-list;
+  }
+  h2 {
+    @include aside-list-header;
+  }
+}
+
+// Projects
+
+.project-text {
+  max-width: $body-wrap-width;
+  margin-top: 0;
+
+  @include center;
+  .meta {
+    @include display(flex);
+    @include flex-direction(column);
+    margin-top: 5.2rem;
+    text-align: center;
+    &,
+    a,
+    time {
+      color: $c-brown;
+
+      @include aside-list;
+    }
+    h2,
+    b {
+      @include aside-list-header;
+    }
+    & > div {
+      // margin-bottom: 2.2rem;
+      @include flex(1);
+    }
+  }
+}
+
+// Project: Screenshots
+
+.project-screen,
+body.page-template--project figure {
+  max-width: 90%;
+  margin-top: 3.75rem;
+
+  @include center;
+}
+
+
+// Projects: Lede
+
+.page-template--project .lede {
+  @include content-body-lede;
+}
+
+.lede,
+.page-template--what-i-do .lede {
+  @include font-size(16);
+  a {
+    padding-bottom: 0.025em;
+  }
+}

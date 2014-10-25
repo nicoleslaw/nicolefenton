@@ -1,0 +1,42 @@
+// _reading-list.scss
+// PAGE SPECIFIC: Home
+// http://nicolefenton.com
+
+.making-list,
+.reading-list {
+  text-align: center;
+  .list-section-title {
+    margin-bottom: 1em;
+    text-align: center;
+    letter-spacing: 0.3em;
+
+    @include font-size(14);
+    &:after {
+      content: '';
+    }
+  }
+  li {
+    @include font-size(14);
+    display: block;
+    &:before {
+      padding: 0 0.25em;
+    }
+  }
+  a {
+    text-transform: uppercase;
+    border-bottom-color: $c-teal;
+
+    @include font-size(14);
+    &:hover {
+      border-bottom-color: inherit;
+    }
+  }
+}
+
+.making-list:before {
+  display: block;
+  margin-right: 65%;
+  content: ' • ';
+  content: url('/_/images/dec/circle.svg');
+  text-align: center;
+}

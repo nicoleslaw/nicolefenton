@@ -1,0 +1,40 @@
+// waysofbeing.scss
+
+.waysofbeing {
+  display: inline;
+  margin: 0 !important;
+  padding: 0;
+  list-style: none;
+  span {
+    display: inline;
+    cursor: pointer;
+  }
+  .hidden {
+    display: none;
+  }
+  .is-active {
+    font-style: normal;
+    display: inline;
+    transition: background 0.3s $easing-default, border 0.3s $easing-default;
+    color: $c-purple;
+    &:hover {
+      color: $c-teal;
+      &:before,
+      &:after {
+        color: $c-purple;
+      }
+    }
+    &:before {
+      content: '{';
+    }
+    &:after {
+      content: '}';
+    }
+    &:before,
+    &:after {
+      font-size: 89%;
+      color: $c-teal;
+      opacity: 0.75;
+    }
+  }
+}

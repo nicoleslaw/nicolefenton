@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url("/_/fonts/TiemposTextWeb-Regular.eot");
+  src: url("/_/fonts/TiemposTextWeb-Regular.eot?") format("embedded-opentype"), url("/_/fonts/TiemposTextWeb-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url("/_/fonts/TiemposTextWeb-RegularItalic.eot");
+  src: url("/_/fonts/TiemposTextWeb-RegularItalic.eot?") format("embedded-opentype"), url("/_/fonts/TiemposTextWeb-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic; }
+/* Site
+-------------------------------------------------- */
+body {
+  font-size: 1.1em;
+  line-height: 1.5em;
+  position: relative;
+  min-width: 320px;
+  max-width: 50em;
+  max-width: none;
+  margin: 0 auto;
+  padding: 1.5em;
+  padding: 0;
+  color: #222222;
+  border: 30px solid #ffffff;
+  background-color: #f8f7f3; }
+  @media screen and (max-width: 600px) {
+    body {
+      border-width: 20px 0; } }
+
+.page-template--writing {
+  border-color: #f8f7f3;
+  background-color: #ffffff; }

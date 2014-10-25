@@ -1,0 +1,63 @@
+Title: What I Do
+
+----
+
+Text:
+
+----
+
+Lede:
+
+I can help you define your goals, improve your editorial process, and earn trust from readers.
+
+----
+
+Services:
+
+### Creative Direction ###
+* Advising
+* Project Definition
+* Naming and Concepts
+* Analysis and Positioning
+
+### User Experience ###
+* Research
+* Interface Audits
+* Information Architecture
+* Content Strategy
+
+### Editorial Experience ###
+* Communication Planning
+* Editorial Workflow
+* Brand and Style Guides
+* Voice and Tone
+
+### Editing ###
+* Coaching for Writers
+* Workshops and Training
+* Developmental Editing
+* Copyediting
+
+----
+
+Process: 
+
+### I listen and ask questions. ###
+
+I’m curious about people, their needs, their goals, and their feelings. I ask “Why?” and “What does this mean?” I aim for clarity, not cleverness.
+
+### I collaborate and share what I know. ###
+
+I believe in figuring things out together. I think out loud and on paper. I give honest feedback and workshop ideas with designers, developers, writers, and product leads.
+
+### I work in waves. ###
+
+I start with the assumption that things will change. I fiddle and chip away at the problem. I sketch, draft, reflect, and revise. I write iteratively and teach others to do the same.
+
+### I think about systems and focus on details. ###
+
+I balance business priorities with user needs. I put people over politics, connect different teams, and make the creative process work for you.
+
+### I design with words. ###
+
+I plan, write, edit, and design interfaces. I develop forms and flows and organize complicated bits of information. I put your readers first and decoration last.

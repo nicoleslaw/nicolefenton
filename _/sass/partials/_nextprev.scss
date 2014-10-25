@@ -1,0 +1,20 @@
+
+/* Next/Prev nav
+-------------------------------------------------- */
+.nextprev {
+  padding: 1em 0;
+  clear: both;
+}
+.nextprev a {
+  border: 0;
+  color: $c-teal;
+}
+.nextprev a:hover {
+	color: $c-purple;
+}
+.nextprev .prev {
+  float: left;
+}
+.nextprev .next {
+  float: right;
+}

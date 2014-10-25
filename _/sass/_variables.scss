@@ -1,0 +1,108 @@
+/////////////////////////////////////////////////////
+// LAYOUT
+/////////////////////////////////////////////////////
+
+$rem-in-px: 16;
+
+$border-width: 2rem;
+$border-width-negative: -1 * $border-width;
+
+/////////////////////////////////////////////////////
+// RESPONSIVE LAYOUT
+/////////////////////////////////////////////////////
+
+$tall-height: "min-height: 45rem";
+
+$breakpoint-mobile: 600px;
+$breakpoint-mobile-plus-1: $breakpoint-mobile + 1;
+
+$page-max-width: 960px;
+$page-max-width-plus-1: $page-max-width + 1;
+
+$breakpoint-large: $page-max-width + 6 * $rem-in-px;
+
+$header-max-width: $page-max-width;
+$body-wrap-width: 33rem;
+$body-wrap-width-article: 34rem;
+
+$mobile-only: screen and (max-width: $breakpoint-mobile);
+$not-mobile: screen and (min-width: ($breakpoint-mobile + 2));
+
+@mixin media($media) {
+  @if $media == mobile-only {
+    @media screen and (max-width: $breakpoint-mobile) { @content; }
+  }
+  @else if $media == not-mobile {
+    @media screen and (min-width: $breakpoint-mobile-plus-1) { @content; }
+  }
+  @else if $media == wide-screens {
+    @media screen and (min-width: $page-max-width-plus-1) { @content; }
+  }
+  @else if $media == not-large {
+    @media screen and (max-width: $breakpoint-large) { @content; }
+  } @else {
+    @media screen and #{$media} { @content; }
+  }
+}
+
+/////////////////////////////////////////////////////
+// COLORS
+/////////////////////////////////////////////////////
+
+// COLORS BY NAME
+$c-brown: #b4800f;
+$c-brown-light: #e3a113;
+$c-red: #f84816;
+$c-red-light: #f96237;
+$c-grey-light: #dddddd;
+$c-black: #111111;
+$c-paper: #f8f7f3;
+$c-f8f7f3: $c-paper;
+$c-salmon: #f4c3b4;
+$c-teal: #2c9eef;
+$c-teal-light: #9bd1f7;
+$c-purple: #1b1464;
+$c-grey-e4e4e4: #e4e4e4;
+
+// COLORS BY USE
+$c-page-bg: $c-paper;
+$c-colophon-bg: $c-salmon;
+$c-pubdate: $c-teal;
+$c-linklist-bg: $c-grey-e4e4e4;
+$c-column-rule: $c-salmon;
+
+/////////////////////////////////////////////////////
+// FONTS
+/////////////////////////////////////////////////////
+
+// @import "fonts/apercu";
+// div { font-family:"Apercu Regular", Calibri, sans-serif; font-size-adjust:0.508; font-weight:normal; font-style:normal; }
+// div { font-family:"Apercu Italic", Calibri, sans-serif; font-size-adjust:0.508; font-weight:normal; font-style:italic; }
+
+@import "fonts/tiempos";
+
+$f-serif: 'Tiempos Text', 'Tiempos', Garamond, Baskerville, 'Times New Roman', serif;
+
+$f-sans: 'Arial Narrow', Arial, sans-serif;
+$f-sans-regular: $f-sans;
+$f-sans-italic: $f-sans;
+
+$f-sans: 'Apercu Regular', 'Apercu', 'Arial Narrow', Arial, sans-serif;
+$f-sans-regular: $f-sans;
+$f-sans-italic: 'Apercu Italic', $f-sans;
+
+
+/////////////////////////////////////////////////////
+// TYPOGRAPHY
+/////////////////////////////////////////////////////
+
+$content-line-height: (26/17);
+
+/////////////////////////////////////////////////////
+// ANIMATIONS
+/////////////////////////////////////////////////////
+
+$easeOutCubic: cubic-bezier(0.215, 0.61, 0.355, 1);
+$easeOutQuint: cubic-bezier(0.23, 1, 0.32, 1);
+$easeInOutCirc: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+$easing-default: $easeOutCubic;

@@ -1,0 +1,54 @@
+Title: Safari Books Online
+
+----
+
+Year: 2013–2014
+
+----
+
+Tags: digital products, strategy, research, writing, editing, creative direction, information architecture
+
+----
+
+Site: http://safaribooksonline.com
+
+----
+
+Company: Safari
+
+----
+
+Services:
+
+- Creative Direction
+- Strategy
+- Information Architecture
+- Writing and Editing
+
+----
+
+Project Lede:
+
+Over the past two years, I helped Safari improve their digital reading service by contributing to its design, writing, style, strategy, and architecture.
+
+----
+
+Lede:
+
+[Safari](http://safaribooksonline.com) is a digital library and learning service for web professionals.
+
+----
+
+Text:
+
+In 2013, [Frank Chimero](http://ofanother.com) and I collaborated on the design, branding, and communications for Safari Flow. I helped with product definition, naming, and content strategy. I wrote the interface and marketing copy and developed a brief communications style guide.
+
+Flow went on to become Safari’s core product. In the spring of 2014, Safari invited me to continue my work with their corporate rebranding. I helped them with a little bit of everything from product strategy and copyediting to wireframing new features and reworking the onboarding flow. I also continued my voice and tone work by developing a beefier version of a style guide within their new brand standards.
+
+----
+
+Testimonial:
+
+> “Nicole has been a vital contributor to Safari’s relaunch and rebrand. As well as keeping us clear and honest in the way we communicate, her contribution to product and design decisions, and our company culture has been invaluable. I recommend you work with her—although if you just see her as a writer, you’ll be losing out.”
+
+### Peter Collingridge, VP of Product

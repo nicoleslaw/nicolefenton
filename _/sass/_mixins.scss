@@ -1,0 +1,150 @@
+/////////////////////////////////////////////
+// MIXINS
+/////////////////////////////////////////////
+
+/////////////////////////////////////////////
+// UTILITIES ////////////////////////////////
+
+// Mixin: Image replacement
+
+%kellumreplace {
+  overflow: hidden;
+  white-space: nowrap;
+  text-indent: 200%;
+}
+
+// Mixin: anti-alias text
+
+@mixin alias (
+  $style: 'antialias'
+) {
+  @if $style == 'normal' {
+    -webkit-font-smoothing: subpixel-antialiased;
+  } @else {
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+// Mixin: font sizing in both rems and px
+
+@mixin font-size (
+  $sizeValue: 16
+) {
+  font-size: $sizeValue + px;
+  font-size: ($sizeValue / 16) + rem;
+}
+
+/////////////////////////////////////////////
+// LAYOUT STYLES  ///////////////////////////
+
+// Mixin: center with margins
+
+@mixin center {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+// Mixin: red box
+
+@mixin red-box (
+  $height: auto,
+  $width: auto,
+  $padding: 1rem,
+  $color: $c-red,
+  $style: normal
+) {
+  line-height: (21/15);
+  padding: $padding;
+  color: $color;
+  border: 1px solid $color;
+
+  @include font-size(15);
+  @if $style == 'italic' {
+    @extend %font-sans-italic;
+  } @else {
+    @extend %font-sans;
+  }
+}
+
+// Mixin: uppercase brown list
+
+@mixin aside-list {
+  line-height: (24/15);
+  // text-transform: uppercase;
+  // color: $c-brown;
+  border-bottom-color: transparent;
+
+  @extend %font-sans;
+  @include font-size(15);
+}
+@mixin aside-list-header {
+  font-style: normal;
+  display: block;
+  margin-bottom: 8px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $c-black;
+
+  @extend %font-sans;
+  @include font-size(16);
+}
+
+// Lede text that is in the body
+@mixin content-body-lede {
+  line-height: (24/18);
+  position: static;
+  float: none;
+  max-width: none;
+  margin-bottom: 2rem;
+
+  @include font-size(18);
+}
+
+// Lists on /projects and /writing
+@mixin featured-excerpts {
+  line-height: (20/16);
+
+  @include font-size(16);
+}
+@mixin featured-excerpts-header {
+  // font-style: italic;
+  line-height: (28/21);
+  margin-bottom: 0.33em;
+  letter-spacing: -0.0125em;
+
+  @include font-size(21);
+}
+
+@mixin section-header {
+  font-style: normal !important;
+  display: block;
+  margin-bottom: 4.2rem;
+  text-align: center;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  pointer-events: none;
+  color: $c-black;
+
+  @extend %font-serif;
+  @include font-size(18);
+}
+
+@mixin article-header {
+  line-height: (42/36);
+  padding-top: 7rem;
+  text-align: center;
+  background: transparent none no-repeat top center;
+
+  @include font-size(36);
+  &:after {
+    display: block;
+    clear: both;
+    height: 3.6875rem;
+    margin-top: -0.25rem;
+    margin-bottom: 0.25rem;
+    // content: '—';
+    // content: url("/_/images/dec/line-article-h1.svg");
+    content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIzMi4zOTZweCIgaGVpZ2h0PSIyLjM3NXB4IiB2aWV3Qm94PSIwIDAgMzIuMzk2IDIuMzc1IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMi4zOTYgMi4zNzUiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9IiMwMTAxMDEiIGQ9Ik0zMi4zOTYsMi4zNzVIMFYwaDMyLjM5NlYyLjM3NXoiLz48L2c+PC9zdmc+);
+  }
+}
+// ---------------------------------------------------------------

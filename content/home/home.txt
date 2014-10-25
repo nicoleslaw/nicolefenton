@@ -1,0 +1,37 @@
+Title: Welcome
+
+
+----
+
+Home Bio:
+
+Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || information architect || teacher || publishing specialist || occasional speaker || extrovert for pay || professional daydreamer || typical Gemini || amateur photographer || curious home cook || tea drinker || occasional surfer }}. She hosts workshops and works with {{ nice people || startups, nonprofits, and authors || designers, developers, writers, and small businesses }} on {{ websites || digital products || content || books, interfaces, }} and publishing projects.
+
+----
+
+Text:
+
+----
+
+Making:
+
+* [Honest Marketing Workshop](http://nearlyimpossible.org/conference/nyc/ "a workshop and essay for Nearly Impossible attendees")
+* [Iterative Writing](http://github.com/nicoleslaw/iterative-writing "an open source experiment")
+* [Redacted](# "a secret thing with Bernard Yu")
+
+----
+
+Reading:
+
+* [The Gone-Away World](http://www.nickharkaway.com/books/the-gone-away-world/ "by Nick Harkaway")
+* [Designing the Editorial Experience](http://editorialexperience.com "by Sue Apfelbaum and Juliette Cezzar")
+* [What We See When We Read](http://www.amazon.com/What-When-Read-Vintage-Original/dp/0804171637/ref=sr_1_2?ie=UTF8&qid=1398091354&sr=8-2&keywords=mendelsund "by Peter Mendelsund")
+
+
+----
+
+Testimonial:
+
+> “To improve reality is to clearly see where you are, and then wonder how to make that better.”
+
+— Warren Ellis, How to See the Future

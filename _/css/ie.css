@@ -1,0 +1,22 @@
+.lede,
+.menu {
+  position: relative !important;
+  margin-bottom: 48px; }
+
+h3 {
+  margin-top: 32px; }
+
+body {
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 2.5%; }
+
+.decoration img {
+  margin-top: 32px;
+  margin-bottom: 32px; }
+
+.footer_wrap,
+.aside_list {
+  float: left;
+  margin-top: 32px;
+  clear: left; }

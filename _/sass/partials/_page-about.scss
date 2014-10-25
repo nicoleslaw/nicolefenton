@@ -1,0 +1,68 @@
+// _page-about.scss
+// PAGE SPECIFIC: About
+// nicolefenton.com/about
+
+.page-template--about {
+  .content {
+    max-width: 30em;
+
+    @include center;
+  }
+}
+
+.aside-columns {
+  @include media(not-mobile) {
+    @include align-items(middle);
+    @include display(flex);
+  }
+  section {
+    display: block;
+    padding: 0 1.5em;
+    text-align: left;
+    white-space: normal;
+    margin-bottom: 3em;
+
+    @include media(not-mobile) {
+      display: inline-block;
+      border-right: 3px solid $c-column-rule;
+      margin-bottom: 0;
+
+      @include flex(1);
+    }
+    // @include display(flex);
+    &:last-of-type {
+      border-right: none;
+    }
+  }
+  h2 {
+    @include aside-list-header;
+  }
+  li {
+    white-space: normal;
+  }
+}
+
+.about--ps {
+  line-height: (24/15);
+  margin-bottom: 3rem;
+  text-align: center;
+  letter-spacing: 0;
+
+  @include align-items(top);
+  @extend %font-sans-italic;
+  @include font-size(15);
+  section {
+    min-width: 30%;
+    text-align: center;
+    white-space: nowrap;
+  }
+  a {
+    color: $c-brown;
+
+    @include aside-list;
+    // border-color: $c-brown;
+  }
+  ul {
+    margin-bottom: (0.618em);
+  }
+}

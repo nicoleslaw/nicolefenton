@@ -1,0 +1,53 @@
+Title: Speaking
+
+----
+
+Lede: I give talks and run workshops about writing, design, digital products, and editorial strategy.
+
+----
+
+Upcoming Events:
+
+## Upcoming Events ## {.list-section-title}
+
+### [Nearly Impossible](http://nearlyimpossible.org/conference/nyc/) ###
+Honest Marketing Workshop
+New York, October 30
+
+### [Confab Higher Ed](http://confabevents.com/events/higher-ed) ###
+Web Writing Workshop with Kate Kiefer Lee  
+Atlanta, November 12–14
+
+### [Triangle UXPA](http://triuxpa.org/events) ###
+Interface Writing Workshop
+Raleigh, TBA
+
+----
+
+Past Events:
+
+## Past Events ## {.list-section-title}
+
+### [Blend Conference](http://www.blendconf.com) ###
+Charlotte, September 2014
+[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/writing/interface-writing/)
+
+### [Burlington Ruby Conference](http://burlingtonrubyconference.com) ###
+Burlington, August 2014
+[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/writing/interface-writing/), [Video](http://vimeo.com/103526258)
+
+### [General Assembly](http://generalassemb.ly) ###
+New York, February and June 2014
+[Slides](https://speakerdeck.com/nicoleslaw/designing-with-words)
+
+### [Build Conference](http://2013.buildconf.com) ###
+Belfast, November 2013
+[Slides](https://speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing/writing-for-beginners/)
+
+### [Confab London](http://confabevents.com/past-events/london-2013/index.html) ###
+London, March 2013
+[Slides](https://speakerdeck.com/nicoleslaw/winning-tactics), [Transcript](/writing/winning-tactics)
+
+### [Content Strategy Forum](http://2011.csforum.eu) ###
+London, September 2011
+[Slides](https://speakerdeck.com/nicoleslaw/the-intentional-strategist), [Transcript](http://www.swellcontent.com/2011/10/being-intentional/)

@@ -1,0 +1,20 @@
+// PAGE: Speaking
+// _page-speaking.scss
+
+/////////////////////////////////////////////
+
+.speaking-events {
+  max-width: $body-wrap-width;
+
+  @include center;
+  @include featured-excerpts;
+  // margin-bottom: 1rem;
+  &,
+  p {
+    @extend %font-serif;
+  }
+}
+
+.upcoming-events {
+	margin-bottom: 0;
+}

@@ -1,0 +1,42 @@
+
+/* Header
+-------------------------------------------------- */
+
+.header {
+  width: 100%;
+  max-width: $header-max-width;
+  // border-bottom: 2px solid red;
+  margin: 2rem auto 0 auto;
+  @include media(not-large) {
+    width: auto;
+    max-width: none;
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
+.logo {
+  display: inline-block;
+  margin-top: 2.7rem;
+  margin-bottom: 1.5rem;
+  margin-left: 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-bottom: 2px solid $c-black;
+
+  @extend %font-sans;
+  @include font-size(17);
+  @include media(mobile-only) {
+    margin-top: 4.7rem;
+  }
+  @include media("(max-width: 400px)") {
+    margin-top: 6.7rem;
+  }
+}
+.logo:hover,
+.logo:focus {
+  border-bottom: 2px solid $c-red;
+}
+
+.logo img {
+  width: 2em;
+}

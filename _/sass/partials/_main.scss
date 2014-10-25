@@ -1,0 +1,41 @@
+/* Main
+-------------------------------------------------- */
+
+figure,
+.content li {
+  @include font-size(18);
+}
+
+.main {
+  padding-bottom: 1.5em;
+
+  @extend %font-serif;
+  p,
+  figure,
+  ul,
+  ol {
+    margin-bottom: 1.6em;
+  }
+  hr {
+    height: 2px;
+    margin: 3em 0;
+    background: $c-grey-light;
+  }
+  a {
+    border-bottom: 2px solid $c-grey-light;
+  }
+  a:hover {
+    border-color: $c-purple;
+  }
+}
+
+.content {
+  padding-top: 5.8rem;
+
+  @include media(mobile-only) {
+    padding-top: 0.618rem;
+  }
+  @include media(not-large) {
+    clear: left;
+  }
+}

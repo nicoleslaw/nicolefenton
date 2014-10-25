@@ -1,0 +1,87 @@
+// PAGE: Writing List
+// _page-writing.scss
+
+/////////////////////////////////////////////
+
+// MODULES
+
+.writing-archives {
+  width: $body-wrap-width;
+  max-width: 100%;
+  padding-bottom: 3rem;
+  color: $c-brown;
+
+  @include center;
+  @include clearfix;
+  li {
+    margin-bottom: 0.15em;
+  }
+  .aside-list {
+    line-height: (20/16);
+    float: left;
+    width: 50%;
+    padding: 0 0 0 2em;
+    text-align: left;
+
+    @extend %font-sans;
+    @include font-size(16);
+    @include media('(max-width: #{$body-wrap-width})') {
+      display: block;
+      float: none;
+      width: 100%;
+      padding-left: 0;
+
+      @include center;
+    }
+    &:first-child {
+      padding-left: 0;
+    }
+    a {
+      color: $c-brown;
+      border-bottom-color: transparent;
+      // border-color: $c-grey-light;
+    }
+    a:hover {
+      border-bottom-color: $c-black;
+    }
+  }
+}
+
+.writing-elsewhere {
+  margin: 4rem auto;
+  padding: 2.5rem 3rem;
+
+  @include clearfix;
+  @include red-box($padding: 2.5rem 3rem);
+  @include media('(max-width: 720px)') {
+    padding: 2.5rem 1.5rem;
+  }
+  .wrapper {
+    max-width: $body-wrap-width;
+
+    @include center;
+  }
+  &,
+  a,
+  p {
+    line-height: (28/16);
+    color: $c-red;
+    border-color: $c-red;
+
+    @extend %font-sans;
+    @include font-size(16);
+  }
+  p {
+    margin: 0 0 0.2em 0;
+  }
+  h2 {
+    margin-bottom: 2rem;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    @extend %font-sans;
+    @include font-size(17);
+    @include center;
+  }
+}

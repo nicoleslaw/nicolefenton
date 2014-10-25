@@ -1,0 +1,44 @@
+// Figures
+
+.article-text,
+.main {
+  figure {
+    margin: 3.5rem auto;
+    text-align: center;
+    img {
+      display: block;
+      text-align: center;
+
+      @include center;
+    }
+  }
+  figure + figure {
+    margin-top: 0;
+  }
+  h2 + figure {
+    margin-top: 0;
+  }
+}
+
+/*
+.article-text figure:first-of-type:after {
+  position: absolute;
+  z-index: 200;
+  right: 5%;
+  content: url("/_/images/dec/circle-figure-over.svg");
+  opacity: 0.25;
+}
+*/
+
+figure.decoration {
+  text-align: center;
+  @include center;
+  img {
+
+  }
+}
+
+figure.decoration.more-margin {
+  margin-top: 5.625rem;
+  margin-bottom: 5.625rem;
+}
