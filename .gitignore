@@ -17,7 +17,7 @@ _/styleguide/
 /site/accounts/*.php
 /site/cache/*
 *.scssc
-sftp-config.*
+sftp-*
 /assets/fonts/*
 *sublime-*
 /content/old/*
@@ -26,3 +26,4 @@ site/templates/x-*.php
 *.eot
 *.svg
 *.ttf
+sftp-config.*
