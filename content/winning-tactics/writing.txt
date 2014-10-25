@@ -2,21 +2,21 @@ Title: Winning Tactics
 
 ----
 
-Lede: I gave this lightning talk at <a href="//confabevents.com/past-events/london-2013/index.html">Confab London</a> on March 25, 2013, while I worked for Facebook. The name of the talk comes from an internal group where people share ideas that genuinely worked out.
+Lede: I gave this lightning talk at <a href="//confabevents.com/past-events/london-2013/index.html">Confab London</a> in 2013 while I was working for Facebook. The name of the talk comes from an internal group where people share ideas that genuinely worked.
 
 ----
 
 Text:
 
-Hi, I’m Nicole. I run a site called [Swell Content](http://swellcontent.com). I’m also a content strategist at Facebook in New York. I work on timeline, the developer center, and community.
+Hi, I’m Nicole. I’m a content strategist at Facebook in New York.
 
 <figure><img src="/winning-tactics/tactics02.jpg" alt="Facebook New York" /></figure>
 
-I’m on a team of 13 content strategists—and growing!
-
-<figure><img src="/winning-tactics/tactics03.jpg" alt="Facebook Content Strategy" /></figure>
+I work on timeline, the developer center, and community. I’m on a team of 13 content strategists—and growing!
 
 Today, I want to share some things I’ve done to influence people and product decisions in positive ways. We’ll go through them pretty quickly.
+
+<figure><img src="/winning-tactics/tactics03.jpg" alt="Facebook Content Strategy" /></figure>
 
 ### Sit with your team
 
@@ -24,19 +24,19 @@ It might sound obvious or unreasonable, but it’s much easier to get strategic 
 
 ### Extrovert yourself
 
-It can be really tempting to introvert and scheme up grand content plans. Get out of your shell, get off your phone, and get to know people. Your relationships with your coworkers are more important than anything you can put down on paper.
+It can be really tempting to introvert and scheme up grand content plans. Get out of your shell, get off your phone, and get to know people. Your relationships with coworkers are more important than anything you can put down on paper.
 
 <figure><img src="/winning-tactics/tactics04.jpg" alt="Facebook Content Strategy" /></figure>
 
 ### Get your nose in
 
-I just moved to New York to be with my fiancé. He taught me how to change lanes: you have to get your nose in. It may seem slightly aggressive to stick yourself into a conversation, but tiny actions that show you care can help you break through the impossible.
+I just moved to New York to be with my fiancé. He taught me how to change lanes: you have to get your nose in. It may seem aggressive to stick yourself into a conversation, but tiny actions that show you care can help you break through the impossible.
 
 <figure><img src="/winning-tactics/tactics05.jpg" alt="Nose In" /></figure>
 
 ### Lunch > Email
 
-I don’t know about you, but email gives me a headache. It’s faster and easier to get people on your side if you share a meal with them.
+I don’t know about you, but work email gives me a headache. It’s faster and easier to get people on your side if you share a meal with them.
 
 <figure><img src="/winning-tactics/tactics06.jpg" alt="Sandwich" /></figure>
 
@@ -52,7 +52,7 @@ If you’re working on copy, share 3 or more options. People are more likely to 
 
 ### Edit it live
 
-When I worked on the latest timeline redesign, there was some talk about changing “About” to “Overview.” By showing edits during a meeting in context, I was able to convince people that you don’t get an Overview of a person.
+When I worked on the latest timeline redesign, there was some talk about changing “About” to “Overview.” By showing edits in context during a meeting, I was able to convince people that you don’t get an Overview of a person.
 
 <figure><img src="/winning-tactics/tactics08.png" alt="Facebook Timeline — Inspect Element" /></figure>
 
