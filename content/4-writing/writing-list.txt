@@ -22,7 +22,8 @@ Building relationships is a huge part of my work. In this lightning talk, I shar
 
 ----
 
-Business-writing: * [Editing the Past](//www.swellcontent.com/2013/02/editing-the-past/)
+Business-writing: * [Manifesto](/manifesto)
+* [Editing the Past](//www.swellcontent.com/2013/02/editing-the-past/)
 * [Dreaming of Writing in Space](//www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
 * [I Want a World](//www.swellcontent.com/2012/11/i-want-a-world/)
 * [Working in Technology](//www.swellcontent.com/2013/04/working-in-technology/)
