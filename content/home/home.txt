@@ -5,7 +5,7 @@ Title: Welcome
 
 Home Bio:
 
-Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || information architect || publishing specialist || writing coach || occasional speaker || teacher || extrovert for pay || professional daydreamer || typical Gemini || amateur photographer || curious home cook || tea drinker || occasional surfer }}. She hosts workshops and works with {{ nice people || startups, nonprofits, and authors || designers, developers, writers, and small businesses }} on {{ websites || digital products || content || books, interfaces, }} and publishing projects.
+Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || information architect || publishing specialist || writing coach || occasional speaker || teacher || extrovert for pay || professional daydreamer || typical Gemini || amateur photographer || curious home cook || tea drinker || casual surfer }}. She hosts workshops and works with {{ nice people || startups, nonprofits, and authors || designers, developers, writers, and small businesses }} on {{ websites || digital products || content || books, interfaces, }} and publishing projects.
 
 ----
 
