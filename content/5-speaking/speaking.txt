@@ -30,11 +30,11 @@ Past Events:
 
 ### [Blend Conference](http://www.blendconf.com) ###
 Charlotte, September 2014
-[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/writing/interface-writing/)
+[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/)
 
 ### [Burlington Ruby Conference](http://burlingtonrubyconference.com) ###
 Burlington, August 2014
-[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/writing/interface-writing/), [Video](http://vimeo.com/103526258)
+[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/), [Video](http://vimeo.com/103526258)
 
 ### [General Assembly](http://generalassemb.ly) ###
 New York, February and June 2014
@@ -42,11 +42,11 @@ New York, February and June 2014
 
 ### [Build Conference](http://2013.buildconf.com) ###
 Belfast, November 2013
-[Slides](https://speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing/writing-for-beginners/)
+[Slides](https://speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing-for-beginners/)
 
 ### [Confab London](http://confabevents.com/past-events/london-2013/index.html) ###
 London, March 2013
-[Slides](https://speakerdeck.com/nicoleslaw/winning-tactics), [Transcript](/writing/winning-tactics)
+[Slides](https://speakerdeck.com/nicoleslaw/winning-tactics), [Transcript](/winning-tactics)
 
 ### [Content Strategy Forum](http://2011.csforum.eu) ###
 London, September 2011
