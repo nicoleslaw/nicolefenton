@@ -335,28 +335,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_\/images\/Nicole_Fenton-012 3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.05891e+06,
-		"inputAbbreviatedPath": "\/_\/images\/Nicole_Fenton-012 3.jpg",
-		"outputAbbreviatedPath": "\/_\/images\/Nicole_Fenton-012 3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/_\/images\/nicoleslaw.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 32026,
-		"inputAbbreviatedPath": "\/_\/images\/nicoleslaw.jpg",
-		"outputAbbreviatedPath": "\/_\/images\/nicoleslaw.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/_\/images\/portfolio.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -662,7 +640,7 @@
 		"useLibsass": 0
 		},
 	"\/_\/sass\/firstpaint.scss": {
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
@@ -672,8 +650,8 @@
 		"outputAbbreviatedPath": "\/_\/css\/firstpaint.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
@@ -9498,15 +9476,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/site\/snippets\/footer.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/site\/snippets\/header.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/site\/snippets\/header.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

@@ -2,21 +2,21 @@ Title: Winning Tactics
 
 ----
 
-Lede: I gave this lightning talk at <a href="//confabevents.com/past-events/london-2013/index.html">Confab London</a> on March 25, 2013, while I worked for Facebook. The name of the talk comes from an internal group where people share ideas that genuinely worked out.
+Lede: I gave this lightning talk at <a href="//confabevents.com/past-events/london-2013/index.html">Confab London</a> in 2013 while I was working for Facebook. The name of the talk comes from an internal group where people share ideas that genuinely worked.
 
 ----
 
 Text:
 
-Hi, I’m Nicole. I run a site called [Swell Content](http://swellcontent.com). I’m also a content strategist at Facebook in New York. I work on timeline, the developer center, and community.
+Hi, I’m Nicole. I’m a content strategist at Facebook in New York.
 
 <figure><img src="/winning-tactics/tactics02.jpg" alt="Facebook New York" /></figure>
 
-I’m on a team of 13 content strategists—and growing!
+I work on timeline, the developer center, and community. I’m on a team of 13 content strategists—and growing!
+
+I want to share some things I’ve done to influence people and product decisions in positive ways. We’ll go through them pretty quickly.
 
 <figure><img src="/winning-tactics/tactics03.jpg" alt="Facebook Content Strategy" /></figure>
-
-Today, I want to share some things I’ve done to influence people and product decisions in positive ways. We’ll go through them pretty quickly.
 
 ### Sit with your team
 
@@ -24,19 +24,19 @@ It might sound obvious or unreasonable, but it’s much easier to get strategic 
 
 ### Extrovert yourself
 
-It can be really tempting to introvert and scheme up grand content plans. Get out of your shell, get off your phone, and get to know people. Your relationships with your coworkers are more important than anything you can put down on paper.
+It can be really tempting to introvert and scheme up grand content plans. Get out of your shell, get off your phone, and get to know people. Your relationships with coworkers are more important than anything you can put down on paper.
 
 <figure><img src="/winning-tactics/tactics04.jpg" alt="Facebook Content Strategy" /></figure>
 
 ### Get your nose in
 
-I just moved to New York to be with my fiancé. He taught me how to change lanes: you have to get your nose in. It may seem slightly aggressive to stick yourself into a conversation, but tiny actions that show you care can help you break through the impossible.
+I just moved to New York to be with my fiancé. He taught me how to change lanes: you have to get your nose in. It may seem aggressive to stick yourself into a conversation, but tiny actions that show you care can help you break through the impossible.
 
 <figure><img src="/winning-tactics/tactics05.jpg" alt="Nose In" /></figure>
 
 ### Lunch > Email
 
-I don’t know about you, but email gives me a headache. It’s faster and easier to get people on your side if you share a meal with them.
+I don’t know about you, but work email gives me a headache. It’s faster and easier to get people on your side if you share a meal with them.
 
 <figure><img src="/winning-tactics/tactics06.jpg" alt="Sandwich" /></figure>
 
@@ -52,7 +52,7 @@ If you’re working on copy, share 3 or more options. People are more likely to 
 
 ### Edit it live
 
-When I worked on the latest timeline redesign, there was some talk about changing “About” to “Overview.” By showing edits during a meeting in context, I was able to convince people that you don’t get an Overview of a person.
+When I worked on the latest timeline redesign, there was some talk about changing “About” to “Overview.” By showing edits in context during a meeting, I was able to convince people that you don’t get an Overview of a person.
 
 <figure><img src="/winning-tactics/tactics08.png" alt="Facebook Timeline — Inspect Element" /></figure>
 
@@ -60,15 +60,15 @@ You can do this sort of thing in your browser with Inspect Element or in Keynote
 
 ### Test content in pairs
 
-If you’re focusing on growth or conversion, try testing content changes in pairs.
+If you’re working to build a larger audience or encourage them to finish a task, try testing content changes in pairs.
 
 <figure><img src="/winning-tactics/tactics09.png" alt="Facebook Timeline — Profile" /></figure>
 
-This is a very basic example, but if I were trying to get more people to say where they work now, I might change the question to “Where do you work?” and change “Position” to “Title” to see what the effects are.
+This is a very basic example, but if we wanted people to say where they work, I might change the question to “Where do you work?” and change “Position” to “Title” to see how it goes.
 
 ### Trust in people
 
-Again, your relationships with your team and your process are a huge part of your own success.
+Again, your relationships with your team and your process are a huge part of your success.
 
 ### Ask neutral questions
 
@@ -78,13 +78,13 @@ Whatever you’re working on or doing, there’s a history there. Instead of put
 
 ### Pull in some friends
 
-If you’re having trouble convincing someone of something, try pulling in a few colleagues. In my case, I might talk to another content strategist, an engineer, or a designer to convince legal or PM of something.
+If you’re having trouble convincing someone of something, try pulling in a few colleagues. In my case, I might talk to another content strategist, an engineer, or a designer to convince a lawyer or product manager of something.
 
 <figure><img src="/winning-tactics/tactics11.jpg" alt="Facebook Content Strategy" /></figure>
 
 ### Let ideas steep
 
-If you’re like me, you love coming up with new ideas—but timing is everything. If you have a good idea that doesn’t take right away, hang onto it and bring it up later. Most times I let something go, it comes up again later in the quarter.
+If you’re like me, you love coming up with new ideas—but timing is everything. If you have a good idea that doesn’t take right away, hang onto it and bring it up later. Whenever I let something go, it comes up again later in the quarter.
 
 <figure><img src="/winning-tactics/tactics12.jpg" alt="Tea Steeping" /></figure>
 
@@ -94,7 +94,7 @@ When we’re all moving quickly and reacting to things, it can be easy to get fr
 
 ### Apologize quickly
 
-If you say something you don’t mean or make a mistake, sincerely apologize and move on. Cupcakes are helpful here too.
+If you say something you don’t mean or make a mistake, apologize sincerely and move on. Cupcakes are helpful here too.
 
 <figure><img src="/winning-tactics/tactics13.png" alt="Homemade Cupcakes" /></figure>
 
@@ -104,7 +104,7 @@ No matter what mood I’m in, my head gets clearer if I take a walk. Go somewher
 
 <figure><img src="/winning-tactics/tactics14.jpg" alt="My My Metrocard" /></figure>
 
-Thanks, friends!
+That’s it for today. Thanks, friends!
 
 ----
 

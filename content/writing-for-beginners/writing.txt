@@ -10,7 +10,7 @@ I had the honor of speaking at <a href="//2013.buildconf.com">Build 2013</a> in 
 
 Text:
 
-<p>Thank you for having me here, Andy, and for bringing us together. Today I want to talk about writing as a practice — as something beginners do—and how that relates to design.</p>
+<p>Thank you for having me here, Andy, and for bringing us together. Today I want to talk about writing as a practice—as something beginners do—and how that relates to design.</p>
 
 ### Beginner’s mind
 
@@ -18,13 +18,13 @@ Text:
 
 <p>When we’re beginners, we come to things playfully and curiously. We’re open to trying different approaches and making messes to figure things out. And I didn’t know it at the time, but beginner’s mind is a Buddhist concept. The Japanese word for it is <a href="//en.wikipedia.org/wiki/Shoshin">shoshin</a>. It refers to having an attitude of openness, eagerness, and a lack of preconceptions.</p>
 
-<p>Suzuki Roshi talks about this extensively in his book, <a href="//www.amazon.com/gp/product/B004R9QFGS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004R9QFGS&amp;linkCode=as2&amp;tag=swelcont-20">Zen Mind, Beginner’s Mind</a>. He says:</p>
+<p>Suzuki Roshi talks about this extensively in his book, <em><a href="//www.amazon.com/gp/product/B004R9QFGS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004R9QFGS&amp;linkCode=as2&amp;tag=swelcont-20">Zen Mind, Beginner’s Mind</a></em>. He says:</p>
 
 <blockquote>“In the beginner’s mind there are many possibilities, but in the expert’s there are few&#8230; In the beginner’s mind there is no thought, ‘I have attained something.’ When we have no thought of achievement, no thought of self, we are true beginners. Then we can really learn something.”</blockquote>
 
 <p>When we’re writing and designing, it’s our job to be open to possibilities and explore them through our practice. If we approach our work with a beginner’s mind, we can peel away those layers of expertise and see things as they really are.</p>
 
-<p>In <a href="//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1590302613&amp;linkCode=as2&amp;tag=sc0055-20">Writing Down the Bones</a>, Natalie Goldberg says:</p>
+<p>In <em><a href="//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1590302613&amp;linkCode=as2&amp;tag=sc0055-20">Writing Down the Bones</a></em>, Natalie Goldberg says:</p>
 
 <blockquote>“That beginner’s mind is what we must come back to every time we sit down and write. There is no security, no assurance that because we wrote something good two months ago, we will do it again. Actually, every time we begin, we wonder how we ever did it before. Each time is a new journey with no maps.”</blockquote>
 
@@ -162,7 +162,7 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 ### To communicate
 
-<p>Writing and design are both about communicating. The internet is a mass communications platform. And language is our most fundamental technology. Kevin Kelly says just that in his book, <a href="//www.amazon.com/gp/product/B0043EV51W/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0043EV51W&amp;linkCode=as2&amp;tag=swelcont-20">What Technology Wants</a>.</p>
+<p>Writing and design are both about communicating. The internet is a mass communications platform. And language is our most fundamental technology. Kevin Kelly says just that in his book, <em><a href="//www.amazon.com/gp/product/B0043EV51W/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0043EV51W&amp;linkCode=as2&amp;tag=swelcont-20">What Technology Wants</a></em>.</p>
 
 <p>Now, this is a pretty beefy quote, so we’ll chew through it together. He says:</p>
 
@@ -228,7 +228,7 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 <p>So now I start in the middle. I get the most basic thing I know down on the page or the whiteboard, and work my way out, showing my client or my friends, whoever that set of beta readers is for the project, and making it better as I go.</p>
 
-<p>Writing can be a research tool and help you workshop an idea. This is how I cook too — by fumbling along in the right direction. There’s a beautiful book by Tamar Adler, <a href="//www.amazon.com/gp/product/B004T4KX9Q/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004T4KX9Q&amp;linkCode=as2&amp;tag=swelcont-20">An Everlasting Meal</a>. She says:</p>
+<p>Writing can be a research tool and help you workshop an idea. This is how I cook too — by fumbling along in the right direction. There’s a beautiful book by Tamar Adler called <em><a href="//www.amazon.com/gp/product/B004T4KX9Q/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004T4KX9Q&amp;linkCode=as2&amp;tag=swelcont-20">An Everlasting Meal</a></em>. She says:</p>
 
 <blockquote>“Instinct, whether on the ground or in the kitchen, is not a destination but a path. The word instinct comes from a combination of <em>in</em> meaning ‘toward,’ and <em>stinguere</em> meaning ‘to prick.’ It doesn’t mean knowing anything, but pricking your way toward the answer.”</blockquote>
 
@@ -255,7 +255,7 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 ### Write the way you do
 
-<p>The last thing I want to share is that I learned to write the way I do. This phrase comes from <a href="//www.amazon.com/gp/product/0307279413/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307279413&amp;linkCode=as2&amp;tag=sc0055-20">Several Short Sentences About Writing</a> by Verlyn Klinkenborg. I found this book earlier this year, and it’s full of good advice, including things I never thought about. He says:</p>
+<p>The last thing I want to share is that I learned to write the way I do. This phrase comes from <em><a href="//www.amazon.com/gp/product/0307279413/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307279413&amp;linkCode=as2&amp;tag=sc0055-20">Several Short Sentences About Writing</a></em> by Verlyn Klinkenborg. I found this book earlier this year, and it’s full of good advice, including things I never thought about. He says:</p>
 
 <blockquote>“Part of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is&#8230;This is a book full of starting points. Perhaps they’ll help you find enough clarity in your own mind and your own writing to discover what it means to write. I don’t mean ‘write the way I do’ or ‘write the way they do.’ I mean ‘write the way you do.’”</blockquote>
 
