@@ -21,7 +21,6 @@
 
   </div><!-- .body-wrap -->
 
-  <script src="/_/js/vendor/modernizr.custom.js?v=1.0.1" type="text/javascript"></script>
   <?php snippet("jquery") ?>
 
 

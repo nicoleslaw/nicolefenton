@@ -43,16 +43,18 @@
 
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
-  <?php snippet("font-apercu") ?>
 
   <style>
     <?php include($_SERVER['DOCUMENT_ROOT']."/_/css/firstpaint.css"); ?>
   </style>
-  <?php echo css('/_/css/screen.css?v=0.9.3') ?>
+  <?php snippet("font-apercu") ?>
 
-  <!--[if lte IE 8]>
-  <?php echo css('/_/css/ie.css?v=0.1.0') ?>
-  <![endif]-->
+  <script src="/_/js/vendor/modernizr.custom.js?v=1.0.1" type="text/javascript"></script>
+
+  <?php echo css('/_/css/screen.css?v=0.9.4') ?>
+
+  <!--[if lte IE 8]><?php echo css('/_/css/ie.css?v=0.1.0') ?><![endif]-->
+
 </head>
 <body id="body" class="body<?= $nfconfig['pagename'] ? ' page--'.$nfconfig['pagename'] : '' ?> page-dirname--<?php echo $page->dirname() ?> page-id--<?php echo $page->id() ?> page-slug--<?php echo $page->slug() ?> page-template--<?php echo $page->template() ?>">
 
@@ -60,10 +62,7 @@
 
     <header class="header cf">
 
-      <a class="logo" href="<?php echo url() ?>" role="banner">
-        <?php echo $site->title()->html() ?>
-        <!-- <img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php if( $site->title() ) { echo $site->title()->html(); } ?>" /> -->
-      </a>
+      <a class="logo" href="<?php echo url() ?>" role="banner"><?php echo $site->title()->html() ?></a>
       <?php snippet('menu') ?>
 
     </header>
