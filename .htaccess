@@ -30,20 +30,28 @@
 	RewriteRule ^kirby/(.*) error [R=301,L]
 
 	#############
-	### The Panel
+	### Real Files
+	## if this is an existing folder/file then leave
+	RewriteCond %{REQUEST_FILENAME} -d [OR]
+	RewriteCond %{REQUEST_FILENAME} -f
+	RewriteRule . - [L]
 
-	# make panel links work
+	#############
+	### Trailing Slashes
+	## if no trailing slash then redirect to url with trailing slash
+	RewriteRule ^/?(.+)([^/])$ $1$2/ [R=301,L]
+
+	#############
+	### The Panel
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} !-d
 	RewriteRule ^panel/(.*) panel/index.php [L]
 
 	####################
 	### Kirby Site Pages
-
-	# make site links work
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} !-d
-	RewriteRule ^(.*) index.php [L]
+	RewriteRule ^(.*)/? index.php [L]
 
 </IfModule>
 
