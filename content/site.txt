@@ -6,10 +6,6 @@ About: Nicole Fenton is an independent editor, strategist, and interface writer.
 
 ----
 
-Keywords: 
-
-----
-
 Author: Nicole Fenton | http://nicolefenton.com
 
 ----
@@ -24,8 +20,8 @@ Twitter: @nicoleslaw
 
 Address: *For new project inquiries or mentoring, please email (email: nicole@nicolefenton.com).*
 
-10 Jay Street #606
-Brooklyn, NY 11201
+*By Appointment*
++1 (415) 312-2525
 
 ----
 
@@ -40,6 +36,7 @@ Googleauthor:
 Clients: ## Recent Clients ## {.list-section-title}
 
 - A BOOK APART
+- ABOUTLIFE
 - CHROMA
 - EDITORIALLY
 - ENOUGH PEPPER
