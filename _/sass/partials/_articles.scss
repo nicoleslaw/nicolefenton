@@ -99,7 +99,7 @@
     margin-bottom: 1em;
 
     @extend %font-sans;
-  }
+  }.css
   h3 {
     @include font-size(24);
   }
@@ -110,7 +110,7 @@
     margin-top: 3rem;
   }
   blockquote {
-    font-size: 94%;
+    // font-size: 94%;
     font-style: italic;
     margin-top: 0.618em;
     margin-bottom: 1.618em;
