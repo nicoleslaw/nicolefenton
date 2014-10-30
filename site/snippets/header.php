@@ -16,9 +16,9 @@
 
   <script src="/_/js/vendor/modernizr.custom.js?v=1.0.1" type="text/javascript"></script>
 
-  <?php echo css('/_/css/screen.css?v=0.9.4') ?>
+  <?php echo css('/_/css/screen.css?v=1.0.5') ?>
 
-  <!--[if lte IE 8]><?php echo css('/_/css/ie.css?v=0.1.0') ?><![endif]-->
+  <!--[if lte IE 8]><?php echo css('/_/css/ie.css?v=1.0.1') ?><![endif]-->
 
 </head>
 <body id="body" class="body page-id--<?php echo $page->id() ?> page-slug--<?php echo $page->slug() ?> page-template--<?php echo $page->template() ?>">

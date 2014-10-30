@@ -92,14 +92,18 @@
   h1 {
     @include article-header;
   }
-  h3 {
-    font-weight: bold;
+  h3, h4 {
     font-weight: 400;
     line-height: (36/20);
     margin-top: 3em;
     margin-bottom: 1em;
 
     @extend %font-sans;
+  }
+  h3 {
+    @include font-size(24);
+  }
+  h4 {
     @include font-size(20);
   }
   section + footer {

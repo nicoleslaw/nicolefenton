@@ -56,7 +56,7 @@ p a { position: relative; margin: -0.125em -0.05em; padding: 0.125em 0.05em; }
 -------------------------------------------------- */
 .main, .article-text, .list-section-title, .list-section--featured, .list-section--featured p, .list-section--thebook, .list-section--thebook p, .speaking-events, .speaking-events p, .process, .process h3, .newsletter-signup input.email, .newsletter-signup input[type='email'] { font-family: "Tiempos Text", "Tiempos", Garamond, Baskerville, "Times New Roman", serif; -webkit-font-smoothing: antialiased; }
 
-.article-text h3, .aside-list, .aside-list li, .logo, .menu, .footer, .aside-columns h2, .about--ps a, .writing-archives .aside-list, .writing-elsewhere, .writing-elsewhere a, .writing-elsewhere p, .writing-elsewhere h2, .project-services, .project-services a, .project-services h2, .project-text .meta, .project-text .meta a, .project-text .meta time, .project-text .meta h2, .project-text .meta b, .services-list h3, .services-list em, .clients-list li, .article-footnotes, .article-footnotes li, .article-footnotes h2, .photo-credit, .photo-credit p { font-family: "Apercu Regular", "Apercu", "Arial Narrow", Arial, sans-serif; font-style: normal; -webkit-font-smoothing: antialiased; }
+.article-text h3, .article-text h4, .aside-list, .aside-list li, .logo, .menu, .footer, .aside-columns h2, .about--ps a, .writing-archives .aside-list, .writing-elsewhere, .writing-elsewhere a, .writing-elsewhere p, .writing-elsewhere h2, .project-services, .project-services a, .project-services h2, .project-text .meta, .project-text .meta a, .project-text .meta time, .project-text .meta h2, .project-text .meta b, .services-list h3, .services-list em, .clients-list li, .article-footnotes, .article-footnotes li, .article-footnotes h2, .photo-credit, .photo-credit p { font-family: "Apercu Regular", "Apercu", "Arial Narrow", Arial, sans-serif; font-style: normal; -webkit-font-smoothing: antialiased; }
 
 .pubdate, .pubdate a, .lede, .about--ps, .page-template--project figcaption, .page-template--project .figcaption, .services-list { font-family: "Apercu Italic", "Apercu Regular", "Apercu", "Arial Narrow", Arial, sans-serif; font-style: italic; -webkit-font-smoothing: antialiased; }
 
@@ -71,8 +71,6 @@ p a { position: relative; margin: -0.125em -0.05em; padding: 0.125em 0.05em; }
 
 .footer { margin-bottom: 2rem; }
 
-/* Site
--------------------------------------------------- */
 body { font-size: 1.1em; line-height: 1.5em; position: relative; min-width: 320px; max-width: 50em; max-width: none; margin: 0 auto; padding: 1.5em; padding: 0; color: #222222; border: 30px solid #ffffff; background-color: #f8f7f3; }
 @media screen and (max-width: 600px) { body { border-width: 20px 0; } }
 
@@ -96,7 +94,7 @@ figure, .content li { font-size: 18px; font-size: 1.125rem; }
 -------------------------------------------------- */
 .page-template--writing .content { max-width: 33em; margin-right: auto; margin-left: auto; }
 .page-template--writing .article-title { line-height: 1.1666666667; display: block; font-size: 36px; font-size: 2.25rem; }
-.page-template--writing .lede { max-width: 33em; padding-bottom: 1em; line-height: 1.3333333333; position: static; float: none; max-width: none; margin-bottom: 2rem; font-size: 18px; font-size: 1.125rem; }
+.page-template--writing .lede { max-width: 33em; padding-bottom: 3em; line-height: 1.3333333333; position: static; float: none; max-width: none; margin-bottom: 2rem; font-size: 18px; font-size: 1.125rem; }
 .page-template--writing .lede:after { padding-left: 0.25em; }
 
 .pubdate, .pubdate a { color: #2c9eef; }
@@ -111,7 +109,9 @@ figure, .content li { font-size: 18px; font-size: 1.125rem; }
 .article-text .pubdate { line-height: 1; display: block; margin-bottom: 0.25em; margin-bottom: 2.4rem; font-size: 18px; font-size: 1.125rem; }
 .article-text h1 { line-height: 1.1666666667; padding-top: 7rem; text-align: center; background: transparent none no-repeat top center; font-size: 36px; font-size: 2.25rem; }
 .article-text h1:after { display: block; clear: both; height: 3.6875rem; margin-top: -0.25rem; margin-bottom: 0.25rem; content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIzMi4zOTZweCIgaGVpZ2h0PSIyLjM3NXB4IiB2aWV3Qm94PSIwIDAgMzIuMzk2IDIuMzc1IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMi4zOTYgMi4zNzUiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9IiMwMTAxMDEiIGQ9Ik0zMi4zOTYsMi4zNzVIMFYwaDMyLjM5NlYyLjM3NXoiLz48L2c+PC9zdmc+); }
-.article-text h3 { font-weight: bold; font-weight: 400; line-height: 1.8; margin-top: 3em; margin-bottom: 1em; font-size: 20px; font-size: 1.25rem; }
+.article-text h3, .article-text h4 { font-weight: 400; line-height: 1.8; margin-top: 3em; margin-bottom: 1em; }
+.article-text h3 { font-size: 24px; font-size: 1.5rem; }
+.article-text h4 { font-size: 20px; font-size: 1.25rem; }
 .article-text section + footer { margin-top: 3rem; }
 .article-text blockquote { font-size: 94%; font-style: italic; margin-top: 0.618em; margin-bottom: 1.618em; padding-left: 0; padding-left: 2.25em; }
 @media screen and (max-width: 768px) { .article-text blockquote { max-width: 100%; padding-right: 10%; } }
