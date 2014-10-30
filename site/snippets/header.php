@@ -1,39 +1,4 @@
-<?php
-
-  $nfconfig = array();
-
-  if( $_SERVER['HTTP_HOST'] ) {
-    $nfconfig['tld'] = substr($_SERVER['HTTP_HOST'], -16);
-  }
-
-  $nfconfig['minimize'] = false;
-  if( $nfconfig['tld'] == 'nicolefenton.com' ) {
-    $nfconfig['site'] = 'live';
-    $nfconfig['minimize'] = true;
-  }
-
-  $nfconfig['pagename'] = null;
-  switch ($_SERVER['REQUEST_URI']) {
-    case '/books':
-      $nfconfig['pagename'] = 'books';
-      break;
-    case '/about':
-      $nfconfig['pagename'] = 'about';
-      break;
-    case '/what-i-do':
-      $nfconfig['pagename'] = 'what-i-do';
-      break;
-    case '/contact':
-      $nfconfig['pagename'] = 'contact';
-      break;
-    case '/':
-      $nfconfig['pagename'] = 'home';
-      break;
-    default:
-      $nfconfig['pagename'] = 'article';
-  }
-
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <!--[if lte IE 8]>     <html lang="en-us" class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en-us" class="no-js"> <!--<![endif]-->
 <head>
@@ -56,7 +21,7 @@
   <!--[if lte IE 8]><?php echo css('/_/css/ie.css?v=0.1.0') ?><![endif]-->
 
 </head>
-<body id="body" class="body<?= $nfconfig['pagename'] ? ' page--'.$nfconfig['pagename'] : '' ?> page-dirname--<?php echo $page->dirname() ?> page-id--<?php echo $page->id() ?> page-slug--<?php echo $page->slug() ?> page-template--<?php echo $page->template() ?>">
+<body id="body" class="body page-id--<?php echo $page->id() ?> page-slug--<?php echo $page->slug() ?> page-template--<?php echo $page->template() ?>">
 
   <div class="body-wrap">
 
