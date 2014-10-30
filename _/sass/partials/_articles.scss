@@ -99,7 +99,7 @@
     margin-bottom: 1em;
 
     @extend %font-sans;
-  }.css
+  }
   h3 {
     @include font-size(24);
   }
