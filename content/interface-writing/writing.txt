@@ -144,7 +144,7 @@ Each of these interactions should feel like a conversation between two people wh
 4. Show you care.
 5. Write iteratively.
 
-### 1. Start with questions.
+#### 1. Start with questions.
 
 It’s easy to ship something out in a hurry. Before you do, ask yourself a few simple questions:
 
@@ -157,7 +157,7 @@ It’s easy to ship something out in a hurry. Before you do, ask yourself a few 
 
 When you’re looking at a particular interface label or message, keep it short and focused on what the reader needs. (See the full list of [design questions](//www.nicelysaid.co/resources/).)
 
-### 2. Be a good tour guide.
+#### 2. Be a good tour guide.
 
 Think about what you’d do if one of your close friends came to visit you at work, or maybe they’re in from out of town. You’d probably show them a few of your favorite things. Give the reader that same sort of care. You know your apps and websites better that most people, so use that to your advantage.
 
@@ -187,7 +187,7 @@ Right away, you can see which ones are too similar. They’re using both “Log 
 
 The terms you choose are a style choice; it’s not about right and wrong. But you should be consistent and match the language your users relate to. If you call something “notifications” in one place, call them “notifications” everywhere. That will help you reduce cognitive load on your readers and save money on translations too.
 
-### 3. Turn your chair.
+#### 3. Turn your chair.
 
 Shift your focus to your readers. Talk *to* them, not *at* them. Use positive language and avoid yammering on about your company or your interface. The system isn’t the point.
 
@@ -203,7 +203,7 @@ Here’s another example from Oyster, a book subscription service:
 
 I signed up for their trial and they sent me a link to their mobile app. But instead of talking about themselves or explaining the features, they’re helping me get right to it. They say, “Why are you still reading this email? Download the app and dive into your first book!” I love that.
 
-### 4. Show you care.
+#### 4. Show you care.
 
 Now’s the time when I’ll tell you what _not_ to do, since some people find that useful.
 
@@ -241,7 +241,7 @@ As Paul Ford says in [10 Timeframes](//contentsmagazine.com/articles/10-timefram
 
 > “The only unit of time that matters is heartbeats. The time you spend is not your own.”
 
-### 5. Write iteratively.
+#### 5. Write iteratively.
 
 You write code iteratively, so why not the rest of it? It’s okay if your interface writing isn’t perfect. But you better believe that you need to go back and clean up those strings before you go live.
 

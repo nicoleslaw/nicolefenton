@@ -192,7 +192,7 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 <p>I want to switch now to being a little more practical and share how I’ve become a better writer. Writing, like reading, is a very personal act. That’s why I think of it as a practice. But maybe some of the things I do will be useful to you too.</p>
 
-### Think like a designer
+#### Think like a designer
 
 <p>Now I know there are some writers in the audience, people who don’t necessarily think of themselves as designers. And I know there are some designers who want to learn more about writing, but aren’t sure where to start. One of the first things that I would say to you is to talk to each other. If you’re a writer, sit with your designer. And when you’re writing, try to think like a designer, at least part of the time.</p>
 
@@ -204,7 +204,7 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 <p>Now, I’m a surfer and I love the ocean, so I use this metaphor of water and fluidity a lot. But I think we need to take this approach when we think about writing. We can embrace the chatty, shifting nature of the web. We can start small and build from there. Maybe we have a paragraph and build it out into a page later. Or maybe we launch without a blog until we can support that. Our work isn’t fixed. Everything can evolve.</p>
 
-### Go places you’ve never been
+#### Go places you’ve never been
 
 <p>When I was 14, I knew I wanted to be a writer. I lived in a suburban town in Texas. There wasn’t much to do there, so I wrote a lot of poems and decided I wanted to study photography. I took a course in the evenings at a junior college and managed to get a really good teacher. He showed me work from Cartier-Bresson, Nan Goldin, and Robert Mapplethorpe at a young age. But I liked Diane Arbus’s work the best. She photographed kids in the park, circus freaks, artists, and nudists. People on the fringes. And in her book, she says something I still think about every day:</p>
 
@@ -222,7 +222,7 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 <p>You may be wondering if I’m advocating for a waterfall process or a huge amount of research before you start writing. I’m not. And that leads me to the second thing that’s helped me be a better writer.</p>
 
-### Start in the middle
+#### Start in the middle
 
 <p>I used to try to write the beginning of something before I knew where we were going as a team. I would try to introduce the ideas I needed to cover and organize them, even though I didn’t fully understand those ideas yet. And that doesn’t give me a lot of room to change my mind, which I do very often.</p>
 
@@ -253,7 +253,7 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 <p>Writing is ultimately about helping people understand things, shaping the feeling, and showing people the way. While our materials may be different, we’re doing the same thing.</p>
 
-### Write the way you do
+#### Write the way you do
 
 <p>The last thing I want to share is that I learned to write the way I do. This phrase comes from <em><a href="//www.amazon.com/gp/product/0307279413/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307279413&amp;linkCode=as2&amp;tag=sc0055-20">Several Short Sentences About Writing</a></em> by Verlyn Klinkenborg. I found this book earlier this year, and it’s full of good advice, including things I never thought about. He says:</p>
 
