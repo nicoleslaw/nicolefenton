@@ -179,7 +179,7 @@ figure.decoration.more-margin { margin-top: 5.625rem; margin-bottom: 5.625rem; }
 
 .footer_wrap { max-width: 460px; margin-top: 0.6rem; }
 
-.footer-links, .colophon { padding: 2rem; -webkit-box-flex: 1; -moz-box-flex: 1; box-flex: 1; -webkit-flex: 1; -moz-flex: 1; -ms-flex: 1; flex: 1; -webkit-flex-grow: 1; -moz-flex-grow: 1; flex-grow: 1; -ms-flex-positive: 1; -webkit-box-lines: single; -moz-box-lines: single; box-lines: single; -webkit-flex-wrap: nowrap; -moz-flex-wrap: nowrap; -ms-flex-wrap: nowrap; flex-wrap: nowrap; margin-right: auto; margin-left: auto; }
+.footer-links, .colophon { padding: 2rem 1rem; -webkit-box-flex: 1; -moz-box-flex: 1; box-flex: 1; -webkit-flex: 1; -moz-flex: 1; -ms-flex: 1; flex: 1; -webkit-flex-grow: 1; -moz-flex-grow: 1; flex-grow: 1; -ms-flex-positive: 1; -webkit-box-lines: single; -moz-box-lines: single; box-lines: single; -webkit-flex-wrap: nowrap; -moz-flex-wrap: nowrap; -ms-flex-wrap: nowrap; flex-wrap: nowrap; margin-right: auto; margin-left: auto; }
 @media screen and (min-width: 900px) { .footer-links, .colophon { padding-left: 5.625rem; } }
 
 .footer-links { background-color: #e4e4e4; }
