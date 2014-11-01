@@ -26,28 +26,35 @@ Past Events:
 
 ### [Nearly Impossible](http://nearlyimpossible.org/conference/nyc/) ###
 Honest Marketing Workshop
-New York, October 30
+New York, October 2014
+[Slides](https://speakerdeck.com/nicoleslaw/honest-marketing), [Transcript](/honest-marketing/)
 
 ### [Blend Conference](http://www.blendconf.com) ###
+Interface Writing: Code for Humans
 Charlotte, September 2014
 [Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/)
 
 ### [Burlington Ruby Conference](http://burlingtonrubyconference.com) ###
+Interface Writing: Code for Humans
 Burlington, August 2014
 [Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/), [Video](http://vimeo.com/103526258)
 
 ### [General Assembly](http://generalassemb.ly) ###
+Content Strategy 101
 New York, February and June 2014
 [Slides](https://speakerdeck.com/nicoleslaw/designing-with-words)
 
 ### [Build Conference](http://2013.buildconf.com) ###
+Writing for Beginners
 Belfast, November 2013
 [Slides](https://speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing-for-beginners/)
 
 ### [Confab London](http://confabevents.com/past-events/london-2013/index.html) ###
+Winning Tactics
 London, March 2013
 [Slides](https://speakerdeck.com/nicoleslaw/winning-tactics), [Transcript](/winning-tactics)
 
 ### [Content Strategy Forum](http://2011.csforum.eu) ###
+The Intentional Strategist
 London, September 2011
 [Slides](https://speakerdeck.com/nicoleslaw/the-intentional-strategist), [Transcript](http://www.swellcontent.com/2011/10/being-intentional/)

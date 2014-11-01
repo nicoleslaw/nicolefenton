@@ -15,7 +15,6 @@ Text:
 
 Making:
 
-* [Honest Marketing Workshop](http://nearlyimpossible.org/conference/nyc/ "a workshop and essay for Nearly Impossible attendees")
 * [Iterative Writing](http://github.com/nicoleslaw/iterative-writing "an open source experiment")
 * [Redacted](# "a secret thing with Bernard Yu")
 

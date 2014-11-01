@@ -1,0 +1,242 @@
+Title: Honest Marketing
+
+----
+
+Lede: This is an adapted version of the workshop I led at <a href="http://nearlyimpossible.org/conference/nyc/">Nearly Impossible</a>, a conference for people who make physical products. Thanks to Rusty Meadows and Lauren O’Neill for inviting me, and to Sha Hwang for invaluable feedback on early drafts.
+
+----
+
+Text:
+
+I’m going to share my personal approach to copywriting with you and then we’ll look at examples and work through two  exercises. Here’s what I want you to take away from this workshop:
+
+* Tips for writing honestly
+* Ways to introduce your products that fit your style
+* A checklist for writing product pages
+
+### The M word
+
+Okay, let’s be honest. Most marketing sucks. It’s cheesy or dry or trying too hard. Or worse, it’s deceptive or insulting. For many of us, the word “marketing” has a lot of baggage. But you’re making something you love and care about, and it’s not going to sell itself.
+
+Most of us are uncomfortable with promoting ourselves. I certainly am. I recently [cowrote a book](http://nicelysaid.co), and even though people say nice things about it and I’m proud of the work, I find it hard to go around tooting my horn and tweeting about it. My clients have trouble with this too. I often hear things like, “We want to tell our story, but we don’t know how to do it in a way that sounds like us.”
+
+What I think is especially hard about selling our work is that we have these huge pressures to be the best, the most innovative, or the hip new disruptive thing. We’re supposed to exceed expectations or captivate people or get all-star reviews. But we enjoy making things, and all that jazz and fluff and attention-getting can feel fake. It often seems like a distraction from what we set out to do in the first place. And yet, we have to pay the bills. We have to get the word out, especially if we want to keep making things we care about.
+
+That’s where copywriting comes in.
+
+### Writing to sell
+
+When I say “copy” or “marketing,” these are the kinds of things I’m talking about:
+
+* Ads
+* Blog posts*
+* Customer stories
+* FAQs*
+* Newsletters
+* Packaging
+* Product descriptions
+* Promotions
+* Social media posts
+* Taglines
+
+These are the places where you’re writing to sell or persuade. I include FAQs and blog posts here, because your potential customers read those too.
+
+There’s a great book about copywriting by Robert W. Bly called the *The Copyeditor’s Handbook*. He says:
+
+> “For copy to convince the consumer to buy the product, it must do three things: get attention, communicate, and persuade.”
+
+I would add that you need to:
+
+* Respect the reader’s attention and intelligence.
+* Focus on benefits.
+* Be sincere.
+
+Your marketing is one of the only ways people find out about your products, so you want to make a good impression. For me, that means being honest, helpful, and respectful. It’s not about getting attention for the sake of attention. As Austin Kleon says in *Show Your Work*:
+
+> “You want hearts, not eyeballs.”
+
+You want people to have a genuine connection with you. If you’re truly excited about what you’re doing, that passion and enthusiasm will come through in your writing.
+
+### Truth
+
+So before we define your truth, let’s define truth in general, because it has multiple aspects:
+
+#### 1. Don’t lie.
+
+That one’s obvious, but we all know what it’s like to get home with something that isn’t what we thought it would be.
+
+#### 2. Don’t overpromise.
+
+Don’t *bend* the truth. Apple used to be great at marketing themselves in an honest way, but more and more, they’re promising things they can’t deliver. Here’s an example from the [iPhone 6](https://www.apple.com/iphone-6/) product page:
+
+<figure><img src="/honest-marketing/marketing01.png" alt="Apple iPhone 6" /></figure>
+
+> “iPhone 6 isn’t simply bigger — it’s better in every way. Larger, yet dramatically thinner. More powerful, but remarkably power efficient. With a smooth metal surface that seamlessly meets the new Retina HD display. It’s one continuous form where hardware and software function in perfect unison, creating a new generation of iPhone that’s better by any measure.”
+
+Except, as we all know, it’s not perfect and it’s really not that different than the last version.
+
+I use this as an example, because a lot of people try to compare themselves with Apple. But you’re not Apple and you don’t need to be everything to everyone. You don’t have to pretend the second or sixth version of a product is lightyears ahead of everything else. Your product doesn’t have to be revolutionary to be worth buying.
+
+#### 3. Stick to the facts.
+
+This is the kind of truth journalists and scientists talk about. You can be really specific with technical specifications or focus on the ingredients or materials you use. Here’s an example from [Poblano Farm](http://www.poblanofarm.com/products.html#pasta). They make a flavorful pasta sauce I can’t stop eating.
+
+<figure><img src="/honest-marketing/marketing02.png" alt="Poblano Farm" /></figure>
+
+> “Our pasta sauce is inspired by traditional Italian flavors and fresh local ingredients. This classic sauce is made with the best sun-ripened tomatoes, extra virgin olive oil, fresh garlic and a touch of sweet basil. There are no onions or added sugars, only the tomatoes’ natural sweetness. All natural ingredients with no preservatives.”
+
+There’s a little bit of flavor there, but it’s pretty straightforward. What I like about it is that it’s conversational and includes concrete details. No onions. No incredibly innovative tomatoes. Just a simple, delicious sauce.
+
+#### 4. Be true to the spirit of your company.
+
+We’ll dig into this in a minute, but here’s a quick example from [Almond](https://www.almondsurfboards.com/pages/sano-special), my favorite surfboard maker.
+
+<figure><img src="/honest-marketing/marketing03.png" alt="Almond Surf Boards" /></figure>
+
+> “The Sano Special was designed specifically for soft, log-friendly waves like San Onofre. Extremely stable from the nose, and extra curve in the tail, for a more favorable turning radius. Catches waves like a dream.”
+
+They could have started with a technical description of the board’s weight, dimensions, and materials. But they’re from Southern California and they’re making surfboards, so they might as well sound sunny and surfy, right?
+
+What I love about Almond is how honest they are about what they’re trying to do. They post great photos of people surfing, making boards, exploring, and having a good time. Their blog is full of stories about their customers and the people behind the company. Most surfboard companies are pretty similar, but Almond puts their whole heart into their marketing.
+
+To sum it up, honest writing is accurate *and* sincere. It represents the facts and your real feelings on the matter. Let’s follow that thread and do some writing together.
+
+### Activity: Feeeeelings
+
+A lot of product descriptions are dry and matter-of-fact. Let’s start with your feelings, because that’s where the good stuff comes from. Take a few minutes to think about your product and why it’s important to you. Here are some prompts to help you get started:
+
+* Why is this product interesting to you?
+* What’s your favorite thing about it?
+* Why did you decide to make it? How does it fit into the world you want to live in?
+* If someone was telling a friend about it, what would you want them to say?
+
+You can answer all of these questions, or pick one for now. If you make several products, choose one to focus on or think about your entire line as a family. If you end up writing a lot, you can always use it in a blog post or on your About page. Follow your feelings and put yourself out there.
+
+* * *
+
+Now that you’ve got your product in mind and you know why it matters to you, let’s talk about how to convey that in a way that sounds like you.
+
+### Voice
+
+Your voice is your style; it’s what your writing sounds like. It doesn’t change much over time. Here are two examples for the same product, a deodorant cream from [Fat and the Moon](http://fatandthemoon.com/deodorant-cream).
+
+<figure><img src="/honest-marketing/marketing04.png" alt="Fat and the Moon Deodorant Cream" /></figure>
+
+> “Got that ‘wha, wha’ feeling every time you buy natural deodorants? We all want to switch our chemical laden products but don’t necessarily want to be stinker for it!”
+
+> “This deodorant is for the full spectrum of stinky. The coconut oil and aluminum free baking soda base are a bacteria checking dynamic duo. Mixed with the moisture absorbing properties of arrowroot and the antimicrobial properties of the essential oils, you and your pits will never be happier! The scent starts with a lovely harmony of black pepper, bergamot and a hint of citrus with a base of clary sage. The scent is light enough that it won’t compete with another fragrance. A word to all my black clothes loving people: this deodorant won’t leave those chalky white streaks that make you look like you’ve had a mime in a headlock.”
+
+They’re funny, right? It works because they’re being playful and informative at the same time.
+
+Here’s a shorter version from [Storq](http://storq.com/products/deodorant). They make maternity wear and sell body products for women.
+
+<figure><img src="/honest-marketing/marketing05.png" alt="Fat and the Moon Deodorant Cream on Storq" /></figure>
+
+> “Do you know what’s in your average drug store deodorant? Let’s not get into it. Needless to say, they’re full of things you probably want to avoid. This deodorant cream is all-natural, easy to apply, and really does prevent you from becoming very smelly. And it won’t clog up your pores with scary chemicals. Oops, we got into it.”
+
+Storq’s voice is so friendly that it sounds like one of your lady friends. They’re conversational and opinionated about the things they sell—and they take the time to show you that in their writing.
+
+As a contrast, here’s a quote from [No 6.](http://no6store.com/no6-clogs/classic-shoe-on-high-heel.html) about their high-heel clogs:
+
+<figure><img src="/honest-marketing/marketing06.png" alt="High Heel Clog in Black" /></figure>
+
+> “Closed back clog with delicate ankle strap and buckle closure. 3” heel with .5” platform in front. Modern and minimal design creates styling versatility. Water repellant leather and lacquered wooden base. This clog runs slightly narrow across the width, but will give and soften with wear. Please note when wearing a closed back clog, your heel will lift while walking.”
+
+It’s a little detached, but it’s still clear. It doesn’t sound like a friend is talking to you. It has a neutral, high-fashion New York feel. A lot of product pages take on this kind of reporter voice, but it doesn’t always reflect the people behind the company. I don’t have a sense of who works at No. 6 or why I should buy their clogs beyond what I can see in the photo.
+
+### Activity: Voice attributes
+
+Take a few minutes to think about your company, its personality, and what you want to convey in your writing. Make a list of voice attributes for yourself.
+
+These traits should already exist within your team. If you’re the only person behind your products, your voice should probably sound like you when you’re in a good mood. If you have several colleagues, it should sound like your team when it’s at its best: maybe warm, optimistic, humble, enthusiastic, goofy, or quirky.
+
+You can refine this list over time and use it to guide your writing. You may also want to include a list of associations to avoid. In *[Nicely Said](//nicelysaid.co)*, we call this combo a *This But Not That List*. Here’s what that looks like for my studio.
+
+#### My voice is...
+
+* clear, but not clever
+* honest, but not insensitive
+* friendly, but not overly casual
+* thoughtful, but not academic
+* youthful, but not childish
+
+There’s nothing wrong with being clever or academic, but those qualities don’t reflect my personality or my values, so I avoid them in my writing. As a contrast, people often think I’m younger than I am (and I do have a youthful vibe), but I’m not inexperienced or childish either, so there’s a healthy tension there.
+
+<hr />
+
+Once you have a sense of your feelings, values, and voice, it’s a great time to sit down and write a product page. I made a handout for the workshop, and I’ve included the text from it here. If you’d like a copy of the .pdf, feel free to [email me](mailto:nicole@nicolefenton.com).
+
+### Write a product page
+
+Good writing takes research. Don’t wait for a muse or a stroke of genius. Get the facts down in all of their messy glory and then go from there.
+
+#### 1. Gather up the facts
+
+Start by making a list of answers to these questions:
+
+*Name and purpose*
+* What is it?
+* Who is it for? How will it help them or brighten their day?
+
+*Features and facets*
+* What can you do with it? Why are these features important?
+* How does it work?
+* Remember your five senses. How does it taste, feel, look, smell, or sound?
+* What is it made of? Why did you pick those ingredients or materials? How can people take care of it?
+* How big is it? Are there different sizes, colors, or formats? What can it hold?
+* Is there anything special about the packaging? Does it pair well with something or make a nice gift?
+
+*Pricing and availability*
+* How much does it cost? How many pieces are included?
+* Where can you get it?
+* How long does it take to make and package it?
+* What are the shipping options? How long does it take for delivery?
+
+#### 2. Tell your story
+
+Revisit what you wrote about your feelings and build on that. Tell people what’s interesting about the product. Teach them something new and share your enthusiasm.
+
+These are some ideas of stories you could tell:
+
+* Purpose: How does it fit into your mission and the way you see things?
+* History: Why did you decide to make it? What led you to the idea?
+* Process: How did you make it? What did you learn along the way?
+* Competition: How is it different from other things like it?
+* Reputation: What are people saying about it? What do you want them to say?
+* Use cases: How are people using it?
+
+#### 3. Arrange and revise
+
+Once you have your notes together, sketch the points you want to make into an outline with pen and paper. Put the most important details at the top.
+
+Write a rough draft and play with different variations. Try reordering or rephrasing things. Be careful to use words people will recognize. Focus on real-world benefits. You can add humor or personality, but clarity comes first.
+
+#### 4. Read it out loud
+
+Once you have a draft, read it aloud to yourself. You’ll naturally notice where the words aren’t flowing, or where you’re not telling the truth. Listen for the structure of each sentence and the rhythm of the words you chose.
+
+Check for these basics:
+
+* Is it clear?
+* Does it sound like you?
+* Is every word true?
+* Can you cut any adjectives or modifiers?
+
+Take out any white lies or fluff. Watch out for filler words like *incredibly*, *bespoke*, *unique*, and *beautiful*. (More examples of these in Chapter 4 of [the book](//nicelysaid.co)!) Scrutinize every single word and keep working toward the truth.
+
+Edit your work until it’s clear, honest, and sounds like something you’d say to a friend or a neighbor. Tell them how you really feel, and be patient with yourself while you rework the copy.
+
+I hope you find this useful! I’m all about doing workshops, so let me know if you’d like to have me speak at an event near you. Thank you.
+
+----
+
+Footnotes:
+
+<h2>Further Reading</h2>
+
+<ul>
+	<li><a href="//nicelysaid.co">Nicely Said: Writing for the Web with Style and Purpose</a></li>
+	<li><a href="//gist.github.com/nicoleslaw/2155621">Tiny Content Framework</a></li>
+	<li><a href="http://www.amazon.com/gp/product/0805078045?ie=UTF8&tag=bobblycop-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0805078045">The Copywriter’s Handbook</a>, Robert W. Bly</a></li>
+	<li><a href="http://austinkleon.com/show-your-work/">Show Your Work</a>, Austin Kleon</a></li>
+</ul>
