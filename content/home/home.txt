@@ -15,6 +15,7 @@ Text:
 
 Making:
 
+* [Interface Writing Workshop](# "in Raleigh, North Carolina")
 * [Iterative Writing](http://github.com/nicoleslaw/iterative-writing "an open source experiment")
 * [Redacted](# "a secret thing with Bernard Yu")
 
@@ -24,8 +25,7 @@ Reading:
 
 * [Green Girl](http://katezambreno.com/books/green-girl "by Kate Zambreno")
 * [The Gone-Away World](http://www.nickharkaway.com/books/the-gone-away-world/ "by Nick Harkaway")
-* [Designing the Editorial Experience](http://editorialexperience.com "by Sue Apfelbaum and Juliette Cezzar")
-
+* [The People’s Platform](http://us.macmillan.com/thepeoplesplatform/astrataylor "by Astra Taylor")
 
 ----
 
