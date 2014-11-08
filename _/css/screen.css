@@ -170,8 +170,7 @@ figure.decoration.more-margin { margin-top: 5.625rem; margin-bottom: 5.625rem; }
 @media screen and (max-width: 600px) { .menu li { float: left; min-width: 30%; max-width: 50%; margin-right: 0; margin-bottom: 0; } }
 @media screen and (min-width: 601px) { .menu li { padding-left: 0.125em; text-align: right; -webkit-flex-grow: 1; -moz-flex-grow: 1; flex-grow: 1; -ms-flex-positive: 1; } }
 .menu li.home-link { padding-left: 0; }
-@media screen and (min-width: 601px) { .menu li.home-link { box-ordinal-group: -1; -webkit-order: -1; -moz-order: -1; order: -1; -ms-flex-order: -1; -webkit-flex-grow: 0; -moz-flex-grow: 0; flex-grow: 0; -ms-flex-positive: 0; } }
-@media screen and (max-width: 600px) { .menu li.home-link { float: right; } }
+@media screen and (min-width: 601px) { .menu li.home-link { margin-right: 1em; box-ordinal-group: -1; -webkit-order: -1; -moz-order: -1; order: -1; -ms-flex-order: -1; -webkit-flex-grow: 0; -moz-flex-grow: 0; flex-grow: 0; -ms-flex-positive: 0; } }
 
 .menu a { padding: 0 0 0.15em; border-bottom: 2px solid transparent; }
 

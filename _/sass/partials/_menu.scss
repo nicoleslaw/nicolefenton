@@ -78,11 +78,9 @@
   &.home-link {
     padding-left: 0;
     @include media(not-mobile) {
+      margin-right: 1em;
       @include order(-1);
       @include flex-grow(0);
-    }
-    @include media(mobile-only) {
-      float: right;
     }
   }
 }
