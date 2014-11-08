@@ -14,7 +14,7 @@
   @include center;
   @include clearfix;
   li {
-    margin-bottom: 0.15em;
+    margin-bottom: 0.25em;
   }
   .aside-list {
     line-height: (20/16);
@@ -38,7 +38,7 @@
     }
     a {
       color: $c-brown;
-      border-bottom-color: transparent;
+      border-bottom-color: $c-brown;
       // border-color: $c-grey-light;
     }
     a:hover {
