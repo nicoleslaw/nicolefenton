@@ -29,13 +29,13 @@ Services:
 
 Project Lede:
 
-Over the past two years, I helped Safari improve their digital reading service by contributing to its design, writing, style, strategy, and architecture.
+Over the past two years, I helped Safari improve their digital reading service by contributing to its design, writing, style, and architecture.
 
 ----
 
 Lede:
 
-[Safari](http://safaribooksonline.com) is a digital library and learning service for web professionals.
+[Safari](http://safaribooksonline.com) is a digital library for web professionals.
 
 ----
 
@@ -43,7 +43,11 @@ Text:
 
 In 2013, [Frank Chimero](http://ofanother.com) and I collaborated on the design, branding, and communications for Safari Flow. I helped with product definition, naming, and content strategy. I wrote the interface and marketing copy and developed a brief communications style guide.
 
+(figure: safari_flow.png alt: Safari Flow Homepage)
+
 Flow went on to become Safari’s core product. In the spring of 2014, Safari invited me to continue my work with their corporate rebranding. I helped them with a little bit of everything from product strategy and copyediting to wireframing new features and reworking the onboarding flow. I also continued my voice and tone work by developing a beefier version of a style guide within their new brand standards.
+
+(figure: safari.png alt: Safari Homepage)
 
 ----
 
