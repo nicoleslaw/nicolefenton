@@ -1147,7 +1147,7 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
@@ -5551,6 +5551,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/3-projects\/2-safari-books-online\/safari_flow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.27711e+06,
+		"inputAbbreviatedPath": "\/content\/3-projects\/2-safari-books-online\/safari_flow.png",
+		"outputAbbreviatedPath": "\/content\/3-projects\/2-safari-books-online\/safari_flow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/3-projects\/45royale\/01-45royale-Web-application-and-mobile-design-in-Atlanta-Georgia.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5712,72 +5723,6 @@
 		"initialSize": 55763,
 		"inputAbbreviatedPath": "\/content\/4-writing\/nicely_said.jpg",
 		"outputAbbreviatedPath": "\/content\/4-writing\/nicely_said.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/drafts\/honest-marketing\/marketing01.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 144900,
-		"inputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing01.png",
-		"outputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing01.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/drafts\/honest-marketing\/marketing02.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 294912,
-		"inputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing02.png",
-		"outputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing02.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/drafts\/honest-marketing\/marketing03.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.47462e+06,
-		"inputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing03.png",
-		"outputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing03.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/drafts\/honest-marketing\/marketing04.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 613861,
-		"inputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing04.png",
-		"outputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing04.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/drafts\/honest-marketing\/marketing05.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 367509,
-		"inputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing05.png",
-		"outputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing05.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/drafts\/honest-marketing\/marketing06.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 397425,
-		"inputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing06.png",
-		"outputAbbreviatedPath": "\/content\/drafts\/honest-marketing\/marketing06.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6075,6 +6020,72 @@
 		"initialSize": 45682,
 		"inputAbbreviatedPath": "\/content\/error\/geoffrey.jpg",
 		"outputAbbreviatedPath": "\/content\/error\/geoffrey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/honest-marketing\/marketing01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144900,
+		"inputAbbreviatedPath": "\/content\/honest-marketing\/marketing01.png",
+		"outputAbbreviatedPath": "\/content\/honest-marketing\/marketing01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/honest-marketing\/marketing02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 480814,
+		"inputAbbreviatedPath": "\/content\/honest-marketing\/marketing02.png",
+		"outputAbbreviatedPath": "\/content\/honest-marketing\/marketing02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/honest-marketing\/marketing03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.47462e+06,
+		"inputAbbreviatedPath": "\/content\/honest-marketing\/marketing03.png",
+		"outputAbbreviatedPath": "\/content\/honest-marketing\/marketing03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/honest-marketing\/marketing04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 613861,
+		"inputAbbreviatedPath": "\/content\/honest-marketing\/marketing04.png",
+		"outputAbbreviatedPath": "\/content\/honest-marketing\/marketing04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/honest-marketing\/marketing05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 367509,
+		"inputAbbreviatedPath": "\/content\/honest-marketing\/marketing05.png",
+		"outputAbbreviatedPath": "\/content\/honest-marketing\/marketing05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/honest-marketing\/marketing06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 397425,
+		"inputAbbreviatedPath": "\/content\/honest-marketing\/marketing06.png",
+		"outputAbbreviatedPath": "\/content\/honest-marketing\/marketing06.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10429,7 +10440,7 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
-	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules, .scssc",
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",

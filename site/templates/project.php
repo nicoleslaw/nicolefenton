@@ -18,12 +18,12 @@
 
         <?php echo $page->text()->kirbytext() ?>
 
-        <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
+        <?php /* foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
           <figure class="project-screen">
             <img class="lazy" src="/_/images/spacer.png" data-original="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
-            <figcaption>This is where the caption goes about the tagline, landing page copy, and product tour.</figcaption>
+            <figcaption></figcaption>
           </figure>
-        <?php endforeach ?>
+        <?php endforeach*/ ?>
 
         <div class="meta">
 
