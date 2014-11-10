@@ -165,14 +165,16 @@ figure.decoration.more-margin { margin-top: 5.625rem; margin-bottom: 5.625rem; }
 .menu .active { color: #f84816; }
 .menu .active:hover { color: #f96237; border-bottom-color: #f96237; }
 
-.menu > li { position: relative; margin-right: 1em; text-align: left; }
-@media screen and (max-width: 400px) { .menu > li { width: 40%; } }
-@media screen and (max-width: 600px) { .menu > li { float: left; width: 30%; margin-right: 0; margin-bottom: 0; } }
-@media screen and (min-width: 601px) { .menu > li { padding-left: 0.125em; text-align: right; -webkit-flex-grow: 1; -moz-flex-grow: 1; flex-grow: 1; -ms-flex-positive: 1; } }
+.menu li { position: relative; margin-right: 1em; text-align: left; }
+@media screen and (max-width: 400px) { .menu li { width: 40%; } }
+@media screen and (max-width: 600px) { .menu li { float: left; min-width: 30%; max-width: 50%; margin-right: 0; margin-bottom: 0; } }
+@media screen and (min-width: 601px) { .menu li { padding-left: 0.125em; text-align: right; -webkit-flex-grow: 1; -moz-flex-grow: 1; flex-grow: 1; -ms-flex-positive: 1; } }
+.menu li.home-link { padding-left: 0; }
+@media screen and (min-width: 601px) { .menu li.home-link { margin-right: 1em; box-ordinal-group: -1; -webkit-order: -1; -moz-order: -1; order: -1; -ms-flex-order: -1; -webkit-flex-grow: 0; -moz-flex-grow: 0; flex-grow: 0; -ms-flex-positive: 0; } }
 
-.menu > li > a { padding: 0 0 0.15em; border-bottom: 2px solid transparent; }
+.menu a { padding: 0 0 0.15em; border-bottom: 2px solid transparent; }
 
-.home-link { display: inline-block; width: 12px; height: 12px; margin-top: 6px; content: url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNCAxNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGNpcmNsZSBmaWxsPSIjRjA0QzIzIiBjeD0iNyIgY3k9IjciIHI9IjciIGlkPSJjaXJjbGUtbWVudSIgLz48L2c+PC9zdmc+); -webkit-transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); }
+.home-link a { padding: 0; border: none; display: inline-block; width: 12px; height: 12px; margin-top: 6px; content: url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNCAxNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGNpcmNsZSBmaWxsPSIjRjA0QzIzIiBjeD0iNyIgY3k9IjciIHI9IjciIGlkPSJjaXJjbGUtbWVudSIgLz48L2c+PC9zdmc+); -webkit-transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); text-align: left; }
 
 .home-link:hover { opacity: 0.5; -webkit-transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); }
 
@@ -268,11 +270,11 @@ figure.decoration.more-margin { margin-top: 5.625rem; margin-bottom: 5.625rem; }
 
 .writing-archives { width: 33rem; max-width: 100%; padding-bottom: 3rem; color: #b4800f; margin-right: auto; margin-left: auto; }
 .writing-archives:after { content: ""; display: table; clear: both; }
-.writing-archives li { margin-bottom: 0.15em; }
+.writing-archives li { margin-bottom: 0.25em; }
 .writing-archives .aside-list { line-height: 1.25; float: left; width: 50%; padding: 0 0 0 2em; text-align: left; font-size: 16px; font-size: 1rem; }
 @media screen and (max-width: 33rem) { .writing-archives .aside-list { display: block; float: none; width: 100%; padding-left: 0; margin-right: auto; margin-left: auto; } }
 .writing-archives .aside-list:first-child { padding-left: 0; }
-.writing-archives .aside-list a { color: #b4800f; border-bottom-color: transparent; }
+.writing-archives .aside-list a { color: #b4800f; border-bottom-color: #b4800f; }
 .writing-archives .aside-list a:hover { border-bottom-color: #111111; }
 
 .writing-elsewhere { margin: 4rem auto; padding: 2.5rem 3rem; line-height: 1.4; padding: 2.5rem 3rem; color: #f84816; border: 1px solid #f84816; font-size: 15px; font-size: 0.9375rem; }

@@ -54,7 +54,7 @@
     border-bottom-color: $c-red-light;
   }
 }
-.menu > li {
+.menu li {
   position: relative;
   margin-right: 1em;
   text-align: left;
@@ -64,7 +64,8 @@
   }
   @include media(mobile-only) {
     float: left;
-    width: 30%;
+    min-width: 30%;
+    max-width: 50%;
     margin-right: 0;
     margin-bottom: 0;
   }
@@ -74,13 +75,22 @@
 
     @include flex-grow(1);
   }
+  &.home-link {
+    padding-left: 0;
+    @include media(not-mobile) {
+      margin-right: 1em;
+      @include order(-1);
+      @include flex-grow(0);
+    }
+  }
 }
-.menu > li > a {
+.menu a {
   padding: 0 0 0.15em;
   border-bottom: 2px solid transparent;
 }
-
-.home-link {
+.home-link a {
+  padding: 0;
+  border: none;
   display: inline-block;
   width: 12px;
   height: 12px;
@@ -88,6 +98,7 @@
   // content: url("/_/images/dec/circle-menu.svg");
   content: url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNCAxNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGNpcmNsZSBmaWxsPSIjRjA0QzIzIiBjeD0iNyIgY3k9IjciIHI9IjciIGlkPSJjaXJjbGUtbWVudSIgLz48L2c+PC9zdmc+);
   transition: all 0.5s $easing-default;
+  text-align: left;
 }
 .home-link:hover {
   opacity: 0.5;
