@@ -6,11 +6,11 @@ Text: ## Hello ## {.list-section-title}
 
 I’m an editor, strategist, writer, and educator. I help people make useful products, books, and websites. I work with text and design with words.
 
-I believe good writing is clear, honest, and friendly. I recently cowrote a book about that called *[Nicely Said: Writing for the Web with Style and Purpose](http://nicelysaid.co)* with Kate Kiefer Lee. You can [read an excerpt](http://ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](http://nicelysaid.co) from your favorite bookseller.
+I believe good writing is clear, honest, and friendly. I recently cowrote a book about that called *[Nicely Said: Writing for the Web with Style and Purpose](http://nicelysaid.co)* with Kate Kiefer Lee. You can [read an excerpt](http://ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it online or [buy a copy](http://nicelysaid.co) at your favorite bookstore.
 
 Before going independent, I was a senior content strategist at [Facebook](http://facebook.com), [Lab Zero](http://labzero.com), and [Mule Design](http://muledesign.com) in San Francisco. I started my professional writing practice at [Apple](http://apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad. I have an English degree from the University of Texas at Austin and an eternal hankering for tacos.
 
-In the evenings, I read a lot and run [Born Hungry](http://bornhungrymag.com), an online magazine for home cooks. I live in Brooklyn with my [husband](http://maxfenton.com), and our little chihuahua, and work from [Studiomates](http://studiomates.com).
+In the evenings, I read a lot and run [Born Hungry](http://bornhungrymag.com), an online magazine for home cooks. I live in Brooklyn with my [husband](http://maxfenton.com) and our little chihuahua, and work from [Studiomates](http://studiomates.com).
 
 ----
 
@@ -26,8 +26,8 @@ Interviews: ## Interviews ##
 
 * [Happy Monday](http://www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
 * [Peachpit](http://www.peachpit.com/articles/article.aspx?p=2228801)
-* [The Setup](http://nicole.jones.usesthis.com/)
 * [Rad Lady](http://www.radlady.com/2012/07/nicole-jones.html)
+* [The Setup](http://nicole.jones.usesthis.com/)
 * [Together London](https://lucidplot.com/2012/09/12/nicoleslaw-podcast/)
 * [Workspiration](http://workspiration.org/nicole-fenton)
 
