@@ -45,15 +45,13 @@
 // Projects
 
 .project-text {
-  max-width: $body-wrap-width;
   margin-top: 0;
-
-  @include center;
   .meta {
-    @include display(flex);
-    @include flex-direction(column);
     margin-top: 5.2rem;
     text-align: center;
+
+    @include flex-direction(column);
+    @include display(flex);
     &,
     a,
     time {
@@ -69,6 +67,21 @@
       // margin-bottom: 2.2rem;
       @include flex(1);
     }
+  }
+  .lede,
+  .testimonial,
+  & > p,
+  section > p,
+  h3,
+  ol,
+  ul,
+  blockquote,
+  h2,
+  h4 {
+    // max-width: $body-wrap-width-article;
+    max-width: $body-wrap-width;
+
+    @include center;
   }
 }
 
