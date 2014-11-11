@@ -85,6 +85,13 @@
 Header set Cache-Control "max-age=290304000, public"
 
 
+################# WEBFONTS
+
+<FilesMatch ".(eot|ttf|otf|woff)">
+  Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+
 ################# COMPATIBILITY
 
 AddDefaultCharset UTF-8
