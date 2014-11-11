@@ -174,9 +174,9 @@ figure.decoration.more-margin { margin-top: 5.625rem; margin-bottom: 5.625rem; }
 
 .menu a { padding: 0 0 0.15em; border-bottom: 2px solid transparent; }
 
-.home-link a { padding: 0; border: none; display: inline-block; width: 12px; height: 12px; margin-top: 6px; content: url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNCAxNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGNpcmNsZSBmaWxsPSIjRjA0QzIzIiBjeD0iNyIgY3k9IjciIHI9IjciIGlkPSJjaXJjbGUtbWVudSIgLz48L2c+PC9zdmc+); -webkit-transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); text-align: left; }
-
-.home-link:hover { opacity: 0.5; -webkit-transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1); }
+.home-link a { padding: 0; border: none; margin-top: 6px; -webkit-transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1); text-align: left; }
+.home-link a:hover { opacity: 0.66; -webkit-transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1); }
+.home-link a, .home-link img { display: inline-block; width: 12px; height: 12px; }
 
 /* Footer
 -------------------------------------------------- */
