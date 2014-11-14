@@ -44,7 +44,6 @@ The-book: ## The Book ## {.list-section-title}
 Whether you’re a writer, designer, developer, or business owner, this book is for you. Kate Kiefer Lee and I share our methods for developing clear, friendly, and useful content in what *.net* Magazine calls a “fantastic, practical, and elegant guide to improving your web writing.”
 
 - [Buy the Book](//nicelysaid.co)
-- [Join Our Workshop](//confabevents.com/events/higher-ed)
 
 ----
 
@@ -54,6 +53,7 @@ Personal-writing: * [Why I Write](//nicoleslaw.com/post/88447345479/why-i-write)
 * [Two Stories](//nicoleslaw.com/post/63658097382/two-stories)
 * [On Feeding and Being Fed](//www.bornhungrymag.com/2012/08/feeding/)
 * [Humble Beginnings](//www.bornhungrymag.com/2012/06/humble-beginnings/)
+* [Beyond the Page](/beyond-the-page)
 
 More on [Tumblr](//nicoleslaw.com) and [Born Hungry](//bornhungrymag.com).
 

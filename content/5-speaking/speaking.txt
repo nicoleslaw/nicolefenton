@@ -10,10 +10,6 @@ Upcoming Events:
 
 ## Upcoming Events ## {.list-section-title}
 
-### [Confab Higher Ed](http://confabevents.com/events/higher-ed) ###
-Web Writing Workshop with Kate Kiefer Lee  
-Atlanta, November 12–14
-
 ### [Triangle UXPA](http://triuxpa.org/events) ###
 Interface Writing Workshop
 Raleigh, December 5
@@ -23,6 +19,10 @@ Raleigh, December 5
 Past Events:
 
 ## Past Events ## {.list-section-title}
+
+### [Confab Higher Ed](http://confabevents.com/events/higher-ed) ###
+Web Writing Workshop with Kate Kiefer Lee  
+Atlanta, November 2014
 
 ### [Nearly Impossible](http://nearlyimpossible.org/conference/nyc/) ###
 Honest Marketing Workshop
