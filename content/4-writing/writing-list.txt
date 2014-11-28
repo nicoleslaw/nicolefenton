@@ -2,7 +2,7 @@ Title: Writing
 
 ----
 
-Lede: I write essays, talks, and books about writing iteratively and making digital products.
+Lede: I write books, talks, and essays about working with language and making digital products.
 
 ----
 
@@ -14,11 +14,11 @@ Most marketing sucks. But you’re making something you love and care about, and
 ### [Interface Writing: Code for Humans](/interface-writing/) ###
 We build systems to help real people. But honestly, are we being that helpful in our interfaces? Or are we treating words as an afterthought and letting people fend for themselves?
 
-### [Writing for Beginners](/writing-for-beginners/) ###
-What if writing comes from a place of *not knowing*, a place of exploration, seeking clarity, and wanting to communicate—a place for beginners?
-
 ### [Power and Responsibility](/power-and-responsibility/) ###
 Have you ever looked someone up in a database? Did you find what you were looking for?
+
+### [Writing for Beginners](/writing-for-beginners/) ###
+What if writing comes from a place of *not knowing*, a place of exploration, seeking clarity, and wanting to communicate—a place for beginners?
 
 ----
 
