@@ -13,9 +13,9 @@ Text:
 * [The Chairs are Where the People Go](http://www.amazon.com/Chairs-Are-Where-People-Go/dp/0865479453), Sheila Heti and Mischa Glouberman
 * [Don’t Go Back to School](//www.kiostark.com/dont-go-back-to-school/), Kio Stark
 * [The Shape of Design](//www.shapeofdesignbook.com/), Frank Chimero
-* [10 Timeframes](http://contentsmagazine.com/articles/10-timeframes/), Paul Ford
 * [Designing in the Borderlands](http://frankchimero.com/talks/designing-in-the-borderlands/transcript/), Frank Chimero
-* [Not Knowing](http://tumblr.austinkleon.com/tagged/notknowing), Austin Kleon
+* [10 Timeframes](//contentsmagazine.com/articles/10-timeframes/), Paul Ford
+* [Not Knowing](//tumblr.austinkleon.com/tagged/notknowing), Austin Kleon
 
 ### Research
 
@@ -26,28 +26,30 @@ Text:
 
 * [Copywriting is Interface Design](//gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php), Jason Fried
 * [On Writing Interfaces Well](//signalvnoise.com/posts/3633-on-writing-interfaces-well), Jason Fried
-* [Questions I Ask When Reviewing a Design](http://37signals.com/svn/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
+* [Questions I Ask When Reviewing a Design](//37signals.com/svn/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
+* [Shorthand for Designing UI Flows](//signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), Ryan Singer
 * [User Onboarding](//www.useronboard.com), Samuel Hulick
 * [5 Rules for Writing Great Interface Copy](//www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy), John Zeratsky
 
 ### Writing Basics
 
 * [Bird by Bird: Some Instructions on Writing and Life](//www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016), Anne Lamott
-* [Writing Down the Bones](http://www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20), Natalie Goldberg
-* [Writing to Change the World](http://www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20), Mary Pipher
+* [Writing Down the Bones](//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20), Natalie Goldberg
+* [Writing to Change the World](//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20), Mary Pipher
 
 ### Dictionaries and Word Nerdery
 
 * [Wordnik](//wordnik.com)
 * [Title Capitalization Tool](//titlecapitalization.com)
+* [Google Trends](//google.com/trends), Keyword Search
 
 ### Content Strategy
 
+* [Fire Drills: Communication Strategy in a Crises](//www.alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
+* [Free Content Strategy for Free](//secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
+* [Wearing the Content Strategy Pants](//thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
+* [Testing Content](//alistapart.com/article/testing-content), Angela Colter
+* [Infrequently Asked Questions of FAQs](http://alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
 * [The Elements of Content Strategy](//www.abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
 * [Content Templates to the Rescue](//www.alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
-* [Fire Drills: Communication Strategy in a Crises](//www.alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
-* [Free Content Strategy for Free](http://secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
-* [Infrequently Asked Questions of FAQs](http://alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
-* [Testing Content](http://alistapart.com/article/testing-content), Angela Colter
-* [Wearing the Content Strategy Pants](http://thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
 * [Your About Page is a Robot](//www.alistapart.com/articles/aboutpagerobot/), Erin Kissane
