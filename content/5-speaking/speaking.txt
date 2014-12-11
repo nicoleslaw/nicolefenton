@@ -8,6 +8,12 @@ Lede: I give talks and run workshops about writing, design, digital products, an
 
 Upcoming Events:
 
+## Upcoming Events ## {.list-section-title}
+
+### [UXLx](https://www.ux-lx.com) ###
+Interface Writing Workshop
+Lisbon, June 3–5
+
 ----
 
 Past Events:
