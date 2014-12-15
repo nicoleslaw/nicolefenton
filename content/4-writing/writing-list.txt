@@ -43,7 +43,7 @@ The-book: ## The Book ## {.list-section-title}
 
 Whether you’re a writer, designer, developer, or business owner, this book is for you. Kate Kiefer Lee and I share our methods for developing clear, friendly, and useful content in what *.net* Magazine calls a “fantastic, practical, and elegant guide to improving your web writing.”
 
-- [Buy the Book](//nicelysaid.co)
+- [Buy the Book](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)
 
 ----
 
