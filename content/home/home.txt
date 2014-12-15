@@ -15,17 +15,17 @@ Text:
 
 Making:
 
-* [Interface Writing Workshop](http://triuxpa.org/event-1794981 "in Raleigh, North Carolina")
-* [Iterative Writing](http://github.com/nicoleslaw/iterative-writing "an open source experiment")
+* [Designing with Words](# "a five-week course for designers")
+* [Iterative Writing](//github.com/nicoleslaw/iterative-writing "an open source experiment")
 * [Redacted](# "a secret thing with Bernard Yu")
 
 ----
 
 Reading:
 
-* [Green Girl](http://katezambreno.com/books/green-girl "by Kate Zambreno")
-* [The Gone-Away World](http://www.nickharkaway.com/books/the-gone-away-world/ "by Nick Harkaway")
-* [The People’s Platform](http://us.macmillan.com/thepeoplesplatform/astrataylor "by Astra Taylor")
+* [Unspeakable Things](//www.bloomsbury.com/uk/unspeakable-things-9781408824740/ "by Laurie Penny")
+* [Pedagogy of the Oppressed](//www.pedagogyoftheoppressed.com "by Paulo Freire")
+* [The Gone-Away World](//www.nickharkaway.com/books/the-gone-away-world/ "by Nick Harkaway")
 
 ----
 
