@@ -5,7 +5,7 @@ Title: Home
 
 Home Bio:
 
-Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || information architect || publishing specialist || writing coach || occasional speaker || educator || extrovert for pay || professional daydreamer || typical Gemini || amateur photographer || curious home cook || tea drinker || casual surfer }}. She hosts workshops and works with {{ nice people || authors, designers, and developers || startups, nonprofits, and small businesses }} on {{ websites || digital products || books, interfaces, || content }} and publishing projects.
+Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || publishing specialist || educator || information architect || writing coach || occasional speaker || extrovert for pay || professional daydreamer || typical Gemini || amateur photographer || curious home cook || tea drinker || casual surfer }}. She hosts workshops and works with {{ nice people || authors, designers, and developers || startups, nonprofits, and small businesses }} on {{ websites || digital products || books, interfaces, || content }} and publishing projects.
 
 ----
 
@@ -24,8 +24,8 @@ Making:
 Reading:
 
 * [Unspeakable Things](//www.bloomsbury.com/uk/unspeakable-things-9781408824740/ "by Laurie Penny")
+* [I Know Why the Caged Bird Sings](////en.wikipedia.org/wiki/I_Know_Why_the_Caged_Bird_Sings "by Maya Angelou")
 * [Pedagogy of the Oppressed](//www.pedagogyoftheoppressed.com "by Paulo Freire")
-* [The Gone-Away World](//www.nickharkaway.com/books/the-gone-away-world/ "by Nick Harkaway")
 
 ----
 
