@@ -8,6 +8,15 @@ Lede: Books and articles I recommend reading.
 
 Text:
 
+### Writing Basics
+
+* [This Won’t Take But a Minute, Honey](http://www.harvard.com/book/this_wont_take_but_a_minute_honey1), Steve Almond
+* [Writing Down the Bones](//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20), Natalie Goldberg
+* [Several Short Sentences About Writing](//www.amazon.com/gp/product/0307279413/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279413&linkCode=as2&tag=nicelysaid-20&linkId=ZEOONV7IEOOO3F63), Verlyn Klinkenborg
+* [Bird by Bird: Some Instructions on Writing and Life](//www.amazon.com/gp/product/0385480016/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385480016&linkCode=as2&tag=nicelysaid-20&linkId=WB52XRBRLJYPLUIK), Anne Lamott
+* [Writing to Change the World](//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20), Mary Pipher
+* [The Writer’s Notebook](//www.amazon.com/The-Writers-Notebook-Craft-Essays/dp/0979419816/ref=as_sl_pc_ss_til?tag=swelcont-20&linkCode=w01&linkId=ESCCRJFQKGKTVER4&creativeASIN=0979419816), Craft Essays from Tin House
+
 ### Interface Writing
 
 * [Copywriting is Interface Design](//gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php), Jason Fried
@@ -19,27 +28,9 @@ Text:
 * [Training the CMS](//alistapart.com/article/training-the-cms), Eileen Web
 * [5 Rules for Writing Great Interface Copy](//www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy), John Zeratsky
 
-### Tools and Word Nerdery
-
-* [Wordnik](//wordnik.com)
-* [Title Capitalization Tool](//titlecapitalization.com)
-* [Google Trends](//google.com/trends) (Keyword Search)
-* [Optimizely](//optimizely.com) or [Google Analytics](//google.com/analytics) (Content Testing)
-* [Content Snippets](http://www.contentsnippets.com)
-
-### Content Strategy
-
-* [Fire Drills: Communication Strategy in a Crises](//www.alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
-* [Free Content Strategy for Free](//secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
-* [Wearing the Content Strategy Pants](//thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
-* [Infrequently Asked Questions of FAQs](http://alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
-* [The Elements of Content Strategy](//www.abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
-* [Content Templates to the Rescue](//www.alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
-* [Your About Page is a Robot](//www.alistapart.com/articles/aboutpagerobot/), Erin Kissane
-
 ### Design Education
 
-* [How to Make Sense of Any Mess](http://abbytheia.com/makesense/), Abby Covert
+* [How to Make Sense of Any Mess](//abbytheia.com/makesense/), Abby Covert
 * [The Chairs are Where the People Go](//www.amazon.com/gp/product/0865479453/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0865479453&linkCode=as2&tag=nicelysaid-20&linkId=7VH6DNHTUDFAPTPM), Sheila Heti and Mischa Glouberman
 * [Don’t Go Back to School](//www.kiostark.com/dont-go-back-to-school/), Kio Stark
 * [The Shape of Design](//www.shapeofdesignbook.com/), Frank Chimero
@@ -52,9 +43,20 @@ Text:
 * [Research Questions](//www.nicelysaid.co/research-questions)
 * [Avoiding Bullshit Personas](//speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
 
-### Writing Basics
+### Content Strategy
 
-* [Bird by Bird: Some Instructions on Writing and Life](//www.amazon.com/gp/product/0385480016/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385480016&linkCode=as2&tag=nicelysaid-20&linkId=WB52XRBRLJYPLUIK), Anne Lamott
-* [Writing Down the Bones](//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20), Natalie Goldberg
-* [Several Short Sentences About Writing](//www.amazon.com/gp/product/0307279413/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279413&linkCode=as2&tag=nicelysaid-20&linkId=ZEOONV7IEOOO3F63), Verlyn Klinkenborg
-* [Writing to Change the World](//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20), Mary Pipher
+* [Fire Drills: Communication Strategy in a Crises](//www.alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
+* [Free Content Strategy for Free](//secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
+* [Wearing the Content Strategy Pants](//thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
+* [Infrequently Asked Questions of FAQs](http://alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
+* [The Elements of Content Strategy](//www.abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
+* [Content Templates to the Rescue](//www.alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
+* [Your About Page is a Robot](//www.alistapart.com/articles/aboutpagerobot/), Erin Kissane
+
+### Tools and Word Nerdery
+
+* [Wordnik](//wordnik.com)
+* [Title Capitalization Tool](//titlecapitalization.com)
+* [Google Trends](//google.com/trends) (Keyword Search)
+* [Optimizely](//optimizely.com) or [Google Analytics](//google.com/analytics) (Content Testing)
+* [Content Snippets](http://www.contentsnippets.com)
