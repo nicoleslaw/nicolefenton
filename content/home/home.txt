@@ -15,22 +15,13 @@ Text:
 
 Making:
 
-* [Designing with Words](# "a five-week course for designers")
-* [Iterative Writing](//github.com/nicoleslaw/iterative-writing "an open source experiment")
-* [Redacted](# "a secret thing with Bernard Yu")
+* [Interface Writing Workshop](//www.ux-lx.com/speaker.html?n=nicolef#workshop "for UXLx in Portugal")
+* [Book Proposal](# "for a creative nonfiction collection")
 
 ----
 
 Reading:
 
-* [Unspeakable Things](//www.bloomsbury.com/uk/unspeakable-things-9781408824740/ "by Laurie Penny")
-* [I Know Why the Caged Bird Sings](////en.wikipedia.org/wiki/I_Know_Why_the_Caged_Bird_Sings "by Maya Angelou")
 * [Pedagogy of the Oppressed](//www.pedagogyoftheoppressed.com "by Paulo Freire")
-
-----
-
-Testimonial:
-
-> “To improve reality is to clearly see where you are, and then wonder how to make that better.”
-
-— Warren Ellis, How to See the Future
+* [I Know Why the Caged Bird Sings](http://en.wikipedia.org/wiki/I_Know_Why_the_Caged_Bird_Sings "by Maya Angelou")
+* [Hild](//us.macmillan.com/hild/nicolagriffith "by Nicola Griffith")

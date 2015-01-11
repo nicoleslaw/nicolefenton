@@ -8,11 +8,11 @@ Lede: I write books, talks, and essays about working with language and making di
 
 Featured-writing: ## Featured Writing ## {.list-section-title}
 
-### [Honest Marketing](/honest-marketing) ###
-Most marketing sucks. But you’re making something you love and care about, and it’s not going to sell itself. In this workshop, I share principles and activities for writing honestly.
-
 ### [Interface Writing: Code for Humans](/interface-writing/) ###
-We build systems to help real people. But honestly, are we being that helpful in our interfaces? Or are we treating words as an afterthought and letting people fend for themselves?
+We build systems to help real people, but are we being that helpful in our interfaces? Or are we treating words as an afterthought and letting people fend for themselves?
+
+### [Honest Marketing](/honest-marketing) ###
+Most marketing sucks. But you’re making something you love and care about, and it’s not going to sell itself. In this talk, I share principles and activities for writing honestly.
 
 ### [Power and Responsibility](/power-and-responsibility/) ###
 Have you ever looked someone up in a database? Did you find what you were looking for?

@@ -8,10 +8,11 @@ Lede: Books and articles I recommend reading.
 
 Text:
 
-### Writing Basics
+### Writing
 
 * [This Won’t Take But a Minute, Honey](http://www.harvard.com/book/this_wont_take_but_a_minute_honey1), Steve Almond
 * [Writing Down the Bones](//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20), Natalie Goldberg
+* [Corn Maze](//web.archive.org/web/20140729114837/http://www.hungermtn.org/corn-maze/), Pam Houston
 * [Several Short Sentences About Writing](//www.amazon.com/gp/product/0307279413/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279413&linkCode=as2&tag=nicelysaid-20&linkId=ZEOONV7IEOOO3F63), Verlyn Klinkenborg
 * [Bird by Bird: Some Instructions on Writing and Life](//www.amazon.com/gp/product/0385480016/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385480016&linkCode=as2&tag=nicelysaid-20&linkId=WB52XRBRLJYPLUIK), Anne Lamott
 * [Writing to Change the World](//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20), Mary Pipher
@@ -19,8 +20,8 @@ Text:
 
 ### Interface Writing
 
+* [On Writing Interfaces Well](//signalvnoise.com/posts/3633-on-writing-interfaces-well), Jonas Downey
 * [Copywriting is Interface Design](//gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php), Jason Fried
-* [On Writing Interfaces Well](//signalvnoise.com/posts/3633-on-writing-interfaces-well), Jason Fried
 * [Questions I Ask When Reviewing a Design](//37signals.com/svn/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
 * [Testing Content](//alistapart.com/article/testing-content), Angela Colter
 * [User Onboarding](//www.useronboard.com), Samuel Hulick
