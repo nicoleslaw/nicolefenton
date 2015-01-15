@@ -2,7 +2,7 @@ Title: Nicole Fenton
 
 ----
 
-About: Nicole Fenton is an independent editor, strategist, and interface writer.
+About: Nicole Fenton is an editor, strategist, and interface writer in New York City. She designs with words.
 
 ----
 
@@ -10,7 +10,7 @@ Author: Nicole Fenton | http://nicolefenton.com
 
 ----
 
-Copyright: © 2014 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
+Copyright: © 2013–2015 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
 
 ----
 
@@ -18,7 +18,7 @@ Twitter: @nicoleslaw
 
 ----
 
-Address: *For new project inquiries or mentoring, please email (email: nicole@nicolefenton.com).*
+Address: *For new project inquiries or mentoring, please email (email: nicole@nicolefenton.com). Available in March.*
 
 ----
 
@@ -44,6 +44,7 @@ Clients: ## Recent Clients ## {.list-section-title}
 - MICROSOFT
 - MINED
 - PINTEREST
+- PROPUBLICA
 - QUALITY PEOPLES
 - SAFARI BOOKS ONLINE
 - TEUXDEUX

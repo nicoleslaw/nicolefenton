@@ -36,9 +36,7 @@ You get the idea. So bossy.
 
 Think about the app you’re building right now.
 
-What actions can people take? What are you asking them to do?  
-What are you allowing them to do? What are the rules and dead-ends?  
-What sort of language do you use to guide people?
+What actions can people take? What are you asking them to do? What are you allowing them to do? What are the rules and dead-ends? What sort of language do you use to guide people?
 
 <figure><img src="/interface-writing/interfaces07.jpg" alt="paris arcades" /></figure>
 
@@ -90,7 +88,7 @@ And then he would ask, “Why are you bored?” or “Are you sure you are bored
 
 <figure><img src="/interface-writing/interfaces15.png" alt="zen koan"></figure>
 
-And this would result in me having a tiny existential freakout. I would get sick of that topic, and then switch over to cussing or saying something inappropriate. And if I did that long enough, Dr. Sbaitso would throw a [parity error](https://www.youtube.com/watch?v=1GaWfCWcW3M).
+And this would result in me having a tiny existential freakout. I would get sick of that topic and switch over to cussing or saying something inappropriate. And if I did that long enough, Dr. Sbaitso would throw a [parity error](https://www.youtube.com/watch?v=1GaWfCWcW3M).
 
 The reason I bring this up is that it shapes how I think about interface writing. Dr. Sbaitso was pre-programmed with all of these different strings to respond with.
 
@@ -132,9 +130,9 @@ Here are some examples of things you might be asking:
 * Is it okay if we share this information?
 * What do you think about when you’re alone?
 
-You probably wouldn’t ask a complete stranger these things without some sort of conversation or consent first.
+You probably wouldn’t ask a complete stranger these things without a conversation or consent.
 
-Each of these interactions should feel like a conversation between two people who trust each other. And two people who deserve each other’s trust. It can’t be one-sided. Unless you want to be cold like Dr. Sbaitso or creepy like HAL, you need to take the time to think about these prompts and put yourself in the reader’s shoes. So let’s talk about how to go about this.
+Each of these interactions should feel like a conversation between two people who trust each other and deserve each other’s trust. It can’t be one-sided. Unless you want to be cold like Dr. Sbaitso or creepy like HAL, you need to take the time to think about these prompts and put yourself in the reader’s shoes. So let’s talk about how to do this.
 
 ### Tips
 
@@ -169,7 +167,7 @@ Think about the hidden gems on your site too. If the user isn’t ready to make 
 
 Tell them what to expect and help them accomplish their goal. Remember that you’re working with hypertext. You can include links or images to make your point.
 
-Here’s an example from [Pinterest](https://pinterest.com). You can see the cocktail my friend Tom pinned, along with other pins he relates to this one and other pins from the source. They’re also prompting me to sign up, since it only takes a second or two. They’re making all of those paths clear.
+Here’s an example from [Pinterest](https://pinterest.com). You can see the cocktail my friend Tom pinned, along with other pins he relates to this one and other pins from the source. Pinterest is also prompting me to sign up, since it only takes a second or two. They’re making all of those paths clear.
 
 <figure><img src="/interface-writing/interfaces19.png" alt="pinterest cocktail interface" /></figure>
 
@@ -217,7 +215,7 @@ Now’s the time when I’ll tell you what _not_ to do, since some people find t
 
 **Don’t interrupt.** Keep things focused and make sure this is the best time to deliver this message.
 
-**Don’t be a robot.** Don’t do this.
+**Don’t be a robot.** Don’t do this:
 
 <figure><img src="/interface-writing/interfaces24.png" alt="avasti prompt" /></figure>
 
@@ -245,7 +243,7 @@ As Paul Ford says in [10 Timeframes](//contentsmagazine.com/articles/10-timefram
 
 You write code iteratively, so why not the rest of it? It’s okay if your interface writing isn’t perfect. But you better believe that you need to go back and clean up those strings before you go live.
 
-One way to make that easier is to organize your code. Maybe you have a mailer folder for all of your emails, or an errors folder for your error messages. You can do that in Ruby with your localization file. Make it easy for yourself and your team to keep things up to date. If you’re writing QA tests, please don’t hard code strings into them. Start with the assumption that the copy will change.
+One way to make that easier is to organize your code. Maybe you have a mailer folder for all of your emails or an errors folder for your error messages. You can do that in Ruby with your localization file. Make it easy for yourself and your team to keep things up to date. If you’re writing QA tests, please don’t hard code strings into them. Start with the assumption that the copy will change.
 
 Writing is a messy, iterative process. Here’s an example of what a writing plan looks like for me. This is an illustration by Alvin Diec from the book I coauthored, *[Nicely Said](//nicelysaid.co)*.
 
@@ -263,7 +261,7 @@ My process begins with the questions I mentioned, and then I sketch a rough outl
 
 From here, I usually narrow it down to two or three options. Writing copy variations makes it easier to come up with something good, and it also gives you a place to start when you’re A/B testing. Don’t be afraid to test calls to action and navigation labels. Those little details add up to huge improvements in conversion and engagement.
 
-But I want to make another point about testing. You should *never* test something you wouldn’t ship. Don’t throw your principles out for numbers. Your readers don’t know a test from a normal piece of text. If you’re not comfortable with a particular phrase, it doesn’t belong in a test.
+You should *never* test something you wouldn’t ship. Don’t throw your principles out for numbers. Your readers don’t know a test from a normal piece of text. If you’re not comfortable with a particular phrase, it doesn’t belong in a test.
 
 Lastly, remember the text can change. Don’t try to perfect it the first time. Keep refining it. Make it clear, and then make it clearer. Find a way to build a system that works for your readers and your business.
 
