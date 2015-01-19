@@ -112,6 +112,7 @@ figure, .content li { font-size: 18px; font-size: 1.125rem; }
 .article-text h1 { line-height: 1.1666666667; padding-top: 7rem; text-align: center; background: transparent none no-repeat top center; font-size: 36px; font-size: 2.25rem; }
 .article-text h1:after { display: block; clear: both; height: 3.6875rem; margin-top: -0.25rem; margin-bottom: 0.25rem; content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIzMi4zOTZweCIgaGVpZ2h0PSIyLjM3NXB4IiB2aWV3Qm94PSIwIDAgMzIuMzk2IDIuMzc1IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMi4zOTYgMi4zNzUiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9IiMwMTAxMDEiIGQ9Ik0zMi4zOTYsMi4zNzVIMFYwaDMyLjM5NlYyLjM3NXoiLz48L2c+PC9zdmc+); }
 .article-text h3, .article-text h4 { font-weight: 400; line-height: 1.8; margin-top: 3em; margin-bottom: 1em; }
+.page-id--cv .article-text h4 { margin-top: 1em; }
 .article-text h3 { font-size: 24px; font-size: 1.5rem; }
 .article-text h4 { font-size: 20px; font-size: 1.25rem; }
 .article-text section + footer { margin-top: 3rem; }
