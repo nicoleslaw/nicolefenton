@@ -1,0 +1,70 @@
+Title: CV
+
+----
+
+Text: ### Writing and Editing ###
+Coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](http://nicelysaid.co)* with Kate Kiefer Lee, New Riders, 2014
+
+Editor of *[How to Make Sense of Any Mess](http://bit.ly/HTMSOAM)* by Abby Covert, CreateSpace, 2014
+
+Copyeditor of *[On Web Typography](http://www.abookapart.com/products/on-web-typography)* by Jason Santa Maria and *[You’re My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)* by Mike Monteiro, A Book Apart, 2014
+
+Contributing Author, [Web Standards Sherpa](http://webstandardssherpa.com), 2011—2014
+
+Freelance Writer and Editor, 2010—present
+
+* Helps nonprofits and growing teams develop purposeful communications and publishing workflows. Recent clients include Macmillan, ProPublica, Happy Cog, Safari Books Online, Wishbone.org, and The Factory.
+* Coaches writers, researchers, designers, and developers on a limited basis.
+
+### Work Experience ###
+
+#### [Facebook](//facebook.com) ####
+Senior Content Strategist, 2012—2013
+
+* Led content efforts for Facebook Timeline and Facebook Platform. Wrote privacy messages, product tours, legal terms, instruction text, and marketing copy for usability and conversion testing.
+* Established content standards, SDK documentation patterns, and organizing principles for the Facebook Developer Center. Hosted internal workshops about clarity, voice, and tone.
+
+#### [Lab Zero Innovations](//labzero.com) ####
+Senior Content Strategist, 2011—2012
+
+* Led content strategy, writing, and branding efforts for several long-term development projects, including Visa’s digital wallet, Clockwork Recruiting, and Authorize.Net for iPhone. Created wireframes and design guidelines.
+* Established developer-friendly editorial processes in an agile, flat organization.
+
+#### [Mule Design Studio](//muledesign.com) ####
+Content Strategist, 2010
+
+* Developed content strategies, publishing workflows, web copy, and nomenclature for clients, including Open Society Foundations, eNotes, and the Glaucoma Research Foundation.
+* Conducted interviews and collaborated with the research team on proposals and creative briefs. Wrote blog posts, case studies, and marketing materials for the studio.
+
+#### [Apple Inc.](//apple.com) ####
+Communications Lead, 2005–2010
+
+* Trained and coached a team of writers for the Apple Online Store. Developed global processes, training materials, internal announcements, and a communications style guide.
+* Managed launch communications for the first iPhone and iPad. Collaborated with legal and translation teams to launch new international stores in Brazil and French Canada (Team Impact Award).
+
+### Speaking and Teaching ###
+
+#### Workshops ####
+* *Interface Writing* at [UXLx](//www.ux-lx.com/) in Lisbon, Portugal, June 2015
+* *Interface Writing* hosted by [Triangle UXPA](//triuxpa.org/event-1794981) at the Contemporary Art Museum in Raleigh, NC, December 2014
+* *Web Writing* at [Confab Higher Ed](//confabevents.com/events/higher-ed) in Atlanta, GA, November 2014
+* *Honest Marketing* at [Nearly Impossible](//nearlyimpossible.org/conference/nyc/) in New York, NY, October 2014
+
+#### Lectures ####
+* *Interface Writing: Code for Humans* at [Burlington Ruby Conference](//burlingtonrubyconference.com/) in Burlington, VT, August 2014
+* *Content Strategy 101* at [General Assembly](//generalassemb.ly) in New York, NY, February and June 2014
+* *Writing for Beginners* at [Build Conference](//2013.buildconf.com) in Belfast, Northern Ireland, November 2013
+* *Winning Tactics* at Confab in London, England, March 2013
+
+### Education ###
+
+University of Texas at Austin  
+Bachelor of Arts in English Composition, French minor, 2004
+
+----
+
+Photo-credit: Portrait by [George Baier](http://georgebaier.com/).
+
+----
+
+Photo: <img src="/_/images/nicoleslaw_circle.png" width="100" height="100" alt="Nicole Fenton" class="aligncenter" />
