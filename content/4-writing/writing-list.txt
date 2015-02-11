@@ -30,6 +30,7 @@ Business-writing: * [Manifesto](/manifesto)
 * [Working in Technology](//www.swellcontent.com/2013/04/working-in-technology/)
 * [Strategy for Small Brands](//www.swellcontent.com/2012/12/small-brand-strategy/)
 * [Working on Content with Developers](//www.swellcontent.com/2012/04/working-with-developers/)
+* [Writing is Design](/writing-is-design/)
 
 More on [Swell Content](//swellcontent.com).
 

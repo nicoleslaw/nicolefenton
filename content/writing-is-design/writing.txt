@@ -1,0 +1,41 @@
+Title: Writing is Design
+
+----
+
+Lede: This was originally posted on the <a href="https://web.archive.org/web/20130714081845/http://muledesign.com/2010/06/writing-is-design">Mule Design blog</a>.
+
+----
+
+Pubdate: June 17, 2010
+
+----
+
+Text: Writing is design. Writers design stories and communicate with words. You need a story to connect people with your site or application. Clear, effective copy involves and informs.
+
+<figure><img src="/writing-is-design/designelements.png" alt="Design Elements, illustration by Mike Monteiro" /></figure>
+
+Jason Fried recently posted this to Twitter:
+
+> Writing is design. Design your sentences with the right words like you design your interfaces with the right pixels.
+
+Along with shaping the tone of your site and your audience’s mood, word choice affects customer satisfaction and profitability (e.g., search, clicks, conversions, and customer loyalty). Erika Hall talked about this in 2007 at the Future of Web Apps Conference. In her session, [Copy is Interface](http://www.slideshare.net/mulegirl/copy-is-interface), she said: “Language is itself an interface,” and outlined simple guidelines for getting the words right:
+
+* Be authentic.
+* Be engaging.
+* Be specific.
+* Be appropriate.
+* Be polite.
+
+I would add:
+
+* Be concise.
+* Be consistent.
+* Be careful.
+
+Writers inform people about companies and products with language, structure, imagery, ideas, and craft. Jason Fried mentioned this before in Getting Real:
+
+> Good writing is good design. It’s a rare exception where words don’t accompany design. Icons with names, form fields with examples, buttons with labels, step by step instructions in a process, a clear explanation of your refund policy. These are all interface design.
+
+When I write a refund policy, hover message, error message, FAQ, or tagline, I design the story. Writing, like interface design, is shaped by a series of decisions. It shows what a company chooses to say and chooses not to say to customers. Writing influences perception and understanding. Writing shapes the experience.
+
+Good writing takes strategic-thinking, research, focus, testing, and editing. We plan, pattern, create, and compose; all of these acts are part of the design process.
