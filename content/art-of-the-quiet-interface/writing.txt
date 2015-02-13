@@ -1,0 +1,200 @@
+﻿Title: Art of the Quiet Interface
+
+----
+
+Lede: This article was originally published by <a href="http://webstandardssherpa.com/reviews/art-of-the-quiet-interface/">Web Standards Sherpa</a> as a follow-up to <a href="http://contentsmagazine.com/articles/space-to-breathe/">Space to Breathe</a>.
+
+----
+
+Pubdate: 
+
+----
+Text:
+<figure><img src="/art-of-the-quiet-interface/quiet_home.png" alt="Bon Appétit Home" /></figure>
+<p><em>Bon Appétit’s homepage.</em></p>
+
+<p>As advertisers and publishers fully embrace digital, we’re faced with a hefty editorial challenge. Print books and magazines let you enjoy one piece at a time without interruption. As <a href="http://www.wired.com/techbiz/people/magazine/17-06/st_thompson">Clive Thompson</a> says, “One of the chief pleasures of a book is mental solitude, that deep, quiet focus on an author’s thoughts—and your own.” Finding that kind of focus isn’t easy online.</p>
+
+<p><a href="http://www.readability.com/">Readability</a>, <a href="http://www.instapaper.com/">Instapaper</a>, <a href="http://www.apple.com/macosx/apps/#safari">Safari Reader</a>, and <a href="http://www.evernote.com/clearly/">Evernote Clearly</a> address this gap by giving you a distraction-free view of the web. But should readers rely on special features to enjoy our websites? Or can we design for reading from the start? This is the art of the quiet interface: a tricky balancing act of cutting and connecting the information our readers interact with.</p>
+
+### A Tasty Example
+
+<p>Quiet is rare in online magazines, where empty corners invite ads, social media plugins, and subscription offers. Let’s work with a specific example close to my foodie heart. With <a href="http://abcas3.accessabc.com/ecirc/magtitlesearch.asp">over 1.5 million paid subscribers</a>, <a href="http://www.bonappetit.com/">Bon Appétit</a> attracts a variety of readers from home cooks to chefs and gourmands. Strong writing and a passionate audience present Bon Appétit with a big opportunity to serve up fresh, timely content. Let’s look at two ways to make their content more inviting: slower pacing and smarter content pairings.</p>
+
+#### Don’t Bombard the Reader
+
+<p>Every page of Bon Appétit is brimming with great information, to the point of being a bit overwhelming. We can solve this problem by eliminating interruptions and improving the focus of the content, starting with the homepage.</p>
+
+#### Avoid Interrupting
+
+<p>When you first visit the site, a pop-up message hovers over the page. “Subscribe,” it says, for “Just $1 an Issue.” The same message displays next to the pop-up in the top-right corner, adding: “Plus, 2 Free Gifts!” If you’re feeling patient and want to read the featured article, you may hover over the carousel only to be interrupted by another subscription request in the sub-navigation.</p>
+
+<figure><img src="/art-of-the-quiet-interface/quiet_home2.png" alt="Bon Appétit Home" /></figure>
+
+<p><em>Subscription offers galore: the top-right is static, the middle loads with the page, and the left one displays if you hover on Subscribe in the sub-nav.</em></p> <p>Well-timed content helps the reader get closer to your brand. We can improve the flow here with a few strategic questions:</p>
+
+<ul>
+	<li>Has the reader had a chance to process the most important information?</li>
+	<li>Does the presentation and structure of the content help people do what they came to do?</li>
+	<li>Is this the <a href="http://www.alistapart.com/articles/words-that-zing/">best time and place</a> to ask for subscriptions?</li>
+<li>Can we use calls to action more sparingly to <a
+href="http://boagworld.com/design/10-techniques-for-an-effective-call-to-action/">strengthen their
+message</a>?</li> <li>Does the navigation serve the audience or the organization?</li>
+</ul>
+
+<p>Try not to be pushy or forceful. As reader advocates, we should eliminate interruptions that could irritate or frustrate people. Calls to action are especially tricky to get right. We could quickly cut one of the pop-ups here to resolve the immediate issue. Finding the right long-term solution may require in-depth <a href="http://www.alistapart.com/articles/testing-content/">content testing</a>.</p>
+
+#### Keep It Focused
+
+<p>Cut confusing information where you can. In this case, ads and social updates in the sidebar distract the eye from the main features.</p>
+
+<figure><img src="/art-of-the-quiet-interface/quiet_home.png" alt="Bon Appétit Social" /></figure>
+<p><em>Bon Appétit’s Facebook and Twitter info in the homepage sidebar.</em></p>
+
+<p>For the Facebook section: Are the fans relevant here? Would the cocktail article be more enticing without their faces alongside it?</p>
+
+<p>For the Twitter section: Do the tweets help guide the reader or encourage subscriptions? Do these voices suit the brand? Could we improve focus on the page without this section? Why does this section have a tab for the homepage?</p> <p>Keeping business goals in mind, we could explore several ways to make the social bits less distracting and more effective:</p>
+<ul>
+	<li>Give feature images more visual weight than social modules. As it is, the Facebook section is bigger than the grapefruit cocktail.</li>
+	<li>Switch the Facebook focus from random people to the Bon Appétit brand. <a href="http://www.theatlantic.com/">The Atlantic</a> does this well, by crafting their own Facebook features and dynamically sharing articles
+your friends are reading.</li>
+</ul>
+
+
+<figure><img src="/art-of-the-quiet-interface/quiet_atlantic.png" alt="The Atlantic" /></figure>
+<p><em>The Atlantic links to their Facebook page in the context of their brand.</em></p>
+
+<figure><img src="/art-of-the-quiet-interface/quiet_atlantic2.png" alt="The Atlantic’s Facebook Module" /></figure>
+
+<p><em>The Atlantic’s Facebook section highlights articles your friends enjoyed.</em></p>
+
+<ul>
+	<li>Update the Twitter module with the <a href="https://twitter.com/#!/bonappetit/">Bon Appétit account</a>, rather than the staff list.</li>
+	<li>Replace the streaming social bits with basic “Like Us” and “Follow Us” icons.</li>
+</ul>
+
+<p>While there are many ways to improve the focus on the site, it’s up to us to research and test these ideas to find the right solution for the brand. Reducing the noise on the page shows readers we’ve earned their attention. If people can concentrate on our content, they’re more likely to delve into it.</p>
+
+### Slow Things Down
+
+<p>Slowness encourages stillness. When we slow down the flow of information and set a healthy pace for our readers, we encourage them to sit and enjoy the content—and come back for more.</p>
+
+#### Start With a Taste
+
+<p>The homepage serves several purposes, with none more important than orienting the reader. By giving readers a sense of place, we also give them a sense of possibility and confidence to explore.</p>
+
+<p>Treat your homepage like an appetizer, not a feast. Give the reader a taste of what’s there without overwhelming them with choices. As we’re all curious folk, people naturally find what interests them most and move further into it, so long as you give them room to breathe.</p>
+
+<p>As an example, the blog page has quite a bit going on:</p>
+
+<ul>
+	<li>Ads and subscription requests</li>
+	<li>Navigation</li>
+	<li>Featured recipes</li>
+	<li>Blog posts</li>
+	<li>Popular blog posts and recipes</li>
+	<li>A newsletter signup form</li>
+	<li>Social feeds and social icons</li>
+</ul>
+
+<figure><img src="/art-of-the-quiet-interface/quiet_blogs.png" alt="Bon Appétit Blogs" /></figure>
+<p><em>A recent article on Bon Appétit’s blog.</em></p>
+
+<p>It takes several minutes to see what’s there, let alone choose what to focus on. Make the content more digestible by reducing the volume where you can:</p>
+
+<ul>
+	<li>Present a smaller variety of topics at a time. Use <a href="http://webstandardssherpa.com/reviews/designing-scannable-headlines#figure-4">the blur test</a> for reference.</li>
+	<li>Use graphics wisely, as they can distract the eye and <a href="http://blog.kissmetrics.com/shocking-truth-about-graphics/">reduce conversion</a>. Work on reducing the number of images in the sidebar.</li>
+	<li>Remove irrelevant or repetitive bits. If they’re absolutely necessary, try <a href="http://webstandardssherpa.com/reviews/dissecting-a-chattarati-sidebar/">clustering less important pieces</a> (e.g., related articles, offers, and links) and moving them below the feature.</li>
+	<li>See how your competition keeps all the extra bits organized. <a href="http://www.chow.com/">Chow</a> limits ads, starts with fewer articles, and keeps the eye on the featured content.</li>
+	<li>Strike a balance between what readers enjoy and what your organization wants to publish. Use analytics data to find popular posts, search keywords, and drop-off pages.</li>
+</ul>
+
+<p>Rather than bringing everything to the table at once, start small and entice the reader to stay a while.</p>
+
+#### Set a Deliberate Pace
+
+<p>Along with simplifying and breaking things down, give the reader ample time to enjoy each section. This means thinking about how long someone needs to read the pieces themselves. Much like various parts of a meal, different types of information require different amounts of time to digest. Bon Appétit includes:</p>
+
+<ul>
+	<li>Long-form essays, reviews, and interviews</li>
+	<li>Medium-length recipes and menus</li>
+	<li>Quick instructional videos and slideshows</li>
+	<li>Bite-sized tips and status updates</li>
+	</ul>
+
+<p>With this much variety in topics, depth, and breadth, planning the content’s timing is imperative.
+Longer reads deserve slow consideration. Recipes may take even longer; though the sentences may be
+concise, the steps to make a meal could take hours. Tips and tricks would be brightest just before or
+after a main feature.</p>
+
+<p>Here are some places we could improve pacing within the site.</p>
+
+1. Turn off auto-advancing on the <a href="http://www.bonappetit.com/">homepage carousel</a>.
+2. Home cooks may find the <a href="http://www.bonappetit.com/recipes/2010/12/curried_lentil_soup">Do Ahead</a> section valuable when planning a meal with several dishes. Consider bringing that up before the recipe.
+3. Pull helpful tips out of <a href="http://www.bonappetit.com/recipes/slideshows/2011/06/sriracha-recipes-slideshow">slideshows</a> that require the reader to scroll with each click.
+4. Keep <a href="http://www.bonappetit.com/recipes/perfect-fried-chicken">videos</a> front-and-center if they’re important to the feature.
+
+<p>Decisions like these take time to get right. Consider these questions when arranging and pacing your content:</p>
+
+<ul>
+	<li>Are things in order? Do the pieces flow naturally?</li>
+	<li>Is anything hiding that breaks the reader’s train of thought?</li>
+	<li>Can you slow anything down to give the reader more time?</li>
+	<li>Do the elements work together?</li>
+</ul>
+
+### Pair Intelligently
+	
+<p>Quieting things down helps readers familiarize themselves with individual topics and techniques. Once you minimize noise and maximize attention, take it one step further and tie things together in a smart way.</p>
+
+#### Keep Logical Items Together
+
+<p>Recipes could pair better with suggested menus. For example, it would be prudent to showcase veggie-friendly items with vegetarian recipes, rather than meat braising tips:</p>
+
+<figure><img src="/art-of-the-quiet-interface/quiet_vegetarian.png" alt="Bon Appétit Vegetarian Recipes" /></figure>
+
+<p><em>Bon Appétit’s vegetarian recipe collection.</em></p>
+
+#### Make Helpful Connections
+
+<p>Help the reader understand complex topics by associating different types of content in meaningful ways. If you’re not sure where to start, dive into common questions in the comments.</p>
+
+<p>As an example, <a href="http://www.bonappetit.com/recipes/2012/02/skillet-fried-chicken">this recipe</a> confused several readers, as it doesn’t specify which type of kosher salt to use (and salt varies in
+saltiness, based on the brand). This is an important detail. Consider updating the article to specify
+the brand of salt and link to a <a href="http://www.bonappetit.com/blogsandforums/blogs/projectrecipe/2008/06/11/does-it-matter-what-kind-of-sa.html">related article</a> about choosing the right salt.</p>
+
+<p>Another way to make helpful connections is to read through an article and think about what questions it raises for you. <a href="http://www.bonappetit.com/blogsandforums/blogs/bafoodist/2012/02/things-real-cooks-should-buy-n.html">This shopping list</a> answers one question, but does it need to end there? Perhaps we could include a few hand-picked recipes inline or at the bottom that call for these fancy ingredients.</p>
+
+<p>When one thing doesn’t fully stand on its own, it makes sense to pair it with another. Revisit your content regularly, so you can find and explore ways to connect ideas for readers.</p>
+
+<p>There’s a feast of information here, just waiting to be picked and paired in a fresh way. Treat each piece of content—whether ad, image, text, or video—with the care a chef would with give to their ingredients.</p>
+
+#### Going the Extra Mile
+
+<p>Keep the noise down on social channels too. Social sites like Facebook and Twitter give you a great way to keep avid fans in the loop. But that doesn’t mean you have to post everything that goes up on the site. Keep it brief and use your feed wisely. Be careful not to post too many things in a day or retweet bits that don’t fit your brand.</p>
+
+#### Pitfalls to Avoid
+<ul>
+	<li>Avoid overloading pages with tertiary content.</li>
+	<li>Don’t interrupt. Give readers the time they need to digest important details.</li>
+	<li>Don’t overuse calls to action. Keep marketing messages to a minimum.</li>
+</ul>
+
+#### Things to Do
+<ul>
+	<li>Review your site regularly to keep things fresh.</li>
+	<li>Keep the site focused on what people need.</li>
+	<li>Connect the dots for people by tying together related topics.</li>
+</ul>
+
+----
+
+Footnotes:
+
+<h2>Further Reading</h2>
+
+<ul>
+	<li><a href="//interface-writing/">Interface Writing: Code for Humans</a></li>
+	<li><a href="//nicelysaid.com">Nicely Said: Writing for the Web with Style and Purpose</a></li>
+</ul>
