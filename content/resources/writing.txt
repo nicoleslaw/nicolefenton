@@ -10,8 +10,8 @@ Text:
 
 ### Writing
 
-* [This Won’t Take But a Minute, Honey](http://www.harvard.com/book/this_wont_take_but_a_minute_honey1), Steve Almond
-* [Writing Down the Bones](//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20), Natalie Goldberg
+* [This Won’t Take But a Minute, Honey](//harvard.com/book/this_wont_take_but_a_minute_honey1), Steve Almond
+* [Writing Down the Bones](//amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20), Natalie Goldberg
 * [Corn Maze](//web.archive.org/web/20140729114837/http://www.hungermtn.org/corn-maze/), Pam Houston
 * [Several Short Sentences About Writing](//www.amazon.com/gp/product/0307279413/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279413&linkCode=as2&tag=nicelysaid-20&linkId=ZEOONV7IEOOO3F63), Verlyn Klinkenborg
 * [Bird by Bird: Some Instructions on Writing and Life](//www.amazon.com/gp/product/0385480016/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385480016&linkCode=as2&tag=nicelysaid-20&linkId=WB52XRBRLJYPLUIK), Anne Lamott
@@ -23,36 +23,45 @@ Text:
 * [On Writing Interfaces Well](//signalvnoise.com/posts/3633-on-writing-interfaces-well), Jonas Downey
 * [Copywriting is Interface Design](//gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php), Jason Fried
 * [Questions I Ask When Reviewing a Design](//37signals.com/svn/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
-* [Testing Content](//alistapart.com/article/testing-content), Angela Colter
 * [User Onboarding](//www.useronboard.com), Samuel Hulick
 * [Shorthand for Designing UI Flows](//signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), Ryan Singer
 * [Training the CMS](//alistapart.com/article/training-the-cms), Eileen Web
-* [5 Rules for Writing Great Interface Copy](//www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy), John Zeratsky
+* [5 Rules for Writing Great Interface Copy](//fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy), John Zeratsky
 
 ### Design Education
 
 * [How to Make Sense of Any Mess](//abbytheia.com/makesense/), Abby Covert
-* [The Chairs are Where the People Go](//www.amazon.com/gp/product/0865479453/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0865479453&linkCode=as2&tag=nicelysaid-20&linkId=7VH6DNHTUDFAPTPM), Sheila Heti and Mischa Glouberman
-* [Don’t Go Back to School](//www.kiostark.com/dont-go-back-to-school/), Kio Stark
-* [The Shape of Design](//www.shapeofdesignbook.com/), Frank Chimero
+* [The Shape of Design](//shapeofdesignbook.com/), Frank Chimero
 * [Designing in the Borderlands](http://frankchimero.com/talks/designing-in-the-borderlands/transcript/), Frank Chimero
-* [10 Timeframes](//contentsmagazine.com/articles/10-timeframes/), Paul Ford
+* [The Chairs are Where the People Go](//amazon.com/gp/product/0865479453/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0865479453&linkCode=as2&tag=nicelysaid-20&linkId=7VH6DNHTUDFAPTPM), Sheila Heti and Mischa Glouberman
+* [Learning by Heart: Teachings to Free the Creative Spirit](//amazon.com/Learning-Heart-Teachings-Creative-Spirit/dp/0553344455), Corita Kent and Jan Steward
 * [Not Knowing](//tumblr.austinkleon.com/tagged/notknowing), Austin Kleon
+* [10 Timeframes](//contentsmagazine.com/articles/10-timeframes/), Paul Ford
+* [Don’t Go Back to School](//kiostark.com/dont-go-back-to-school/), Kio Stark
+
+### Freelance Life ###
+
+* [Working for Yourself](//www.nolo.com/products/working-for-yourself-wage.html), Stephen Fishman, J.D.
+* [Steal Like an Artist](//austinkleon.com/steal/), Austin Kleon
+* [Show Your Work](//austinkleon.com/show-your-work/), Austin Kleon
+* [Design is a Job](//abookapart.com/products/design-is-a-job), Mike Monteiro
+* [You’re My Favorite Client](//abookapart.com/products/youre-my-favorite-client), Mike Monteiro
 
 ### Research
 
-* [Research Questions](//www.nicelysaid.co/research-questions)
+* [Research Questions](//nicelysaid.co/research-questions)
 * [Avoiding Bullshit Personas](//speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
 
 ### Content Strategy
 
-* [Fire Drills: Communication Strategy in a Crises](//www.alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
+* [Fire Drills: Communication Strategy in a Crises](//alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
 * [Free Content Strategy for Free](//secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
 * [Wearing the Content Strategy Pants](//thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
-* [Infrequently Asked Questions of FAQs](http://alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
-* [The Elements of Content Strategy](//www.abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
-* [Content Templates to the Rescue](//www.alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
-* [Your About Page is a Robot](//www.alistapart.com/articles/aboutpagerobot/), Erin Kissane
+* [Testing Content](//alistapart.com/article/testing-content), Angela Colter
+* [Infrequently Asked Questions of FAQs](//alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
+* [The Elements of Content Strategy](//abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
+* [Content Templates to the Rescue](//alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
+* [Your About Page is a Robot](//alistapart.com/articles/aboutpagerobot/), Erin Kissane
 
 ### Tools and Word Nerdery
 
@@ -60,4 +69,4 @@ Text:
 * [Title Capitalization Tool](//titlecapitalization.com)
 * [Google Trends](//google.com/trends) (Keyword Search)
 * [Optimizely](//optimizely.com) or [Google Analytics](//google.com/analytics) (Content Testing)
-* [Content Snippets](http://www.contentsnippets.com)
+* [Content Snippets](//contentsnippets.com)
