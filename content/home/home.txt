@@ -1,6 +1,5 @@
 Title: Home
 
-
 ----
 
 Home Bio:
@@ -16,12 +15,13 @@ Text:
 Making:
 
 * [Interface Writing Workshop](//www.ux-lx.com/speaker.html?n=nicolef#workshop "for UXLx in Portugal")
+* [Articulating Design](# "a lecture about writing in the design process")
 * [Book Proposal](# "for a creative nonfiction collection")
 
 ----
 
 Reading:
 
-* [Pedagogy of the Oppressed](//www.pedagogyoftheoppressed.com "by Paulo Freire")
-* [Sister Outsider](//www.amazon.com/gp/product/1580911862/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1580911862&linkCode=as2&tag=swelcont-20&linkId=TF2LOSWUB5AZ5UAQ "by Audre Lorde")
-* [Hild](//us.macmillan.com/hild/nicolagriffith "by Nicola Griffith")
+* [Design for the Real World](//www.worldcat.org/title/design-for-the-real-world-human-ecology-and-social-change/oclc/238293 "by Victor Papanek")
+* [Teaching to Transgress](//www.worldcat.org/title/teaching-to-transgress-education-as-the-practice-of-freedom/oclc/30668295 "by bell hooks")
+* [Learning by Heart](//www.worldcat.org/title/learning-by-heart-teachings-to-free-the-creative-spirit/oclc/214308999 "by Corita Kent and Jan Steward")

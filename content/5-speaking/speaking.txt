@@ -2,7 +2,7 @@ Title: Speaking
 
 ----
 
-Lede: I give talks and run workshops for designers, writers, developers, and digital product teams.
+Lede: I give talks and run workshops for designers, writers, developers, and product teams.
 
 ----
 
@@ -10,7 +10,11 @@ Upcoming Events:
 
 ## Upcoming Events ## {.list-section-title}
 
-### [UXLx](https://www.ux-lx.com) ###
+### [RISD](http://www.risd-id.org/) ###
+Guest Lecture, School of Industrial Design
+Providence, March 12
+
+### [UXLx](//www.ux-lx.com) ###
 Interface Writing Workshop
 Lisbon, June 3–5
 
@@ -20,45 +24,49 @@ Past Events:
 
 ## Past Events ## {.list-section-title}
 
-### [Triangle UXPA](http://triuxpa.org/event-1794981) ###
+### [Syracuse University](//newhouse.syr.edu/) ###
+Guest Lecture, School of Public Communications
+via Skype, February 2015
+
+### [Triangle UXPA](//triuxpa.org/event-1794981) ###
 Interface Writing Workshop
 Raleigh, December 2014
 
-### [Confab Higher Ed](http://confabevents.com/events/higher-ed) ###
+### [Confab Higher Ed](//confabevents.com/events/higher-ed) ###
 Web Writing Workshop with Kate Kiefer Lee  
 Atlanta, November 2014
 
-### [Nearly Impossible](http://nearlyimpossible.org/conference/nyc/) ###
+### [Nearly Impossible](//nearlyimpossible.org/conference/nyc/) ###
 Honest Marketing Workshop
 New York, October 2014
-[Slides](https://speakerdeck.com/nicoleslaw/honest-marketing), [Transcript](/honest-marketing/)
+[Slides](//speakerdeck.com/nicoleslaw/honest-marketing), [Transcript](/honest-marketing/)
 
-### [Blend Conference](http://www.blendconf.com) ###
-Interface Writing: Code for Humans
+### [Blend Conference](//blendconf.com) ###
+*Interface Writing: Code for Humans*
 Charlotte, September 2014
-[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/)
+[Slides](//speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/)
 
 ### [Burlington Ruby Conference](http://burlingtonrubyconference.com) ###
-Interface Writing: Code for Humans
+*Interface Writing: Code for Humans*
 Burlington, August 2014
-[Slides](https://speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/), [Video](http://vimeo.com/103526258)
+[Slides](//speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/), [Video](//vimeo.com/103526258)
 
 ### [General Assembly](http://generalassemb.ly) ###
-Content Strategy 101
+Guest Lecture, User Experience Design Series
 New York, February and June 2014
-[Slides](https://speakerdeck.com/nicoleslaw/designing-with-words)
+[Slides](//speakerdeck.com/nicoleslaw/designing-with-words)
 
 ### [Build Conference](http://2013.buildconf.com) ###
-Writing for Beginners
+*Writing for Beginners*
 Belfast, November 2013
-[Slides](https://speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing-for-beginners/)
+[Slides](//speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing-for-beginners/)
 
-### [Confab London](http://confabevents.com/past-events/london-2013/index.html) ###
-Winning Tactics
+### [Confab London](//confabevents.com/past-events/london-2013/index.html) ###
+*Winning Tactics*
 London, March 2013
-[Slides](https://speakerdeck.com/nicoleslaw/winning-tactics), [Transcript](/winning-tactics)
+[Slides](//speakerdeck.com/nicoleslaw/winning-tactics), [Transcript](/winning-tactics)
 
 ### [Content Strategy Forum](http://2011.csforum.eu) ###
-The Intentional Strategist
+*The Intentional Strategist*
 London, September 2011
-[Slides](https://speakerdeck.com/nicoleslaw/the-intentional-strategist), [Transcript](http://www.swellcontent.com/2011/10/being-intentional/)
+[Slides](//speakerdeck.com/nicoleslaw/the-intentional-strategist), [Transcript](//www.swellcontent.com/2011/10/being-intentional/)
