@@ -14,10 +14,10 @@ $border-width-negative: -1 * $border-width;
 $tall-height: "min-height: 45rem";
 
 $breakpoint-mobile: 600px;
-$breakpoint-mobile-plus-1: $breakpoint-mobile + 1;
+$breakpoint-mobile-plus: $breakpoint-mobile + 1;
 
 $page-max-width: 960px;
-$page-max-width-plus-1: $page-max-width + 1;
+$page-max-width-plus: $page-max-width + 1;
 
 $breakpoint-large: $page-max-width + 6 * $rem-in-px;
 
@@ -33,10 +33,10 @@ $not-mobile: screen and (min-width: ($breakpoint-mobile + 2));
     @media screen and (max-width: $breakpoint-mobile) { @content; }
   }
   @else if $media == not-mobile {
-    @media screen and (min-width: $breakpoint-mobile-plus-1) { @content; }
+    @media screen and (min-width: $breakpoint-mobile-plus) { @content; }
   }
   @else if $media == wide-screens {
-    @media screen and (min-width: $page-max-width-plus-1) { @content; }
+    @media screen and (min-width: $page-max-width-plus) { @content; }
   }
   @else if $media == not-large {
     @media screen and (max-width: $breakpoint-large) { @content; }
@@ -50,26 +50,26 @@ $not-mobile: screen and (min-width: ($breakpoint-mobile + 2));
 /////////////////////////////////////////////////////
 
 // COLORS BY NAME
+$c-black: #111111;
 $c-brown: #b4800f;
 $c-brown-light: #e3a113;
 $c-red: #f84816;
 $c-red-light: #f96237;
-$c-grey-light: #dddddd;
-$c-black: #111111;
-$c-paper: #f8f7f3;
-$c-f8f7f3: $c-paper;
 $c-salmon: #f4c3b4;
+$c-purple: #1b1464;
+$c-grey-light: #dddddd;
+$c-grey-lighter: #e4e4e4;
+$c-paper: #f8f7f3;
 $c-teal: #2c9eef;
 $c-teal-light: #9bd1f7;
-$c-purple: #1b1464;
-$c-grey-e4e4e4: #e4e4e4;
 
 // COLORS BY USE
 $c-page-bg: $c-paper;
 $c-colophon-bg: $c-salmon;
 $c-pubdate: $c-teal;
-$c-linklist-bg: $c-grey-e4e4e4;
+$c-linklist-bg: $c-grey-lighter;
 $c-column-rule: $c-salmon;
+$c-figure-border: $c-paper;
 
 /////////////////////////////////////////////////////
 // FONTS

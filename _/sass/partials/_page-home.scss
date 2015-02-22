@@ -33,7 +33,7 @@
   @include media(not-mobile) {
     margin-left: 1rem;
   }
-  @media screen and ($tall-height) and (min-width: $breakpoint-mobile-plus-1) {
+  @media screen and ($tall-height) and (min-width: $breakpoint-mobile-plus) {
     margin-bottom: 15%;
   }
   &,

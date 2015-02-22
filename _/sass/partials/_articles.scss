@@ -49,7 +49,8 @@
   ul,
   blockquote,
   h2,
-  h4 {
+  h4,
+  figcaption {
     max-width: $body-wrap-width-article;
 
     @include center;
@@ -113,22 +114,20 @@
     margin-top: 3rem;
   }
   blockquote {
-    // font-size: 94%;
     font-style: italic;
     margin-top: 0.618em;
     margin-bottom: 1.618em;
     padding-left: 0;
     padding-left: 2.25em;
+
     @media screen and (max-width: 768px) {
       max-width: 100%;
       padding-right: 10%;
     }
   }
-}
-
-figure img {
-  max-width: 100%;
-  height: auto;
+  figcaption {
+    width: 100%;
+  }
 }
 
 a.contains-image {

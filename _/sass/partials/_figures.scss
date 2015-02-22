@@ -20,25 +20,36 @@
   }
 }
 
-/*
-.article-text figure:first-of-type:after {
-  position: absolute;
-  z-index: 200;
-  right: 5%;
-  content: url("/_/images/dec/circle-figure-over.svg");
-  opacity: 0.25;
+figure.bordered img,
+img.bordered {
+  padding: 4px;
+  border: 2px solid $c-figure-border;
 }
-*/
 
-figure.decoration {
-  text-align: center;
-  @include center;
+figure {
   img {
+    max-width: 100%;
+    height: auto;
+  }
 
+  &.decoration {
+    text-align: center;
+    @include center;
+  }
+
+  &.decoration.more-margin {
+    margin-top: 5.625rem;
+    margin-bottom: 5.625rem;
   }
 }
 
-figure.decoration.more-margin {
-  margin-top: 5.625rem;
-  margin-bottom: 5.625rem;
+figcaption {
+  // width: 100%;
+  text-align: left;
+  font-size: 89%;
+  margin-top: 1rem;
+  font-style: italic;
+  em {
+    font-style: normal;
+  }
 }
