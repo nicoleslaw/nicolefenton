@@ -10,7 +10,7 @@ Pubdate:
 
 ----
 Text:
-<figure><img src="./quiet_home.png" alt="Bon Appétit Home" class="bordered" /> <figcaption>Bon Appétit’s homepage.</figcaption></figure>
+<figure class="bordered"><img src="./quiet_home.png" alt="Bon Appétit Home" /> <figcaption>Bon Appétit’s homepage.</figcaption></figure>
 
 <p>As advertisers and publishers fully embrace digital, we’re faced with a hefty editorial challenge. Print books and magazines let you enjoy one piece at a time without interruption. As <a href="//www.wired.com/techbiz/people/magazine/17-06/st_thompson">Clive Thompson</a> says, “One of the chief pleasures of a book is mental solitude, that deep, quiet focus on an author’s thoughts—and your own.” Finding that kind of focus isn’t easy online.</p>
 
@@ -59,9 +59,9 @@ your friends are reading.</li>
 </ul>
 
 
-<figure><img src="./quiet_atlantic.png" alt="The Atlantic" /> <figcaption>The Atlantic links to their Facebook page in the context of their brand.</figcaption></figure>
+<figure class="bordered"><img src="./quiet_atlantic.png" alt="The Atlantic" /> <figcaption>The Atlantic links to their Facebook page in the context of their brand.</figcaption></figure>
 
-<figure><img src="./quiet_atlantic2.png" alt="The Atlantic’s Facebook Module" /> <figcaption>The Atlantic’s Facebook section highlights articles your friends enjoyed.</figcaption></figure>
+<figure class="bordered"><img src="./quiet_atlantic2.png" alt="The Atlantic’s Facebook Module" /> <figcaption>The Atlantic’s Facebook section highlights articles your friends enjoyed.</figcaption></figure>
 
 <ul>
 	<li>Update the Twitter module with the <a href="https://twitter.com/#!/bonappetit/">Bon Appétit account</a>, rather than the staff list.</li>
@@ -92,7 +92,7 @@ your friends are reading.</li>
 	<li>Social feeds and social icons</li>
 </ul>
 
-<figure><img src="./quiet_blogs.png" alt="Bon Appétit Blogs" /> <figcaption>A recent article on Bon Appétit’s blog.</figcaption></figure>
+<figure class="bordered"><img src="./quiet_blogs.png" alt="Bon Appétit Blogs" /> <figcaption>A recent article on Bon Appétit’s blog.</figcaption></figure>
 
 <p>It takes several minutes to see what’s there, let alone choose what to focus on. Make the content more digestible by reducing the volume where you can:</p>
 
@@ -146,7 +146,7 @@ after a main feature.</p>
 
 <p>Recipes could pair better with suggested menus. For example, it would be prudent to showcase veggie-friendly items with vegetarian recipes, rather than meat braising tips:</p>
 
-<figure><img src="./quiet_vegetarian.png" alt="Bon Appétit Vegetarian Recipes" /> <figcaption>Bon Appétit’s vegetarian recipe collection.</figcaption></figure>
+<figure class="bordered"><img src="./quiet_vegetarian.png" alt="Bon Appétit Vegetarian Recipes" /> <figcaption>Bon Appétit’s vegetarian recipe collection.</figcaption></figure>
 
 #### Make Helpful Connections
 
