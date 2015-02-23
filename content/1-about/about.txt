@@ -2,45 +2,11 @@ Title: About
 
 ----
 
-<<<<<<< Updated upstream
-Text: ## Hello ## {.list-section-title}
-
-I believe good writing is clear, honest, and friendly. I recently cowrote a book about that called *[Nicely Said: Writing for the Web with Style and Purpose](http://www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](http://ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) or [buy a copy](http://nicelysaid.co) of it from your favorite bookstore.
-
-I’m currently helping two clients with their publishing workflows; coaching a fellow writer; writing a proposal for my second book; teaching workshops; and developing a five-week writing course. If you’re interested in working with me, I expect to have more availability by the time the snow melts in early spring. Until then, I’m always happy to hear from you by email.
-
-For the curious, I used to be a senior content strategist at [Facebook](http://facebook.com), [Lab Zero](http://labzero.com), and [Mule Design](http://muledesign.com) in San Francisco. I started my professional writing practice at [Apple](http://apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad. I have an English degree from the University of Texas at Austin and an eternal hankering for tacos.
-
-In the evenings, I read a lot and run [Born Hungry](http://bornhungrymag.com), an online magazine for home cooks. I live in Brooklyn with my [husband](http://maxfenton.com) and our little chihuahua, and work from [Studiomates](http://studiomates.com).
-
-----
-
-Side-projects: ## Side Projects ##
-
-* [Born Hungry](http://bornhungrymag.com)
-* [Tiny Content Framework](http://gist.github.com/nicoleslaw/2155621)
-* [Iterative Writing](http://github.com/nicoleslaw/iterative-writing)
-
-----
-
-Interviews: ## Interviews ##
-
-* [Happy Monday](http://www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
-* [Peachpit](http://www.peachpit.com/articles/article.aspx?p=2228801)
-* [Rad Lady](http://www.radlady.com/2012/07/nicole-jones.html)
-* [The Setup](http://nicole.jones.usesthis.com/)
-* [Together London](https://lucidplot.com/2012/09/12/nicoleslaw-podcast/)
-* [Workspiration](http://workspiration.org/nicole-fenton)
-
-----
-
-=======
-<<<<<<< HEAD
 Text: ## Hello ## {.list-section-title}
 
 I believe good writing is clear, honest, and friendly. I recently cowrote a book about that called *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
 
-I’m currently helping two clients with their publishing workflows; working with [Happy Cog](//happycog.com); coaching writers; working on my second book; and teaching workshops on a limited basis. If you’re interested in working with me, I expect to have more time after the snow melts in early spring. Until then, I’m always happy to hear from you by email.
+I’m currently helping two clients with their publishing workflows; working with [Happy Cog](//happycog.com); advising graduate students; and teaching workshops on a limited basis. If you’re interested in working with me, I expect to have some availability in the early summer. Until then, I’m always happy to hear from you by email.
 
 For the curious, I used to be a senior content strategist at [Facebook](//facebook.com), [Lab Zero](//labzero.com), and [Mule Design](//muledesign.com) in San Francisco. I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad. I have an English degree from the University of Texas at Austin and an eternal hankering for tacos.
 
@@ -65,40 +31,9 @@ Interviews: ## Interviews ##
 * [The Setup](//nicole.jones.usesthis.com/)
 * [Together London](//lucidplot.com/2012/09/12/nicoleslaw-podcast/)
 * [Workspiration](//workspiration.org/nicole-fenton)
-=======
-Text: ## Hello ## {.list-section-title}
-
-I believe good writing is clear, honest, and friendly. I recently cowrote a book about that called *[Nicely Said: Writing for the Web with Style and Purpose](http://www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](http://ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) or [buy a copy](http://nicelysaid.co) of it from your favorite bookstore.
-
-I’m currently helping two clients with their publishing workflows; coaching a fellow writer; writing a proposal for my second book; teaching workshops; and developing a five-week writing course. If you’re interested in working with me, I expect to have more availability by the time the snow melts in early spring. Until then, I’m always happy to hear from you by email.
-
-For the curious, I used to be a senior content strategist at [Facebook](http://facebook.com), [Lab Zero](http://labzero.com), and [Mule Design](http://muledesign.com) in San Francisco. I started my professional writing practice at [Apple](http://apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad. I have an English degree from the University of Texas at Austin and an eternal hankering for tacos.
-
-In the evenings, I read a lot and run [Born Hungry](http://bornhungrymag.com), an online magazine for home cooks. I live in Brooklyn with my [husband](http://maxfenton.com) and our little chihuahua, and work from [Studiomates](http://studiomates.com).
 
 ----
 
-Side-projects: ## Side Projects ##
-
-* [Born Hungry](http://bornhungrymag.com)
-* [Tiny Content Framework](http://gist.github.com/nicoleslaw/2155621)
-* [Iterative Writing](http://github.com/nicoleslaw/iterative-writing)
-
-----
-
-Interviews: ## Interviews ##
-
-* [Happy Monday](http://www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
-* [Peachpit](http://www.peachpit.com/articles/article.aspx?p=2228801)
-* [Rad Lady](http://www.radlady.com/2012/07/nicole-jones.html)
-* [The Setup](http://nicole.jones.usesthis.com/)
-* [Together London](https://lucidplot.com/2012/09/12/nicoleslaw-podcast/)
-* [Workspiration](http://workspiration.org/nicole-fenton)
->>>>>>> FETCH_HEAD
-
-----
-
->>>>>>> Stashed changes
 Principles: ## Principles ##
 
 * Be clear and be kind.
