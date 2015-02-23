@@ -28,7 +28,7 @@ Text:
 
 <p>When you first visit the site, a pop-up message hovers over the page. “Subscribe,” it says, for “Just $1 an Issue.” The same message displays next to the pop-up in the top-right corner, adding: “Plus, 2 Free Gifts!” If you’re feeling patient and want to read the featured article, you may hover over the carousel only to be interrupted by another subscription request in the sub-navigation.</p>
 
-<figure><img src="./quiet_home2.png" alt="Bon Appétit Home" /> <figcaption>Subscription offers galore: the top-right is static, the middle loads with the page, and the left one displays if you hover on Subscribe in the sub-nav.</figcaption></figure>
+<figure class="bordered"><img src="./quiet_home2.png" alt="Bon Appétit Home" /> <figcaption>Subscription offers galore: the top-right is static, the middle loads with the page, and the left one displays if you hover on Subscribe in the sub-nav.</figcaption></figure>
 
 <p>Well-timed content helps the reader get closer to your brand. We can improve the flow here with a few strategic questions:</p>
 
