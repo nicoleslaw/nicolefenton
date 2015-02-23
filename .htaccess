@@ -74,10 +74,11 @@
 <IfModule mod_expires.c>
 	ExpiresActive On
   ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
-  ExpiresByType application/x-font-ttf    "access plus 2 months"
-  ExpiresByType application/x-font-woff   "access plus 2 months"
-  ExpiresByType font/opentype             "access plus 2 months"
-  # ExpiresByType image/svg+xml             "access plus 2 months"
+  ExpiresByType application/x-font-ttf        "access plus 2 months"
+  ExpiresByType application/x-font-woff       "access plus 2 months"
+  ExpiresByType font/opentype                 "access plus 2 months"
+  ExpiresByType text/javascript               "access plus 1 day"
+  ExpiresByType image/svg+xml                 "access plus 1 week"
 	ExpiresDefault "access 2 minutes"
 </IfModule>
 ## EXPIRES CACHING ##
