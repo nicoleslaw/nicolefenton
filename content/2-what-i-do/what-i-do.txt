@@ -18,7 +18,7 @@ Services:
 * Advising
 * Project Definition
 * Naming and Concepts
-* Analysis and Positioning
+* Creative Briefs
 
 ### User Experience ###
 * Research
