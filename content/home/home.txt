@@ -22,6 +22,6 @@ Making:
 
 Reading:
 
-* [Design for the Real World](//www.worldcat.org/title/design-for-the-real-world-human-ecology-and-social-change/oclc/238293 "by Victor Papanek")
 * [Teaching to Transgress](//www.worldcat.org/title/teaching-to-transgress-education-as-the-practice-of-freedom/oclc/30668295 "by bell hooks")
+* [The Life-changing Magic of Tidying Up](//tidyingup.com/ "by Marie Kondo")
 * [Learning by Heart](//www.worldcat.org/title/learning-by-heart-teachings-to-free-the-creative-spirit/oclc/214308999 "by Corita Kent and Jan Steward")
