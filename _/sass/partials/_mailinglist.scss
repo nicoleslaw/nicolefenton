@@ -39,6 +39,8 @@
     margin-bottom: 1rem;
     @include media(not-mobile) {
       content: url('/_/images/dec/wave-med.svg');
+      max-width: 100%;
+      overflow: hidden;
     }
   }
 }

@@ -387,7 +387,7 @@ figcaption em { font-style: normal; }
 .newsletter-signup input { vertical-align: top; outline: 0; }
 .newsletter-signup input.email, .newsletter-signup input[type='email'] { display: inline-block; min-width: 50%; max-width: 21em; height: 1.5rem; padding: 0.25em 0.25em 0.125em 0.5em; letter-spacing: 0.1em; }
 .newsletter-signup:before { display: block; margin-bottom: 1rem; }
-@media screen and (min-width: 601px) { .newsletter-signup:before { content: url("/_/images/dec/wave-med.svg"); } }
+@media screen and (min-width: 601px) { .newsletter-signup:before { content: url("/_/images/dec/wave-med.svg"); max-width: 100%; overflow: hidden; } }
 
 button { display: inline-block; margin-top: 2px; cursor: pointer; -webkit-transition: all 0.25s cubic-bezier(0.215, 0.61, 0.355, 1); transition: all 0.25s cubic-bezier(0.215, 0.61, 0.355, 1); vertical-align: top; border: none; background: transparent; box-shadow: none; }
 
