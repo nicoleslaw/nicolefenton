@@ -10,13 +10,17 @@ Upcoming Events:
 
 ## Upcoming Events ## {.list-section-title}
 
-### [RISD](http://www.risd-id.org/) ###
-Guest Lecture, School of Industrial Design
-Providence, March 12
+### [Huge](http://www.hugeinc.com/events/content-strategist-event) ###
+Panel, Editorial Strategy
+Brooklyn, March 24
 
 ### [Makeshift Society](http://legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) ###
 Writing About Yourself Workshop Series
 Brooklyn, March 25–April 8
+
+### [Sherpa Summit](http://environmentsforhumans.com/2015/web-sherpa-summit/) ###
+Featured Speaker
+via Livestream, April 2
 
 ### [UXLx](//www.ux-lx.com) ###
 Interface Writing Workshop
@@ -27,6 +31,10 @@ Lisbon, June 3–5
 Past Events:
 
 ## Past Events ## {.list-section-title}
+
+### [RISD](http://www.risd-id.org/) ###
+Guest Lecture, School of Industrial Design
+Providence, March 12
 
 ### [Syracuse University](//newhouse.syr.edu/) ###
 Guest Lecture, School of Public Communications
