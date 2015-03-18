@@ -9,16 +9,21 @@
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
 
-  <style>
-    <?php include($_SERVER['DOCUMENT_ROOT']."/_/css/firstpaint.css"); ?>
-  </style>
+  <style><?php snippet("css-firstpaint") ?></style>
+  
   <?php snippet("font-apercu") ?>
 
   <script src="/_/js/vendor/modernizr.custom.1.0.1.js" type="text/javascript"></script>
 
-  <?php echo css('/_/css/screen.1.0.5.css') ?>
+  <link href="/_/css/screen.1.0.5.css" rel="stylesheet">
+  <?php /* 
+  <script><?php snippet('js-loadcss') ?>; loadCSS( "/_/css/screen.1.0.5.css" );</script>
+  <noscript><link href="/_/css/screen.1.0.5.css" rel="stylesheet"></noscript> 
+  */ ?>
 
-  <!--[if lte IE 8]><?php echo css('/_/css/ie.101.css?v=') ?><![endif]-->
+  <!--[if lte IE 8]><?php echo css('/_/css/ie.1.0.1.css') ?><![endif]-->
+
+  <script src="/_/js/vendor/modernizr.custom.1.0.1.js" type="text/javascript"></script>
 
 </head>
 <body id="body" class="body page-id--<?php echo $page->id() ?> page-slug--<?php echo $page->slug() ?> page-template--<?php echo $page->template() ?>">
