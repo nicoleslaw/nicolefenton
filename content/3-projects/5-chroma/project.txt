@@ -28,7 +28,7 @@ Services:
 
 Project Lede:
 
-Chroma was made to help you collect, tag, organize, and share things that interest you. The app’s founder and CEO hired me to tell that story as succinctly as possible.
+Chroma helps you collect, tag, organize, and share things that interest you. The app’s founder and CEO hired me to help tell that story as succinctly as possible.
 
 ----
 
@@ -40,11 +40,9 @@ Lede:
 
 Text:
 
-I had a blast working with [Andre Poremski](http://twitter.com/aporemski) and [Jonnie Hallman](http://destroytoday.com/) on this project. Andre needed help explaining what the product does and how it’s different from other photo apps on the market. I asked him why he decided to make Chroma, how he wanted people to use it, and what he wanted to accomplish. We talked through his communication goals and worked through initial concepts together.
+I had a blast working with [Andre Poremski](http://twitter.com/aporemski) and [Jonnie Hallman](http://destroytoday.com/) on this project. Andre needed help explaining what the product does and how it’s different from other photo apps in the market. I asked him why he decided to make Chroma, how he wanted people to use it, and what he wanted to accomplish by making the app. We talked through his communication goals and developed initial concepts together.
 
 Jonnie and I collaborated on the marketing page and splash pages. We talked about the different ways we could convey each product benefit, and then he laid out the visuals and I wrote the tagline and marketing copy. I also came up with specific use cases to show you what Chroma can do. Before the product launched, I wrote a brief product tour to bridge the gaps between the homepage and the new user experience.
-
-(figure: chroma.png/ alt: Chroma Homepage)
 
 Check out the Chroma site or [download the app](https://itunes.apple.com/us/app/chroma-field-guide-for-anything/id879829383?mt=8) to give it a try.
 

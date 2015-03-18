@@ -20,13 +20,11 @@ Lede:
 
 Text:
 
-This project was a huge effort from a small team in a short time. I worked with [Yaron Schoen](http://yaronschoen.com) and the incredibly kind engineers at [Agilion](http://agilion.com) to redesign and rebuild Wishbone’s website, including their marketing and fundraising materials, campaign emails, student application, and internal dashboard.
+This project was a huge effort from a small team in a short time. I worked with designer [Yaron Schoen](http://yaronschoen.com) and the incredibly kind engineers at [Agilion](http://agilion.com) to reimagine and rebuild Wishbone’s website, marketing and fundraising materials, campaign emails, student application, and internal dashboard.
 
-(figure: wishbone.png alt: Wishbone Homepage)
+Along with copywriting, I restructured the content to highlight the stories students and teachers were already sharing in the application process. I also developed a lightweight content model to help the team post new student campaigns. One of my favorite parts of the project was working on copy right in GitHub with the team. After the site launched, I wrote a brief style guide for everyone involved, which the head of operations said is the most actionable and useful style guide he’s read.
 
-Along with copywriting, I restructured the content to highlight the stories students and teachers were already sharing in the application process. I also developed a lightweight content model so the team has an easier time posting new student campaigns. One of my favorite parts of the project was working on copy right in GitHub with the team. After the site launched, I wrote a brief style guide for everyone involved, which the head of operations said is the most actionable and useful style guide he’s read.
-
-It was a joy to work on this project. I feel like my work makes a genuine difference for these students. Their passion and dedication is truly inspiring. Spend a few minutes on the site and consider [funding a student](https://www.wishbone.org/campaigns).
+It was a joy to work on this project. I feel like my work makes a genuine difference for these students. Their passion and dedication is truly inspiring. Spend a few minutes on the site and please consider [funding a student](https://www.wishbone.org/campaigns).
 
 
 ----
