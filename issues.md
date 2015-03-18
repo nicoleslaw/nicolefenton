@@ -11,9 +11,6 @@ Global
 SVGs
 - [ ] Make a library of glyphs and symbols
 
-Menu
-- [x] Red dot = a link to /
-
 Article / Writing
 - [ ] Font size: ~1em
 - [ ] Mobile font-size?? (in general, 18px, max-width 34rem, 21px, 18px on mobile)
@@ -39,33 +36,9 @@ Sass
 Cross-linking / Tags
 - [ ] Services linked like tags, maybe.
 
-Kirbytext
-- [x] Figure out how to get kirbytext() to not put Paragraph tags. (Wrote a plugin.)
 
 Styleguide
 - [ ] Make a styleguide
 
 
 ===============================
-
-# BLOCKING FOR LAUNCH
-
-# OK FOR LAUNCH
-
-Testing √
-- [x] IE8
-- [x] IE10
-- [x] no-js
-
-Articles √
-Projects √
-Javascript √
-Writing √
-Footer √
-Speaking √
-Client List √
-About √
-Error page √
-Home √
-What I Do √
-Project Detail √
