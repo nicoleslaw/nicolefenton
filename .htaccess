@@ -39,7 +39,7 @@
 	#############
 	### Cache-busting of JS and CSS versions
 	RewriteCond %{REQUEST_FILENAME} !-f
-	RewriteRule ^(.*)\.([0-9\-]+)\.(js|css)$ $1.$3 [L]
+	RewriteRule ^(.*)\.([0-9\-\.]+)\.(js|css)$ $1.$3 [L]
 
 	#############
 	### Trailing Slashes
