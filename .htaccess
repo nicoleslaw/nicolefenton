@@ -62,6 +62,7 @@
 
 </IfModule>
 
+
 ################# PERFORMANCE
 
 <IfModule deflate_module>
@@ -86,7 +87,7 @@
 	ExpiresByType font/opentype                 "access plus 2 months"
 	ExpiresByType text/javascript               "access plus 1 day"
 	ExpiresByType image/svg+xml                 "access plus 1 week"
-	ExpiresDefault "access 2 minutes"
+	ExpiresDefault "access 12 hours"
 </IfModule>
 ## EXPIRES CACHING ##
 
