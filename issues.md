@@ -4,6 +4,7 @@ Issues
 # POST LAUNCH
 
 Global
+- [ ] Make red dot favicon
 - [ ] Lede sizes are not quite right.
 - [ ] Column width
 
