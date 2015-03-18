@@ -10,7 +10,7 @@ Text:
 
 Hi, I’m Nicole. I’m a content strategist at Facebook in New York.
 
-<figure><img src="/winning-tactics/tactics02.jpg" alt="Facebook New York" /></figure>
+<figure><img src="tactics02.jpg" alt="Facebook New York" /></figure>
 
 I work on timeline, the developer center, and community. I’m on a team of 13 content strategists—and growing!
 

@@ -88,15 +88,13 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 <p>So what if, instead of thinking about writing as a way to <em>transfer knowledge</em> from one brain to the next, we thought about it as a way to <em>build understanding</em>? First, in ourselves, in our minds, through the process:</p>
 
-<ul>
-<li>thinking</li>
-<li>noticing</li>
-<li>asking questions</li>
-<li>jotting down ideas</li>
-<li>massaging what we’re trying to say</li>
-<li>taking in feedback</li>
-<li>working through drafts</li>
-</ul>
+- thinking
+- noticing
+- asking questions
+- jotting down ideas
+- massaging what we’re trying to say
+- taking in feedback
+- working through drafts
 
 <p>Then, once we have something to show to a broader audience, writing becomes a way to build understanding with readers, and if that’s an internal audience, with clients or coworkers.</p>
 
@@ -104,73 +102,67 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 ### Writing is design
 
-<p>Our work is interrelated. We build these intricate, growing, and imperfect systems — threading complicated flows of information together with strings, colors, and boxes. We’re quilting this web, deliberately or not. And we have similar skills:</p>
+Our work is interrelated. We build these intricate, growing, and imperfect systems — threading complicated flows of information together with strings, colors, and boxes. We’re quilting this web, deliberately or not. And we have similar skills:
 
-<ul>
-<li>critical thinking</li>
-<li>communicating</li>
-<li>planning</li>
-<li>organizing</li>
-<li>dealing with ambiguity</li>
-</ul>
+- critical thinking
+- communicating
+- planning
+- organizing
+- dealing with ambiguity
 
-<p>We think about systems and care about details. And we can see a better outcome or product than what’s there today. We also have similar goals when we’re writing or designing. We’re here to inform; to solve or reduce problems; to create lasting work; and to make the world a better place.</p>
+We think about systems and care about details. And we can see a better outcome or product than what’s there today. We also have similar goals when we’re writing or designing. We’re here to inform; to solve or reduce problems; to create lasting work; and to make the world a better place.
 
-<p>We have a similar process too. We:</p>
+We have a similar process too. We:
 
-<ul>
-<li>ask questions</li>
-<li>balance constraints</li>
-<li>learn about our clients and their audiences</li>
-<li>shape systems</li>
-<li>gather feedback</li>
-<li>build on what we know</li>
-</ul>
+- ask questions
+- balance constraints
+- learn about our clients and their audiences
+- shape systems
+- gather feedback
+- build on what we know
 
-<p>Ultimately, we all listen, plan, compose, and revise. And our materials are intertwined.</p>
+Ultimately, we all listen, plan, compose, and revise. And our materials are intertwined.
 
 ### Copy is interface
 
-<p>The words on your website shape how people think about your products, how they use them, and how they talk about them. Every piece of copy is part of your design.</p>
+The words on your website shape how people think about your products, how they use them, and how they talk about them. Every piece of copy is part of your design.
 
 (figure: /writing-for-beginners/Build_Talk.027.png alt: Danger Lorem Ipsum)
 
-<p>But the fact is a lot of designers still rely on lorem ipsum. I can’t tell you how many times I’ve come into a project, hired to do light copyediting, and the design was completely broken, because it was just a reskin or a layer of paint. If we can’t be bothered to understand the problems our clients are experiencing below the surface, we’re never going to solve anything with design.</p>
+But the fact is a lot of designers still rely on lorem ipsum. I can’t tell you how many times I’ve come into a project, hired to do light copyediting, and the design was completely broken, because it was just a reskin or a layer of paint. If we can’t be bothered to understand the problems our clients are experiencing below the surface, we’re never going to solve anything with design.
 
-<p>Just to be clear, when I say writing, these are the things I’m talking about:</p>
+Just to be clear, when I say writing, these are the things I’m talking about:
 
-<ul>
-<li>alerts</li>
-<li>blog posts</li>
-<li>emails</li>
-<li>errors</li>
-<li>forms</li>
-<li>instructions</li>
-<li>labels</li>
-<li>names</li>
-<li>policies</li>
-<li>promotions / ads / marketing</li>
-<li>strings</li>
-<li>tours</li>
-</ul>
+- alerts
+- blog posts
+- emails
+- errors
+- forms
+- instructions
+- labels
+- names
+- policies
+- promotions / ads / marketing
+- strings
+- tours
 
-<p>Individually, these are all bits of text. Together, they’re your communications and your interface with readers. They make up your voice and tone. They give your product personality.</p>
+Individually, these are all bits of text. Together, they’re your communications and your interface with readers. They make up your voice and tone. They give your product personality.
 
 ### To communicate
 
-<p>Writing and design are both about communicating. The internet is a mass communications platform. And language is our most fundamental technology. Kevin Kelly says just that in his book, <em><a href="//www.amazon.com/gp/product/B0043EV51W/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0043EV51W&amp;linkCode=as2&amp;tag=swelcont-20">What Technology Wants</a></em>.</p>
+Writing and design are both about communicating. The internet is a mass communications platform. And language is our most fundamental technology. Kevin Kelly says just that in his book, <em><a href="//www.amazon.com/gp/product/B0043EV51W/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0043EV51W&amp;linkCode=as2&amp;tag=swelcont-20">What Technology Wants</a></em>.
 
-<p>This is a pretty beefy quote, so we’ll chew through it together. He says:</p>
+This is a pretty beefy quote, so we’ll chew through it together. He says:
 
-<blockquote>“Language accelerates learning and creation by permitting communication and coordination.”</blockquote>
+> “Language accelerates learning and creation by permitting communication and coordination.”
 
-<p>With words, we can share ideas, talk to each other, learn from each other’s mistakes, and make new things.</p>
+With words, we can share ideas, talk to each other, learn from each other’s mistakes, and make new things.
 
-<blockquote>“A new idea can be spread quickly if someone can explain it and communicate it to others before they have to discover it themselves.”</blockquote>
+> “A new idea can be spread quickly if someone can explain it and communicate it to others before they have to discover it themselves.”
 
-<p>Language is a shortcut. It’s also a time warp and a sort of immortality. And then he says:</p>
+Language is a shortcut. It’s also a time warp and a sort of immortality. And then he says:
 
-<blockquote>“But the chief advantage of language is not communication but autogeneration. Language is a trick that allows the mind to question itself; a magic mirror that reveals to the mind what the mind thinks; a handle that turns a mind into a tool. With a grip on the slippery, aimless activity of self-awareness and self-reference, language can harness a mind into a fountain of new ideas.”</blockquote>
+> “But the chief advantage of language is not communication but autogeneration. Language is a trick that allows the mind to question itself; a magic mirror that reveals to the mind what the mind thinks; a handle that turns a mind into a tool. With a grip on the slippery, aimless activity of self-awareness and self-reference, language can harness a mind into a fountain of new ideas.”
 
 <p>Language is how we get unstuck. I think this is incredibly exciting and important and relevant to what we do. Long before the internet and the printing press, language gave us a way forward.</p>
 
