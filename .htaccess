@@ -37,9 +37,16 @@
 	RewriteRule . - [L]
 
 	#############
+	### Cache-busting of JS and CSS versions
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteRule ^(.*)\.([0-9\-]+)\.(js|css)$ $1.$3 [L]
+
+	#############
 	### Trailing Slashes
 	## if no trailing slash then redirect to url with trailing slash
-	RewriteRule ^/?(.+)([^/])$ $1$2/ [R=301,L]
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]+|/)$
+	RewriteRule ^(.*)$ $1/ [L,R=301]
 
 	#############
 	### The Panel

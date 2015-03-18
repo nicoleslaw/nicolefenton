@@ -14,11 +14,11 @@
   </style>
   <?php snippet("font-apercu") ?>
 
-  <script src="/_/js/vendor/modernizr.custom.js?v=1.0.1" type="text/javascript"></script>
+  <script src="/_/js/vendor/modernizr.custom.1.0.1.js" type="text/javascript"></script>
 
-  <?php echo css('/_/css/screen.css?v=1.0.5') ?>
+  <?php echo css('/_/css/screen.1.0.5.css') ?>
 
-  <!--[if lte IE 8]><?php echo css('/_/css/ie.css?v=1.0.1') ?><![endif]-->
+  <!--[if lte IE 8]><?php echo css('/_/css/ie.101.css?v=') ?><![endif]-->
 
 </head>
 <body id="body" class="body page-id--<?php echo $page->id() ?> page-slug--<?php echo $page->slug() ?> page-template--<?php echo $page->template() ?>">
