@@ -1,4 +1,4 @@
-/*
+/* @license
  * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
  *
  * Uses the built in easing capabilities added In jQuery 1.1
@@ -171,7 +171,7 @@ jQuery.extend( jQuery.easing,
 	}
 });
 
-/*
+/* 
  *
  * TERMS OF USE - EASING EQUATIONS
  *

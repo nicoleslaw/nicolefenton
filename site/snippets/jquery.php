@@ -1,3 +1,3 @@
 
-  <script src="/_/js/vendor/jquery-1.11.1.min.js?v=1.0.1"></script>
-  <script src="/_/js/plugins.min.js?v=1.1.0" type="text/javascript"></script>
+  <?php /* <script src="/_/js/vendor/jquery-1.11.1.min.js"></script> */ ?>
+  <script src="/_/js/plugins.min.1.2.0.js" type="text/javascript"></script>
