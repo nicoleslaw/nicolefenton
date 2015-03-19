@@ -9,6 +9,10 @@
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
 
+  <meta http-equiv="imagetoolbar" content="false">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/favicon.png">
+
   <style><?php snippet("css-firstpaint") ?></style>
   
   <?php snippet("font-apercu") ?>
