@@ -14,9 +14,8 @@ Text:
 
 Making:
 
-* [Interface Writing Workshop](//www.ux-lx.com/speaker.html?n=nicolef#workshop "for UXLx in Portugal")
-* [Portfolio Workshop Series](http://legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/ "at Makeshift Society")
-* [Words as Material](# "a lecture about writing in the design process")
+* [Interface Writing Workshop](//www.ux-lx.com/speaker.html?n=nicolefenton "for UXLx in Portugal")
+* [Words as Material](//www.ux-lx.com/speaker.html?n=nicolefenton "a lecture about writing in the design process")
 
 ----
 
@@ -24,4 +23,4 @@ Reading:
 
 * [Teaching to Transgress](//www.worldcat.org/title/teaching-to-transgress-education-as-the-practice-of-freedom/oclc/30668295 "by bell hooks")
 * [The Life-changing Magic of Tidying Up](//tidyingup.com/ "by Marie Kondo")
-* [Developmental Editing](//www.press.uchicago.edu/ucp/books/book/chicago/D/bo5604692.html "by Scott Norton")
+* [Teach, Breathe, Learn](//teachbreathelearn.com/ "by Meena Srinivasan")

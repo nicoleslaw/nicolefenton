@@ -10,20 +10,12 @@ Upcoming Events:
 
 ## Upcoming Events ## {.list-section-title}
 
-### [Huge](http://www.hugeinc.com/events/content-strategist-event) ###
-Panel, Editorial Strategy
-Brooklyn, March 24
-
-### [Makeshift Society](http://legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) ###
-Writing About Yourself Workshop Series
-Brooklyn, March 25–April 8
-
-### [Sherpa Summit](http://environmentsforhumans.com/2015/web-sherpa-summit/) ###
-Featured Speaker
-via Livestream, April 2
+### [99u](//conference.99u.com/) ###
+Conference Mentor
+New York, April 30–May 1
 
 ### [UXLx](//www.ux-lx.com) ###
-Interface Writing Workshop
+Interface Writing Workshop and Guest Lecture
 Lisbon, June 3–5
 
 ----
@@ -31,6 +23,15 @@ Lisbon, June 3–5
 Past Events:
 
 ## Past Events ## {.list-section-title}
+
+### [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) ###
+Writing About Yourself Workshop Series
+Brooklyn, March 25–April 8
+
+### [Huge Inc.](http://www.hugeinc.com/events/content-strategist-event) ###
+Panel, Editorial Strategy
+Brooklyn, March 24
+[Video](http://livestream.com/hugeinc/events/3914728)
 
 ### [RISD](http://www.risd-id.org/) ###
 Guest Lecture, School of Industrial Design

@@ -14,19 +14,48 @@ Contributing Author, [Web Standards Sherpa](http://webstandardssherpa.com), 2011
 Freelance Writer and Editor, 2010—present
 
 * Helps nonprofits and growing teams develop purposeful communications and publishing workflows. Recent clients include Macmillan, ProPublica, Happy Cog, Safari Books Online, Wishbone.org, and The Factory.
-* Writes personal and professional essays about design, technology, and interface writing. Also published in *Contents* Magazine, *Offscreen*, The Pastry Box Project, and Microsoft’s MIX Online.
+* Writes personal and professional essays about design, technology, and interface writing. Published in *Contents* Magazine, *Offscreen*, The Pastry Box Project, and Microsoft’s MIX Online.
 * Coaches writers, researchers, designers, and developers on a limited basis.
+
+### Speaking and Teaching ###
+
+#### 2015
+
+* Interface Writing Workshop and Speaker at [UXLx](//www.ux-lx.com/) in Lisbon, Portugal, June 2015
+* Conference Mentor at [99u](//conference.99u.com/) in New York, NY, April 2015
+* Writing About Yourself Workshop Series at [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) in Brooklyn, NY, March–April 2015
+* Panel Speaker, [Huge Inc.](http://www.hugeinc.com/events/content-strategist-event), Brooklyn, NY, April 2015
+* Guest Lecturer, [RISD](//www.risd-id.org/), School of Industrial Design in Providence, RI, March 2015
+* Thesis Advisor, [School of Visual Arts](//interactiondesign.sva.edu/), Interaction Design Program in New York, NY, Spring 2015
+* Guest Lecturer, [Syracuse](//newhouse.syr.edu/), Newhouse School of Public Communications, via Skype, February 2015
+
+#### 2014
+
+* Interface Writing Workshop with [Triangle UXPA](//triuxpa.org/event-1794981) at the Contemporary Art Museum in Raleigh, NC, December 2014
+* Web Writing Workshop at [Confab Higher Ed](//confabevents.com/events/higher-ed) in Atlanta, GA, November 2014
+* Honest Marketing Workshop at [Nearly Impossible](//nearlyimpossible.org/conference/nyc/) in New York, NY, October 2014
+* Speaker, [Blend Conference](//2014.blendconf.com/) in Charlotte, NC, September 2014
+* Keynote Speaker, [Burlington Ruby Conference](//burlingtonrubyconference.com/) in Burlington, VT, August 2014
+* Guest Lecturer, [General Assembly](//generalassemb.ly/) in New York, NY, February and June 2014
+
+#### 2013
+
+* Keynote Speaker, [Build Conference](//2013.buildconf.com/) in Belfast, Northern Ireland, November 2013
+* Speaker, [Confab London](//confabevents.com/past-events/london-2013/) in London, UK, March 2013
+
+#### 2011
+* Speaker, [Content Strategy Forum](//2011.csforum.eu/) in London, UK, September 2011
 
 ### Work Experience ###
 
 #### [Facebook](//facebook.com) ####
-Senior Content Strategist, 2012—2013
+Senior Content Strategist, 2012–2013
 
 * Led content efforts for Facebook Timeline and Facebook Platform. Wrote privacy messages, product tours, legal terms, instructional text, and marketing copy for usability and conversion testing.
 * Established content standards, SDK documentation patterns, and organizing principles for the Facebook Developer Center. Hosted internal workshops about clarity, voice, and tone.
 
 #### [Lab Zero Innovations](//labzero.com) ####
-Senior Content Strategist, 2011—2012
+Senior Content Strategist, 2011–2012
 
 * Led content strategy, writing, and branding efforts for several long-term development projects, including Visa’s digital wallet, Clockwork Recruiting, and Authorize.Net for iPhone. Created wireframes and design guidelines.
 * Established developer-friendly editorial processes in an agile, flat organization.
@@ -42,33 +71,6 @@ Communications Lead, 2005–2010
 
 * Trained and coached a team of writers for the Apple Online Store. Developed global processes, training materials, internal announcements, and a communications style guide.
 * Managed launch communications for the first iPhone and iPad. Collaborated with legal and translation teams to launch international stores in Brazil and French Canada (Team Impact Award).
-
-### Speaking and Teaching ###
-
-#### 2015
-
-* Interface Writing Workshop at [UXLx](//www.ux-lx.com/) in Lisbon, Portugal, June 2015
-* Panel Speaker, [Huge](http://www.hugeinc.com/events/content-strategist-event), Brooklyn, NY, April 2015
-* Guest Lecturer, [RISD](//www.risd-id.org/), School of Industrial Design in Providence, RI, March 2015
-* Thesis Advisor, [School of Visual Arts](//interactiondesign.sva.edu/), Interaction Design Program in New York, NY, Spring 2015
-* Guest Lecturer, [Syracuse](//newhouse.syr.edu/), Newhouse School of Public Communications, via Skype, February 2015
-
-#### 2014
-
-* Interface Writing Workshop hosted by [Triangle UXPA](//triuxpa.org/event-1794981) at the Contemporary Art Museum in Raleigh, NC, December 2014
-* Web Writing Workshop at [Confab Higher Ed](//confabevents.com/events/higher-ed) in Atlanta, GA, November 2014
-* Honest Marketing Workshop at [Nearly Impossible](//nearlyimpossible.org/conference/nyc/) in New York, NY, October 2014
-* Speaker, [Blend Conference](//2014.blendconf.com/) in Charlotte, NC, September 2014
-* Keynote Speaker, [Burlington Ruby Conference](//burlingtonrubyconference.com/) in Burlington, VT, August 2014
-* Guest Lecturer, [General Assembly](//generalassemb.ly/) in New York, NY, February and June 2014
-
-#### 2013
-
-* Keynote Speaker, [Build Conference](//2013.buildconf.com/) in Belfast, Northern Ireland, November 2013
-* Speaker, [Confab London](//confabevents.com/past-events/london-2013/) in London, UK, March 2013
-
-#### 2011
-* Speaker, [Content Strategy Forum](//2011.csforum.eu/) in London, UK, September 2011
 
 ### Education ###
 
