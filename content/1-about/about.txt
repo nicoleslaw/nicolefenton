@@ -6,7 +6,7 @@ Text: ## Hello ## {.list-section-title}
 
 I believe good writing is clear, honest, and friendly. I recently cowrote a book about that called *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
 
-I’m currently working with [Happy Cog](//happycog.com); advising graduate students; editing two books; and [teaching workshops](/speaking) on a limited basis. If you’re interested in working with me, I expect to have some availability in the early summer. Until then, I’m always happy to hear from you by email.
+I’m currently working with [Happy Cog](//happycog.com), editing for [A Book Apart](//abookapart.com), and [teaching workshops](/speaking) on a limited basis. If you’re interested in working with me, I expect to have some availability later this summer. Until then, I’m always happy to hear from you by email.
 
 For the curious, I used to be a senior content strategist at [Facebook](//facebook.com), [Lab Zero](//labzero.com), and [Mule Design](//muledesign.com) in San Francisco. I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad. I have an English degree from the University of Texas and an eternal hankering for tacos.
 
@@ -29,6 +29,7 @@ Interviews: ## Interviews ##
 * [Peachpit](//www.peachpit.com/articles/article.aspx?p=2228801)
 * [Rad Lady](//www.radlady.com/2012/07/nicole-jones.html)
 * [The Setup](//nicole.jones.usesthis.com/)
+* [Subway Book Review](//www.subwaybookreview.com/post/118520803518/a-literary-conversation-with-nicole-fenton)
 * [Together London](//lucidplot.com/2012/09/12/nicoleslaw-podcast/)
 * [Workspiration](//workspiration.org/nicole-fenton)
 

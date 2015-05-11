@@ -10,10 +10,6 @@ Upcoming Events:
 
 ## Upcoming Events ## {.list-section-title}
 
-### [99u](//conference.99u.com/) ###
-Conference Mentor
-New York, April 30–May 1
-
 ### [UXLx](//www.ux-lx.com) ###
 Interface Writing Workshop and Guest Lecture
 Lisbon, June 3–5
@@ -23,6 +19,10 @@ Lisbon, June 3–5
 Past Events:
 
 ## Past Events ## {.list-section-title}
+
+### [99u](//conference.99u.com/) ###
+Conference Mentor
+New York, April 30–May 1
 
 ### [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) ###
 Writing About Yourself Workshop Series
