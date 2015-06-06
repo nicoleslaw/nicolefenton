@@ -14,8 +14,7 @@ Text:
 
 Making:
 
-* [Interface Writing Workshop](//www.ux-lx.com/speaker.html?n=nicolefenton "for UXLx in Portugal")
-* [Words as Material](//www.ux-lx.com/speaker.html?n=nicolefenton "a lecture about writing in the design process")
+* [Words as Material](/words-as-material/ "a lecture about writing in the design process")
 
 ----
 

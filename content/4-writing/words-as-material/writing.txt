@@ -1,0 +1,281 @@
+Title: Words as Material
+
+----
+
+Lede: I gave this talk at <a href="//www.risd.edu/">RISD</a> in Providence and <a href="//www.ux-lx.com/">UXLx</a> in Lisbon. Thanks to Tim Maly and Bruno Figueiredo for inviting me to speak, and to <a href="//tanmade.com/">Allen Tan</a>,  <a href="//www.yonderother.co/">Tina Lee</a>, and <a href="//maxfenton.com">Max Fenton</a> for their thoughtful feedback on drafts.
+
+----
+
+Text:
+
+I want to start with a quote from writer, activist, and teacher, Thich Nhat Hanh. In *Being Peace*, he writes:
+
+> “If you are a poet, you will see clearly that there is a cloud floating in every sheet of paper. Without a cloud, there will be no rain; without rain, the trees cannot grow; and without trees, we cannot make paper. The cloud is essential for the paper to exist.”
+
+Thich Nhat Hanh calls this concept *interbeing*. He goes on to say that the sun is also in the sheet of paper; and the lumberjack who cut down the tree; and his parents; and the wheat that made his morning bread; and so on. All of these things make it possible for the paper to exist.
+
+I bring up this story, because it helped me understand systems at a deeper level. I’ve been thinking a lot about what it takes to make a design project successful and even possible in the first place. I have a few hunches and I believe words play an important part in the process. But before I get to that, let’s look at how the paper metaphor relates to us as designers.
+
+### How design works
+
+Our work depends on many things: time, money, technology, materials, constraints, and most importantly, the lives, attention, and experiences of other people. We participate in and often orchestrate a process that’s bigger than we are. Design requires collaborators, contributors, customers, toolmakers, factory workers, marketers, postal workers, call center agents, you name it. If we look closely, we can see that people are at the heart of everything we make.
+
+When I started writing this talk, I asked a few of my designer friends to answer this question: What’s the number one thing that sabotages projects for you?
+
+Here are a few of their answers.
+
+<center>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> a lack of clear understanding between myself and clients, which basically comes down to communication.</p>&mdash; Ian Marquette (@ianmarquette) <a href="https://twitter.com/ianmarquette/status/575647978725093376">March 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> difference in expectations / poor communication</p>&mdash; mark forscher (@garbnzgh) <a href="https://twitter.com/garbnzgh/status/575669037352493057">March 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> feedback from 18794387294 different people</p>&mdash; Zak Greene (@zearl) <a href="https://twitter.com/zearl/status/575670392725114881">March 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> Miscommunication. Handoffs to silos. Whatever the opposite of collaboration is.</p>&mdash; Maatttt (@mattfelten) <a href="https://twitter.com/mattfelten/status/575681220027142145">March 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> lack of extroverted thinking. One step at a time.</p>&mdash; Jonathan Myers (@jnthnmyrs) <a href="https://twitter.com/jnthnmyrs/status/575663430067093504">March 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> Same as life really… lack of clarity around intent.</p>&mdash; Davin Risk (@davin) <a href="https://twitter.com/davin/status/575655021678759937">March 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</center>
+
+These problems boil down to one thing: communication. Sharing ideas with other people. Working through decisions together to make something new. We’re here to make meaningful changes in the world, but we can’t do that if we don’t understand each other. We can’t ignore people or work around them.
+
+If we want design to communicate, we need to communicate in the design process.
+
+### How communication works
+
+So I’ve been thinking about what communication looks like in the design process. Here’s my take:
+
+* Self
+* Team
+* Product
+* Public
+
+**Self:** We start by thinking alone. We may be collaborating with friends or colleagues, but we still need space to make sense of what we’re making. We have to put it into terms we can relate to.
+
+**Team:** We also have to talk through it with our team. That’s where extroverted thinking comes in. We may need to sketch, or brainstorm ideas, or summarize what we’ve heard from interviews or user research. We have to get on the same page, or find a shared language. Once we have a sense of what we’re doing, we can express those goals as requirements, come up with an approach, and move forward. All of these messy conversations help us gather consensus and work through the details.
+
+**Product:** After choosing a design direction, we can prototype it, refine it, and try to make it speak for itself. The product needs to reflect the goals and intent we set out to achieve—and in some ways, it needs to stand on its own.
+
+**Public:** Once we’re clear on what we’re making, we build it. And if we’re lucky, we get to announce it and share it with the world.
+
+As we move through each of these steps, the idea starts to solidify and become visible to people around us. This is why I think of design as a process of articulation. We join together to express an idea in a coherent form. We bring ideas to life. We connect the dots or build bridges for our users. That often means being specific about what a product does, who it’s for, why it matters, and how it works. We have to trek through a pile of ambiguity to do this.
+
+### How writing fits in
+
+This outward arc or continuum is the same one that I go through as a writer. I think and sketch and jot down notes; I question my assumptions; I struggle to understand. Later, when I have a sense of what I need to do, I share drafts and take in feedback; I try different variations and keep refining the work until it’s ready for the public.
+
+I work on digital products and physical goods, so I’m deeply involved in the design process. But I also want to call out early that my process *is* the design process. I don’t write fiction or short stories; I use language to solve problems—whether that’s behind the scenes or in the product itself. I use words as material.
+
+Earlier this year, Matt Jones gave [a talk at Interaction15](//vimeo.com/121072011) about his experience running BERG and directing interaction design at Google’s Creative Lab. He said:
+
+> “[Writers] are the fastest designers in the world. They’re amazing at boiling down incredibly abstract concepts into tiny packets of cognition, or language.”
+
+Going back to Thich Nhat Hanh, I believe that writing is part of every design. If you can clearly define what you’re making and articulate its value, the steps to bring it out into the world will go much faster. It’s easy to put pixels together when you’ve already made decisions. And since we work across systems and borders, there’s no better way to articulate design than with writing.
+
+### The gap between us
+
+I want to focus on writing today, because I’ve noticed a huge gap between writers and designers in the professional world. And I think it contributes to the larger communication problems we face. We’re often on separate teams and in separate buildings. We have the same goals and audiences, but we’re rarely seen as partners or equals.
+
+I first noticed this gap 10 years ago when I was working at Apple, and I’ve seen it again and again since. Designers are invited to product meetings; writers hear about them afterwards. Designers sit close to the CEO; writers are in the call center or brought in right before the launch. Designers make things; writers support them. You can probably trace this separation back to how we’re taught in grade school or high school. In the U.S. at least, we learn to write in English class, to draw in art class, and to understand shapes and numbers in math class. But I’ve realized this intentional separation weakens our work and limits the contributions we can make to the world.
+
+When I’m on a team, I always try to sit with the designers and engineers—whether in person or on IRC. But most product teams don’t even have a writer. And unfortunately, I don’t think I can solve this particular problem myself. So instead of trying to restructure every product team out there, I’ve been thinking about how you can use words as material in your own design practice.
+
+These are some of the questions that have come up for me along the way:
+
+* What does writing contribute to the design process?
+* How can designers use words to articulate what they’re making?
+* How can we, as humans, benefit from clear language?
+* How can writing make products easier to adopt and understand?
+* How can I broaden the definition of “writing” for designers?
+
+I keep using that phrase “words as material,” so let’s talk about words for a bit.
+
+### What are words for
+
+Words shape our ideas, how we see the world, and how we relate to one other. As design teacher and researcher [Anne Galloway](//designculturelab.org/2012/03/01/more-thoughts-on-writing-and-making/) says:
+
+> “Language doesn’t just make things—it assembles, cobbles together, entire worlds and all the relations within.”
+
+Language makes it possible for us to navigate places and relationships; to express needs and requirements; to name and categorize things; and to understand our place in the universe.
+
+Last year, I had the pleasure of editing Abby Covert’s marvelous book about information architecture, *[How to Make Sense of Any Mess](//abbytheia.com/makesense/)*. In it, she says:
+
+> “Language is the material of intent… Language is how we tell other people what we want, what we expect of them, and what we hope to accomplish together. Without language, we can’t collaborate.”
+
+Without words, we wouldn’t be able to plan or effect change.
+
+As a technology, writing has many merits. It complements verbal and visual communication. It’s sturdy and can stay put. It’s cheap. It’s easy to change or reproduce. And it moves faster than ships or airplanes. Writing makes it possible to propel knowledge and intent forward through time.
+
+Historically, writing has served us as a force of stability. It gave us a way to record history, exchange information, and establish legal systems. We wrote to preserve knowledge, transmit ideas, and pass on traditions. And of course, we still do those things, even with hypertext. We still treat writing as a product of the editorial process.
+
+### Understand and clarify the problem
+
+But I’ve also come to see writing as a material in itself. Something we can play with and manipulate. Something that can change over time as questions come up in the design process or an idea evolves. Writing can be a tool for talking to ourselves when we’re still figuring things out. A sort of mirror or feedback system. A way to understand and articulate design.
+
+When we put ideas down into words, we give them form and make them malleable. We bring them out into the light and make them visible to other people. And that’s super important, because we can’t read each other’s minds. We need to be able to examine what we think we know, question it as a group, and refine it. That’s the only way we can get closer to the truth together.
+
+Writers sometimes talk about this idea of *casting a sentence*. You throw a line out there and see if it catches. And if it doesn’t ring true, you reel it back in and keep trying. You may use the same words in a different order, swap them out for synonyms, or start over completely. It’s kind of like sketching with words.
+
+When I sit down to write, I don’t usually know what I’m going to say. It’s only through the act of writing that it becomes clear that I need to say anything at all.
+
+If you want to use words as material, I highly encourage you to see them as small blocks and modules you can play with. Write down the words your clients or colleagues use on index cards or sticky notes. Move them around. See how they stack and relate to each other. If clear writing is clear thinking, we have to be willing to get messy first. Anne Lamott talks about this in her classic book, *Bird by Bird*. She says:
+
+> “What people somehow (inadvertently, I’m sure) forgot to mention when we were children was that we need to make messes in order to find out who we are and why we are here—and, by extension, what we’re supposed to be writing.”
+
+I like this idea of writing as a way of figuring things out and exploring possibilities—and that willingness to experiment fits right in with design.
+
+### More people, more problems
+
+Let’s go back to those communication problems we talked about. I’ll focus on these four in particular:
+
+* No product vision
+* Different goals and expectations
+* Oversimplifying the problem or solution
+* Design doesn’t sell itself
+
+I want to share how I use words as material to move the design process forward. I hope these techniques make your life a little easier, whether you’re helping a client make decisions or making them yourself. (As an aside, whenever I use the word “client,” that could be a product lead or someone you work with. Whoever’s in charge of the product vision.)
+
+#### 1. No product vision
+
+Conflicting ideas are one thing—but it’s even harder to talk about an idea when there is not idea. I’m selfishly starting with this one, because I’ve seen it a lot in the past few years.
+
+The client may be making a product or a website, but they don’t have a picture in mind of what it should be. Maybe they haven’t taken the time to daydream about it. They may be in reaction mode, or they may need help asking deeper questions about their values or intent, like where their business is going, or why they’re in business in the first place. I generally see this as a lack of leadership, but it can also be a lack of connection and team identity. Some people who work together don’t really have a bond or a shared purpose. And that can slow down the design process.
+
+There are a few ways you can work through this. I start every project with a set of questions. I like food metaphors, so I call them Starter Questions, like an appetizer. These questions help me understand the client’s needs and vocabulary. I write down words they say and I reflect them back when it’s appropriate. I also dig deeper when people use empty words like “simple” or “user-friendly.” Those words don’t help you as a designer. When one person says “innovative,” they may be talking about how it looks or behaves. And when another person says it, they may be talking about the business model or the process that a user goes through.
+
+Words are squishy and subjective. But if you take the time to build a shared language, that will help you when you’re presenting design directions. You can find some of the questions I ask in my [Tiny Content Framework](//gist.github.com/nicoleslaw/2155621) on GitHub.
+
+Another thing you can do to help your client think through outcomes is to show them examples from competitors and teams outside their industry. Get them to talk about what they like and don’t like. Their taste is less important than their word choice. How do they react to things? Also pay attention to words they don’t say. Sometimes codifying your vocabulary is enough to steer you in the right direction.
+
+There’s a common technique of writing a press release in the early stages of product design. The exercise is supposed to help you narrow down features and requirements and get you thinking about the product narrative. Etsy’s design director, Randy J. Hunt, calls this the “who, what, when, where, why, and how of your product.”
+
+I do something similar, but I start even earlier and I make it more personal. I don’t talk to the press, so I find that exercise tricky in practice. Instead, I like to write letters to people that I know.
+
+As a recent example, I’m working on an idea for a second book—an essay collection I want to edit and design. I started writing down the vision for the book by telling my friend Rachel about it in a letter.
+
+<blockquote>Hi Rachel,</blockquote>
+
+<blockquote>Thanks so much for offering to give me feedback on my project! So, here goes. I’m working on a collection of stories from writers who’ve been through. . .</blockquote>
+
+I told her what I was hoping to accomplish with the project, included examples of essays that might be in the book, and talked about the audience I want to reach. I didn’t actually send it to her (sorry, Rachel!), but the exercise helped me get started on my proposal. I went on to use the basis of that letter to invite early contributors to the project and reach out to agents. And I’ll use a very similar outline when I do a formal call for contributors.
+
+<blockquote>Hi Jane,</blockquote>
+
+<blockquote>I’m working on a collection of stories from writers who’ve been through XXXXXX. I came across your piece in The Rumpus and wondered if you’d be interested in contributing to a project. . .</blockquote>
+
+As you start to externalize your idea, it’s not enough to imagine a good outcome or define why it matters. You also have to articulate your goals so people can rally around them. That brings me to another communication problem: conflicting goals and priorities.
+
+#### 2. Different goals and expectations
+
+Jean-Paul Sartre is known for saying, “L’enfer, c’est les autres.” But my friend Frank Chimero says, “Hell is other people’s undocumented assumptions.”
+
+Gaps in expectations are especially tricky when your client has a different take on things. It only gets worse as you move out from there. Maybe the client is rushing you, or they haven’t given you enough information. Maybe some of your team members don’t like each other, or aren’t used to collaborating. This kind of unresolved internal confusion is a problem. It’s not necessarily your fault, but it can make things difficult.
+
+If the gap is between people on your team, get them to talk to each other. Do a journey mapping exercise to walk through concrete steps users can take. Or interview them individually, and summarize the different perspectives you heard from your team. Whenever there’s a lack of clarity or agreement, questions are your biggest strategic tool.
+
+Trust the weirdness of the process. When I’m working with writers, I like to use a metaphor of putting a puzzle together. You have to get all of the ideas on the table before you worry about how they connect, or which ones to cut. If you try to synthesize too early, you’ll leave someone out that’s important to the process and have to go back and have more conversations.
+
+This problem can also crop up with the public. If there’s a gap between what the product team is making and what the marketing team is selling, you’re making false promises. You can help solve this by encouraging marketers to be honest and realistic about what your product does—and by clearly defining features and expectations with them early. Otherwise, they’re just going to make things up.
+
+There’s another problem in there of telling the right story. If your team doesn’t agree on why the product is interesting, it’s going to be hard to market it. You can solve this perception problem in a couple of ways.
+
+Card sorting exercises are useful for narrowing things down. I often do card sorts with my clients to get them to choose brand attributes or requirements. You can do a similar exercise by asking your team to choose and rank marketing messages. This is especially useful on teams of 10 or more people.
+
+I’ve been known to write multiple choice questions and quiz product managers. Here’s an example from a couple of years ago. Safari is a digital reading service for web professionals.
+
+<figure><img src="http://nicolefenton.com/writing-for-beginners/work_sample1.png" alt="" /></figure>
+
+<figure><img src="http://nicolefenton.com/writing-for-beginners/work_sample2.png" alt="" /></figure>
+
+They had a good product vision, but I had a hard time getting them to decide what was so great about the product. This is one way to play with that. I also like to do a [Mad Libs exercise](https://gist.github.com/nicoleslaw/2155621#file-3_product_mad_libs-md), which is on my Tiny Content Framework. Here’s an example of that for another client:
+
+<blockquote>{Product name} {helps/lets} {audience noun} {verb} and {verb} {object} so they can {verb} {adverb}.</blockquote>
+
+<blockquote>Chroma is a {noun} that lets you {verb} with {object}.</blockquote>
+
+<blockquote>Chroma is a(n)... {field guide / visual guide / pocket reference / pocket guide / community of enthusiasts}.</blockquote>
+
+<blockquote>Join Chroma to: {create a field guide / share curious things you find / discover guides and search nearby / tag birds, bugs, beers, and more}.</blockquote>
+
+Get those words down and play with them. You don’t need a copywriter to do this. Plain language is better than jazzy puns.
+
+Let’s move on to the next one.
+
+#### 3. Oversimplifying the problem
+
+This one may be a personal peeve, but I’m sure you’ve experienced it before. Be wary of limiting language, absolutes, and either/or statements. Here are some examples I’ve heard:
+
+* _The only way to do that is…_
+* _People don’t care about anything except…_
+* _That isn’t important to anyone…_
+* _This page is just for…_
+* _They never…_
+
+These phrases struck me, because they come in the form of a statement with no room for debate or interpretation. “Just” is a particularly dismissive word, and Brad Frost wrote [a fantastic post about that](//the-pastry-box-project.net/brad-frost/2014-january-28) for the Pastry Box. We all get in a hurry and make assumptions, but our work is about being open to possibilities. Not finding the one right way to solve a problem. We have to consider situations and feelings we haven’t experienced ourselves. One way to practice this is to use words with a little bit of nuance or gray area:
+
+* _What if…_
+* _How about…_
+* _We could try…_
+* _What I notice is…_
+* _We haven’t figured that out yet…_
+
+This is not so much a writing trick as an editing trick. But it’s a good way to make sure you have room to do your job.
+
+Another way to avoid this problem is to work through different variations. If you think there’s more than one way to approach a problem, show how that plays out in the interface. Whenever I’m presenting ideas, I like to share 3 or more options. People tend to make better decisions when there are a few things to choose from. It also gives you a chance to be more creative than finding the one right way to solve a problem.
+
+Don’t get stuck on a content structure or specific wording in design concepts. Explore your options in the language too.
+
+#### 4. Design doesn’t sell itself
+
+We all know good design doesn’t sell itself. If it did, Apple wouldn’t spend a gazillion dollars a year on advertising. But if you’re working on a Kickstarter or selling design to the public, you have to explain yourself a little bit. You can use words as material in that process. For me, that often looks like the Mad Libs exercise I showed you. I also have a bunch of [product questions](https://gist.github.com/nicoleslaw/2155621#file-3_product_questions-md) that I like to ask. It’s almost like a spec sheet for planning out the content.
+
+Another one of my favorite tricks is to record myself or use speech-to-text to transcribe my words. I write down a few questions I know I want to answer. What are my main audiences and what do they need to know? This could be for a pitch or a marketing meeting, anything really. Grab a pair of headphones and a recording device. Walk around and interview yourself. Pick someone specific to talk to, and imagine they’re asking you those questions. It feels a little silly at first, but afterwards, you can print it out and highlight the phrases that are interesting or useful for what you’re making. Cut it up and scrap the rest. I use this trick a lot to write outlines for essays and blog posts.
+
+* * *
+These are some of the ways I use words as material in the design process.
+
+* Ask questions
+* Write a letter
+* Sort notecards or stickies
+* Write multiple choice questions or a Mad Libs
+* Use open language
+* Record or transcribe yourself
+* Cut it up or reverse outline it
+
+You can use these right now, and you’ll find more that work for you.
+
+* * *
+
+I want to close with an excerpt from an interview in *The Believer* with [David Foster Wallace](//www.believermag.com/issues/200311/?read=interview_wallace). He’s talking about the gap between ordinary citizens and people who work in specialized roles. He says:
+
+> “Think of the thrill of finding a smart, competent IT technician who can also explain what she’s doing in such a way that you feel like you understand what went wrong with your computer and how you might even fix the problem yourself if it comes up again. Or an oncologist who can communicate clearly and humanly with you and your wife about what the available treatments for her stage-two neoplasm are, and about how the different treatments actually work, and exactly what the plusses and minuses of each one are.
+
+> If you’re like me, you practically drop and hug the ankles of technical specialists like this, when you find them. As of now, of course, they’re rare. What they have is a particular kind of genius that’s not really part of their specific area of expertise as such areas are usually defined and taught. There’s not really even a good univocal word for this kind of genius—which might be significant. Maybe there should be a word; maybe being able to communicate with people outside one’s area of expertise should be taught, and talked about, and considered as a requirement for genuine expertise.”
+
+I think we have a profound responsibility to do that kind of communication and translation in our work. As designers, we’re often the people defining the problem and coming up with solutions.
+
+Using words as material along the way will always make our work better. Clarity moves us forward, where ambiguity can pull us back. If we place our words carefully, we can build a path for ourselves right out of the mud.
+
+Thank you.
+
+----
+
+Footnotes:
+
+<h2>Further Reading</h2>
+
+<ul>
+	<li><a href="//nicelysaid.co">Nicely Said: Writing for the Web with Style and Purpose</a></li>
+	<li><a href="//gist.github.com/nicoleslaw/2155621">Tiny Content Framework</a></li>
+	<li><a href="/writing-for-beginners">Writing for Beginners</a></li>
+	<li><a href="/honest-marketing">Honest Marketing</a></li>
+</ul>

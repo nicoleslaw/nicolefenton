@@ -8,17 +8,15 @@ Lede: I give talks and run workshops for designers, writers, developers, and pro
 
 Upcoming Events:
 
-## Upcoming Events ## {.list-section-title}
-
-### [UXLx](//www.ux-lx.com) ###
-Interface Writing Workshop and Guest Lecture
-Lisbon, June 3–5
-
 ----
 
 Past Events:
 
 ## Past Events ## {.list-section-title}
+
+### [UXLx](//www.ux-lx.com) ###
+Interface Writing Workshop and Speaker
+Lisbon, June 3–5
 
 ### [99u](//conference.99u.com/) ###
 Conference Mentor
@@ -29,7 +27,7 @@ Writing About Yourself Workshop Series
 Brooklyn, March 25–April 8
 
 ### [Huge Inc.](http://www.hugeinc.com/events/content-strategist-event) ###
-Panel, Editorial Strategy
+Panelist, Editorial Strategy
 Brooklyn, March 24
 [Video](http://livestream.com/hugeinc/events/3914728)
 

@@ -164,7 +164,7 @@ There’s nothing wrong with being clever or academic, but those qualities don�
 
 <hr />
 
-Once you have a sense of your feelings, values, and voice, it’s a great time to sit down and write a product page. I made a handout for the workshop, and I’ve included the text from it here. If you’d like a copy of the .pdf, feel free to [email me](mailto:nicole@nicolefenton.com).
+Once you have a sense of your feelings, values, and voice, it’s a great time to sit down and write a product page. I made a handout for the workshop, and I’ve included the text from it here and on [GitHub](https://gist.github.com/nicoleslaw/2155621#file-4_product_questions-md).
 
 ### Write a product page
 
