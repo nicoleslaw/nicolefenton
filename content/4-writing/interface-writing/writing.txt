@@ -157,7 +157,7 @@ When you’re looking at a particular interface label or message, keep it short 
 
 #### 2. Be a good tour guide.
 
-Think about what you’d do if one of your close friends came to visit you at work, or maybe they’re in from out of town. You’d probably show them a few of your favorite things. Give the reader that same sort of care. You know your apps and websites better that most people, so use that to your advantage.
+Think about what you’d do if one of your close friends came to visit you at work, or maybe they’re in from out of town. You’d probably show them a few of your favorite things. Give the reader that same sort of care. You know your apps and websites better than most people, so use that to your advantage.
 
 <figure><img src="/interface-writing/interfaces18.png" alt="map of montauk" /></figure>
 

@@ -146,7 +146,7 @@ I want to share how I use words as material to move the design process forward. 
 
 #### 1. No product vision
 
-Conflicting ideas are one thing—but it’s even harder to talk about an idea when there is not idea. I’m selfishly starting with this one, because I’ve seen it a lot in the past few years.
+Conflicting ideas are one thing—but it’s even harder to talk about an idea when there is no idea. I’m selfishly starting with this one, because I’ve seen it a lot in the past few years.
 
 The client may be making a product or a website, but they don’t have a picture in mind of what it should be. Maybe they haven’t taken the time to daydream about it. They may be in reaction mode, or they may need help asking deeper questions about their values or intent, like where their business is going, or why they’re in business in the first place. I generally see this as a lack of leadership, but it can also be a lack of connection and team identity. Some people who work together don’t really have a bond or a shared purpose. And that can slow down the design process.
 
@@ -196,7 +196,7 @@ I’ve been known to write multiple choice questions and quiz product managers. 
 
 <figure><img src="http://nicolefenton.com/writing-for-beginners/work_sample2.png" alt="" /></figure>
 
-They had a good product vision, but I had a hard time getting them to decide what was so great about the product. This is one way to play with that. I also like to do a [Mad Libs exercise](https://gist.github.com/nicoleslaw/2155621#file-3_product_mad_libs-md), which is on my Tiny Content Framework. Here’s an example of that for another client:
+They had a good product vision, but I had a hard time getting them to decide what was so great about the product. This is one way to play with that. I also like to do a [Mad Libs exercise](https://gist.github.com/nicoleslaw/2155621#file-3_product_mad_libs-md), which is in my Tiny Content Framework. Here’s an example of that for another client:
 
 <blockquote>{Product name} {helps/lets} {audience noun} {verb} and {verb} {object} so they can {verb} {adverb}.</blockquote>
 
@@ -220,7 +220,7 @@ This one may be a personal peeve, but I’m sure you’ve experienced it before.
 * _This page is just for…_
 * _They never…_
 
-These phrases struck me, because they come in the form of a statement with no room for debate or interpretation. “Just” is a particularly dismissive word, and Brad Frost wrote [a fantastic post about that](//the-pastry-box-project.net/brad-frost/2014-january-28) for the Pastry Box. We all get in a hurry and make assumptions, but our work is about being open to possibilities. Not finding the one right way to solve a problem. We have to consider situations and feelings we haven’t experienced ourselves. One way to practice this is to use words with a little bit of nuance or gray area:
+These phrases struck me, because they come in the form of a statement with no room for debate or interpretation. “Just” is a particularly dismissive word, and Brad Frost wrote [a fantastic post about that](//the-pastry-box-project.net/brad-frost/2014-january-28) for the Pastry Box. We all get in a hurry and make assumptions, but our work is about being open to possibilities—not finding the one right way to solve a problem. We have to consider situations and feelings we haven’t experienced ourselves. One way to practice this is to use words with a little bit of nuance or gray area:
 
 * _What if…_
 * _How about…_
@@ -238,7 +238,7 @@ Don’t get stuck on a content structure or specific wording in design concepts.
 
 We all know good design doesn’t sell itself. If it did, Apple wouldn’t spend a gazillion dollars a year on advertising. But if you’re working on a Kickstarter or selling design to the public, you have to explain yourself a little bit. You can use words as material in that process. For me, that often looks like the Mad Libs exercise I showed you. I also have a bunch of [product questions](https://gist.github.com/nicoleslaw/2155621#file-3_product_questions-md) that I like to ask. It’s almost like a spec sheet for planning out the content.
 
-Another one of my favorite tricks is to record myself or use speech-to-text to transcribe my words. I write down a few questions I know I want to answer. What are my main audiences and what do they need to know? This could be for a pitch or a marketing meeting, anything really. Grab a pair of headphones and a recording device. Walk around and interview yourself. Pick someone specific to talk to, and imagine they’re asking you those questions. It feels a little silly at first, but afterwards, you can print it out and highlight the phrases that are interesting or useful for what you’re making. Cut it up and scrap the rest. I use this trick a lot to write outlines for essays and blog posts.
+Another one of my favorite tricks is to record myself or use speech-to-text to transcribe my words. I write down a few questions I want to answer. Who are my main audiences and what do they need to know? This could be for a pitch or a marketing meeting, anything really. Grab a pair of headphones and a recording device. Walk around and interview yourself. Pick someone specific to talk to, and imagine they’re asking you those questions. It feels a little silly at first, but afterwards, you can print it out and highlight the phrases that are interesting or useful for what you’re making. Cut it up and scrap the rest. I use this trick a lot to write outlines for essays and blog posts.
 
 * * *
 These are some of the ways I use words as material in the design process.
