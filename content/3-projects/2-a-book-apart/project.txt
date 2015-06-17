@@ -1,0 +1,34 @@
+Title: A Book Apart
+
+----
+
+Year: 2014–2015
+
+----
+
+Tags: editing
+
+----
+
+Site: http://abookapart.com
+
+----
+
+Services:
+
+- Developmental Editing
+- Copyediting
+
+----
+
+Project Lede:
+
+I occasionally edit books for people who make websites.
+
+----
+
+Text: 
+
+(figure: abookapart.jpg/ alt: On Web Typography and You’re My Favorite Client)
+
+In 2014, I had the honor of copyediting two titles for A Book Apart: *[On Web Typography](//www.abookapart.com/products/on-web-typography)* by Jason Santa Maria and *[You’re My Favorite Client](//www.abookapart.com/products/youre-my-favorite-client)* by Mike Monteiro, my former boss at Mule Design. This year, I am continuing my work with A Book Apart as a developmental editor.

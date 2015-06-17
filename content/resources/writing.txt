@@ -30,6 +30,7 @@ Text:
 
 ### Design Education
 
+* [Avoiding Bullshit Personas](//speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
 * [How to Make Sense of Any Mess](//abbytheia.com/makesense/), Abby Covert
 * [The Shape of Design](//shapeofdesignbook.com/), Frank Chimero
 * [Designing in the Borderlands](http://frankchimero.com/talks/designing-in-the-borderlands/transcript/), Frank Chimero
@@ -38,19 +39,16 @@ Text:
 * [Not Knowing](//tumblr.austinkleon.com/tagged/notknowing), Austin Kleon
 * [10 Timeframes](//contentsmagazine.com/articles/10-timeframes/), Paul Ford
 * [Don’t Go Back to School](//kiostark.com/dont-go-back-to-school/), Kio Stark
+* [Research Questions](//nicelysaid.co/research-questions) from *Nicely Said*
 
 ### Freelance Life ###
 
+* [Designing Case Studies](//www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/), Senongo Akpem
 * [Working for Yourself](//www.nolo.com/products/working-for-yourself-wage.html), Stephen Fishman, J.D.
 * [Steal Like an Artist](//austinkleon.com/steal/), Austin Kleon
 * [Show Your Work](//austinkleon.com/show-your-work/), Austin Kleon
 * [Design is a Job](//abookapart.com/products/design-is-a-job), Mike Monteiro
 * [You’re My Favorite Client](//abookapart.com/products/youre-my-favorite-client), Mike Monteiro
-
-### Research
-
-* [Research Questions](//nicelysaid.co/research-questions)
-* [Avoiding Bullshit Personas](//speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
 
 ### Content Strategy
 
@@ -62,6 +60,15 @@ Text:
 * [The Elements of Content Strategy](//abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
 * [Content Templates to the Rescue](//alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
 * [Your About Page is a Robot](//alistapart.com/articles/aboutpagerobot/), Erin Kissane
+
+### Style Guides
+
+* [Conscious Style Guide](//consciousstyleguide.com/)
+* [Economist Style Guide](//www.economist.com/styleguide/introduction)
+* [GLAAD Media Reference Guide](//www.glaad.org/publications/reference)
+* [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
+* [MailChimp’s Voice and Tone Guide](//voiceandtone.com/)
+* [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
 
 ### Tools and Word Nerdery
 
