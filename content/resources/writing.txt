@@ -66,8 +66,6 @@ Text:
 * [Design is a Job](//abookapart.com/products/design-is-a-job), Mike Monteiro
 * [You’re My Favorite Client](//abookapart.com/products/youre-my-favorite-client), Mike Monteiro
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Style Guides
 
 * [Conscious Style Guide](//consciousstyleguide.com/)
@@ -78,38 +76,6 @@ Text:
 * [MailChimp Voice and Tone Guide](//voiceandtone.com/)
 * [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
 * [18F’s Content Guide](//pages.18f.gov/content-guide/index.html)
-=======
-=======
->>>>>>> origin/master
-### Content Strategy
-
-* [Fire Drills: Communication Strategy in a Crises](//alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
-* [Free Content Strategy for Free](//secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
-* [Wearing the Content Strategy Pants](//thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
-* [Testing Content](//alistapart.com/article/testing-content), Angela Colter
-* [Infrequently Asked Questions of FAQs](//alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
-* [The Elements of Content Strategy](//abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
-* [Content Templates to the Rescue](//alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
-* [Your About Page is a Robot](//alistapart.com/articles/aboutpagerobot/), Erin Kissane
->>>>>>> origin/master
-
-### Style Guides
-
-* [Conscious Style Guide](//consciousstyleguide.com/)
-* [Economist Style Guide](//www.economist.com/styleguide/introduction)
-* [GLAAD Media Reference Guide](//www.glaad.org/publications/reference)
-* [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
-* [MailChimp’s Voice and Tone Guide](//voiceandtone.com/)
-* [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
-
-### Style Guides
-
-* [Conscious Style Guide](//consciousstyleguide.com/)
-* [Economist Style Guide](//www.economist.com/styleguide/introduction)
-* [GLAAD Media Reference Guide](//www.glaad.org/publications/reference)
-* [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
-* [MailChimp’s Voice and Tone Guide](//voiceandtone.com/)
-* [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
 
 ### Tools and Word Nerdery
 
