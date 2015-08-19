@@ -30,17 +30,19 @@ Googleauthor:
 
 ----
 
-Clients: ## Recent Clients ## {.list-section-title}
+Clients: 
+
+## Recent Clients ## {.list-section-title}
 
 - A BOOK APART
 - ABOUTLIFE
+- BESPOKEN
 - CHROMA
 - EDITORIALLY
 - ENOUGH PEPPER
 - THE FACTORY
 - HAPPY COG
-- MACMILLAN
-- MADE FOR HUMANS
+- MACMILLAN PUBLISHERS
 - MICROSOFT
 - MINED
 - PINTEREST

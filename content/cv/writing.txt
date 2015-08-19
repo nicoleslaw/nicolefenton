@@ -5,13 +5,13 @@ Title: CV
 Text: ### Writing and Editing ###
 Coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](http://nicelysaid.co)* with Kate Kiefer Lee, New Riders, 2014
 
-Editor of *[How to Make Sense of Any Mess](http://bit.ly/HTMSOAM)* by Abby Covert, CreateSpace, 2014
+Editor of *[How to Make Sense of Any Mess](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)* by Abby Covert, CreateSpace, 2014
 
 Copyeditor of *[On Web Typography](http://www.abookapart.com/products/on-web-typography)* by Jason Santa Maria and *[You’re My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)* by Mike Monteiro, A Book Apart, 2014
 
-Contributing Author, [Web Standards Sherpa](http://webstandardssherpa.com), 2011—2014
+Contributing Author, [Web Standards Sherpa](http://webstandardssherpa.com/about/authors/nicole-fenton), 2011—2014
 
-Freelance Writer and Editor, 2010—present
+Freelance Editor and Strategist, 2010—present
 
 * Helps growing teams and nonprofits develop purposeful websites, communications, and publishing workflows. Recent clients include Macmillan Publishers, Happy Cog, ProPublica, Safari Books Online, and Wishbone.org.
 * Writes essays about design, technology, and interface writing. Published in *Contents* Magazine, *Offscreen*, The Pastry Box Project, and Microsoft’s MIX Online.
@@ -35,12 +35,12 @@ Freelance Writer and Editor, 2010—present
 * Web Writing Workshop at [Confab Higher Ed](//confabevents.com/events/higher-ed) in Atlanta, GA, November 2014
 * Honest Marketing Workshop at [Nearly Impossible](//nearlyimpossible.org/conference/nyc/) in New York, NY, October 2014
 * Speaker, [Blend Conference](//2014.blendconf.com/) in Charlotte, NC, September 2014
-* Keynote Speaker, [Burlington Ruby Conference](//burlingtonrubyconference.com/) in Burlington, VT, August 2014
+* Speaker, [Burlington Ruby Conference](//burlingtonrubyconference.com/) in Burlington, VT, August 2014
 * Guest Lecturer, [General Assembly](//generalassemb.ly/) in New York, NY, February and June 2014
 
 #### 2013
 
-* Keynote Speaker, [Build Conference](//2013.buildconf.com/) in Belfast, Northern Ireland, November 2013
+* Speaker, [Build Conference](//2013.buildconf.com/) in Belfast, Northern Ireland, November 2013
 * Speaker, [Confab London](//confabevents.com/past-events/london-2013/) in London, UK, March 2013
 
 #### 2011

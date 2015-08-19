@@ -15,8 +15,9 @@ Past Events:
 ## Past Events ## {.list-section-title}
 
 ### [UXLx](//www.ux-lx.com) ###
-Interface Writing Workshop and Speaker
+Interface Writing Workshop and *Words as Material*
 Lisbon, June 3–5
+[Transcript](/words-as-materal/)
 
 ### [99u](//conference.99u.com/) ###
 Conference Mentor

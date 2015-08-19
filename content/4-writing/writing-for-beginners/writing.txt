@@ -63,10 +63,10 @@ I have this trouble all the time. It’s completely normal, even for someone who
 
 <p>I think popular images of writers make this harder on us too. We come to the screen and the page with a lot of ideas and often put those before what we’re writing about.</p>
 
-(figure: /writing-for-beginners/Build_Talk.012.png alt: Barton Fink)
-(figure: /writing-for-beginners/Build_Talk.013.png alt: Peggy from Mad Men)
-(figure: /writing-for-beginners/Build_Talk.014.png alt: Snoopy)
-(figure: /writing-for-beginners/Build_Talk.015.png alt: Jack)
+(figure: /writing-for-beginners/Build_Talk12.png alt: Barton Fink)
+(figure: /writing-for-beginners/Build_Talk13.png alt: Peggy from Mad Men)
+(figure: /writing-for-beginners/Build_Talk14.png alt: Snoopy)
+(figure: /writing-for-beginners/Build_Talk15.png alt: Jack)
 
 ### Bullshit about writing
 
@@ -127,7 +127,7 @@ Ultimately, we all listen, plan, compose, and revise. And our materials are inte
 
 The words on your website shape how people think about your products, how they use them, and how they talk about them. Every piece of copy is part of your design.
 
-(figure: /writing-for-beginners/Build_Talk.027.png alt: Danger Lorem Ipsum)
+(figure: /writing-for-beginners/Build_Talk27.png alt: Danger Lorem Ipsum)
 
 But the fact is a lot of designers still rely on lorem ipsum. I can’t tell you how many times I’ve come into a project, hired to do light copyediting, and the design was completely broken, because it was just a reskin or a layer of paint. If we can’t be bothered to understand the problems our clients are experiencing below the surface, we’re never going to solve anything with design.
 

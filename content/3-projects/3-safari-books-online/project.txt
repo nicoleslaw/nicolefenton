@@ -29,7 +29,7 @@ Services:
 
 Project Lede:
 
-Over the past two years, I helped Safari improve their digital reading service by contributing to its design, writing, style, and architecture.
+I helped Safari improve their digital reading service over a span of two years by contributing to its design, marketing, and editorial style.
 
 ----
 

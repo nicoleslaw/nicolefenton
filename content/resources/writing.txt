@@ -28,29 +28,10 @@ Text:
 * [Training the CMS](//alistapart.com/article/training-the-cms), Eileen Web
 * [5 Rules for Writing Great Interface Copy](//fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy), John Zeratsky
 
-### Design Education
-
-* [How to Make Sense of Any Mess](//abbytheia.com/makesense/), Abby Covert
-* [The Shape of Design](//shapeofdesignbook.com/), Frank Chimero
-* [Designing in the Borderlands](http://frankchimero.com/talks/designing-in-the-borderlands/transcript/), Frank Chimero
-* [The Chairs are Where the People Go](//amazon.com/gp/product/0865479453/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0865479453&linkCode=as2&tag=nicelysaid-20&linkId=7VH6DNHTUDFAPTPM), Sheila Heti and Mischa Glouberman
-* [Learning by Heart: Teachings to Free the Creative Spirit](//amazon.com/Learning-Heart-Teachings-Creative-Spirit/dp/0553344455), Corita Kent and Jan Steward
-* [Not Knowing](//tumblr.austinkleon.com/tagged/notknowing), Austin Kleon
-* [10 Timeframes](//contentsmagazine.com/articles/10-timeframes/), Paul Ford
-* [Don’t Go Back to School](//kiostark.com/dont-go-back-to-school/), Kio Stark
-
-### Freelance Life ###
-
-* [Working for Yourself](//www.nolo.com/products/working-for-yourself-wage.html), Stephen Fishman, J.D.
-* [Steal Like an Artist](//austinkleon.com/steal/), Austin Kleon
-* [Show Your Work](//austinkleon.com/show-your-work/), Austin Kleon
-* [Design is a Job](//abookapart.com/products/design-is-a-job), Mike Monteiro
-* [You’re My Favorite Client](//abookapart.com/products/youre-my-favorite-client), Mike Monteiro
-
-### Research
-
-* [Research Questions](//nicelysaid.co/research-questions)
-* [Avoiding Bullshit Personas](//speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
+### Editing
+* [The Copyeditor’s Handbook](//www.amazon.com/The-Copyeditors-Handbook-Publishing-Communications/dp/0520271564), Amy Einsohn
+* [The Elements of Editing](//www.amazon.com/The-Elements-Editing-Arthur-Plotnik/dp/0028614518), Arthur Plotnik
+* [The Subversive Copy Editor](http://www.amazon.com/The-Subversive-Copy-Editor-Relationships/dp/0226734250/), Carol Fisher Saller
 
 ### Content Strategy
 
@@ -62,6 +43,73 @@ Text:
 * [The Elements of Content Strategy](//abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
 * [Content Templates to the Rescue](//alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
 * [Your About Page is a Robot](//alistapart.com/articles/aboutpagerobot/), Erin Kissane
+
+### Design Education
+
+* [Avoiding Bullshit Personas](//speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
+* [How to Make Sense of Any Mess](//abbytheia.com/makesense/), Abby Covert
+* [The Shape of Design](//shapeofdesignbook.com/), Frank Chimero
+* [Designing in the Borderlands](http://frankchimero.com/talks/designing-in-the-borderlands/transcript/), Frank Chimero
+* [The Chairs are Where the People Go](//amazon.com/gp/product/0865479453/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0865479453&linkCode=as2&tag=nicelysaid-20&linkId=7VH6DNHTUDFAPTPM), Sheila Heti and Mischa Glouberman
+* [Learning by Heart: Teachings to Free the Creative Spirit](//amazon.com/Learning-Heart-Teachings-Creative-Spirit/dp/0553344455), Corita Kent and Jan Steward
+* [Not Knowing](//tumblr.austinkleon.com/tagged/notknowing), Austin Kleon
+* [10 Timeframes](//contentsmagazine.com/articles/10-timeframes/), Paul Ford
+* [Don’t Go Back to School](//kiostark.com/dont-go-back-to-school/), Kio Stark
+* [Research Questions](//nicelysaid.co/research-questions) from *Nicely Said*
+
+### Freelance Life ###
+
+* [Designing Case Studies](//www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/), Senongo Akpem
+* [Working for Yourself](//www.nolo.com/products/working-for-yourself-wage.html), Stephen Fishman, J.D.
+* [Steal Like an Artist](//austinkleon.com/steal/), Austin Kleon
+* [Show Your Work](//austinkleon.com/show-your-work/), Austin Kleon
+* [Design is a Job](//abookapart.com/products/design-is-a-job), Mike Monteiro
+* [You’re My Favorite Client](//abookapart.com/products/youre-my-favorite-client), Mike Monteiro
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+### Style Guides
+
+* [Conscious Style Guide](//consciousstyleguide.com/)
+* [Economist Style Guide](//www.economist.com/styleguide/introduction)
+* [GLAAD Media Reference Guide](//www.glaad.org/publications/reference)
+* [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
+* [MailChimp Style Guide](//styleguide.mailchimp.com/)
+* [MailChimp Voice and Tone Guide](//voiceandtone.com/)
+* [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
+* [18F’s Content Guide](//pages.18f.gov/content-guide/index.html)
+=======
+=======
+>>>>>>> origin/master
+### Content Strategy
+
+* [Fire Drills: Communication Strategy in a Crises](//alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
+* [Free Content Strategy for Free](//secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
+* [Wearing the Content Strategy Pants](//thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
+* [Testing Content](//alistapart.com/article/testing-content), Angela Colter
+* [Infrequently Asked Questions of FAQs](//alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
+* [The Elements of Content Strategy](//abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
+* [Content Templates to the Rescue](//alistapart.com/articles/content-templates-to-the-rescue/), Erin Kissane
+* [Your About Page is a Robot](//alistapart.com/articles/aboutpagerobot/), Erin Kissane
+>>>>>>> origin/master
+
+### Style Guides
+
+* [Conscious Style Guide](//consciousstyleguide.com/)
+* [Economist Style Guide](//www.economist.com/styleguide/introduction)
+* [GLAAD Media Reference Guide](//www.glaad.org/publications/reference)
+* [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
+* [MailChimp’s Voice and Tone Guide](//voiceandtone.com/)
+* [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
+
+### Style Guides
+
+* [Conscious Style Guide](//consciousstyleguide.com/)
+* [Economist Style Guide](//www.economist.com/styleguide/introduction)
+* [GLAAD Media Reference Guide](//www.glaad.org/publications/reference)
+* [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
+* [MailChimp’s Voice and Tone Guide](//voiceandtone.com/)
+* [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
 
 ### Tools and Word Nerdery
 
