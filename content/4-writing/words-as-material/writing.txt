@@ -20,31 +20,31 @@ I bring up this story, because it helped me understand systems at a deeper level
 
 Our work depends on many things: time, money, technology, materials, constraints, and most importantly, the lives, attention, and experiences of other people. We participate in and often orchestrate a process that’s bigger than we are. Design requires collaborators, contributors, customers, toolmakers, factory workers, marketers, postal workers, call center agents, you name it. If we look closely, we can see that people are at the heart of everything we make.
 
-When I started writing this talk, I asked a few of my designer friends to answer this question: What’s the number one thing that sabotages projects for you?
+When I started writing this talk, I asked my designer friends on Twitter to answer this question: *What’s the number one thing that sabotages projects for you?* Here are a few of their answers:
 
-Here are a few of their answers.
+Ian Marquette <a href="https://twitter.com/ianmarquette/status/575647978725093376">(@ianmarquette)</a>:
 
-<center>
+<blockquote>a lack of clear understanding between myself and clients, which basically comes down to communication.</blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> a lack of clear understanding between myself and clients, which basically comes down to communication.</p>&mdash; Ian Marquette (@ianmarquette) <a href="https://twitter.com/ianmarquette/status/575647978725093376">March 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Mark Forscher <a href="https://twitter.com/garbnzgh/status/575669037352493057">(@garbnzgh)</a>:
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> difference in expectations / poor communication</p>&mdash; mark forscher (@garbnzgh) <a href="https://twitter.com/garbnzgh/status/575669037352493057">March 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>difference in expectations / poor communication</p></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> feedback from 18794387294 different people</p>&mdash; Zak Greene (@zearl) <a href="https://twitter.com/zearl/status/575670392725114881">March 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Zak Greene <a href="https://twitter.com/zearl/status/575670392725114881">(@zearl)</a>:
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> Miscommunication. Handoffs to silos. Whatever the opposite of collaboration is.</p>&mdash; Maatttt (@mattfelten) <a href="https://twitter.com/mattfelten/status/575681220027142145">March 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>feedback from 18794387294 different people</blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> lack of extroverted thinking. One step at a time.</p>&mdash; Jonathan Myers (@jnthnmyrs) <a href="https://twitter.com/jnthnmyrs/status/575663430067093504">March 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Matt Felten <a href="https://twitter.com/mattfelten/status/575681220027142145">(@mattfelten)</a>:
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nicoleslaw">@nicoleslaw</a> Same as life really… lack of clarity around intent.</p>&mdash; Davin Risk (@davin) <a href="https://twitter.com/davin/status/575655021678759937">March 11, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>Miscommunication. Handoffs to silos. Whatever the opposite of collaboration is.</blockquote>
 
-</center>
+Jonathan Myers <a href="https://twitter.com/jnthnmyrs/status/575663430067093504">(@jnthnmyrs)</a>:
+
+<blockquote>lack of extroverted thinking. One step at a time.</blockquote>
+
+Davin Risk <a href="https://twitter.com/davin/status/575655021678759937">(@davin)</a>:
+
+<blockquote>Same as life really… lack of clarity around intent.</blockquote>
 
 These problems boil down to one thing: communication. Sharing ideas with other people. Working through decisions together to make something new. We’re here to make meaningful changes in the world, but we can’t do that if we don’t understand each other. We can’t ignore people or work around them.
 
@@ -61,7 +61,7 @@ So I’ve been thinking about what communication looks like in the design proces
 
 **Self:** We start by thinking alone. We may be collaborating with friends or colleagues, but we still need space to make sense of what we’re making. We have to put it into terms we can relate to.
 
-**Team:** We also have to talk through it with our team. That’s where extroverted thinking comes in. We may need to sketch, or brainstorm ideas, or summarize what we’ve heard from interviews or user research. We have to get on the same page, or find a shared language. Once we have a sense of what we’re doing, we can express those goals as requirements, come up with an approach, and move forward. All of these messy conversations help us gather consensus and work through the details.
+**Team:** We also have to talk through it with our team. That’s where extroverted thinking comes in. We may need to sketch, or brainstorm ideas, or summarize what we’ve heard from interviews or user research. We have to get on the same page or find a shared language. Once we have a sense of what we’re doing, we can express those goals as requirements, come up with an approach, and move forward. All of these messy conversations help us gather consensus and work through the details.
 
 **Product:** After choosing a design direction, we can prototype it, refine it, and try to make it speak for itself. The product needs to reflect the goals and intent we set out to achieve—and in some ways, it needs to stand on its own.
 
@@ -83,7 +83,7 @@ Going back to Thich Nhat Hanh, I believe that writing is part of every design. I
 
 ### The gap between us
 
-I want to focus on writing today, because I’ve noticed a huge gap between writers and designers in the professional world. And I think it contributes to the larger communication problems we face. We’re often on separate teams and in separate buildings. We have the same goals and audiences, but we’re rarely seen as partners or equals.
+I want to focus on writing today, because I’ve noticed a huge gap between writers and designers in the professional world. And I think it contributes to the larger communication problems we face. We’re often on separate teams in separate buildings. We have the same goals and audiences, but we’re rarely seen as partners or equals.
 
 I first noticed this gap 10 years ago when I was working at Apple, and I’ve seen it again and again since. Designers are invited to product meetings; writers hear about them afterwards. Designers sit close to the CEO; writers are in the call center or brought in right before the launch. Designers make things; writers support them. You can probably trace this separation back to how we’re taught in grade school or high school. In the U.S. at least, we learn to write in English class, to draw in art class, and to understand shapes and numbers in math class. But I’ve realized this intentional separation weakens our work and limits the contributions we can make to the world.
 
@@ -148,7 +148,7 @@ I want to share how I use words as material to move the design process forward. 
 
 Conflicting ideas are one thing—but it’s even harder to talk about an idea when there is no idea. I’m selfishly starting with this one, because I’ve seen it a lot in the past few years.
 
-The client may be making a product or a website, but they don’t have a picture in mind of what it should be. Maybe they haven’t taken the time to daydream about it. They may be in reaction mode, or they may need help asking deeper questions about their values or intent, like where their business is going, or why they’re in business in the first place. I generally see this as a lack of leadership, but it can also be a lack of connection and team identity. Some people who work together don’t really have a bond or a shared purpose. And that can slow down the design process.
+The client may be making a product or a website, but they don’t have a picture in mind of what it should be. Maybe they haven’t taken the time to daydream about it. They may be in reaction mode, or they may need help asking deeper questions about their values or intent, like where their business is going, or why they’re in business in the first place. I generally see this as a lack of leadership, but it can also be a lack of connection and team identity. Some people who work together don’t really have a bond or a shared purpose, and that can slow down the design process.
 
 There are a few ways you can work through this. I start every project with a set of questions. I like food metaphors, so I call them Starter Questions, like an appetizer. These questions help me understand the client’s needs and vocabulary. I write down words they say and I reflect them back when it’s appropriate. I also dig deeper when people use empty words like “simple” or “user-friendly.” Those words don’t help you as a designer. When one person says “innovative,” they may be talking about how it looks or behaves. And when another person says it, they may be talking about the business model or the process that a user goes through.
 
@@ -170,9 +170,9 @@ I told her what I was hoping to accomplish with the project, included examples o
 
 <blockquote>Hi Jane,</blockquote>
 
-<blockquote>I’m working on a collection of stories from writers who’ve been through XXXXXX. I came across your piece in The Rumpus and wondered if you’d be interested in contributing to a project. . .</blockquote>
+<blockquote>I’m working on a collection of stories from writers who’ve been through XXXXXX. I came across your piece in The Rumpus and wondered if you’d be interested in contributing to the project. . .</blockquote>
 
-As you start to externalize your idea, it’s not enough to imagine a good outcome or define why it matters. You also have to articulate your goals so people can rally around them. That brings me to another communication problem: conflicting goals and priorities.
+As you start to externalize your idea, it’s not enough to imagine a good outcome or define why it matters. You also have to articulate your goals so people can rally around them. That brings me to another communication problem: conflicting goals and expectations.
 
 #### 2. Different goals and expectations
 
@@ -206,7 +206,7 @@ They had a good product vision, but I had a hard time getting them to decide wha
 
 <blockquote>Join Chroma to: {create a field guide / share curious things you find / discover guides and search nearby / tag birds, bugs, beers, and more}.</blockquote>
 
-Get those words down and play with them. You don’t need a copywriter to do this. Plain language is better than jazzy puns.
+Get those words down and play with them. Expect to argue with each other. You don’t need a copywriter to do this. Plain language is better than jazzy puns.
 
 Let’s move on to the next one.
 
@@ -230,18 +230,16 @@ These phrases struck me, because they come in the form of a statement with no ro
 
 This is not so much a writing trick as an editing trick. But it’s a good way to make sure you have room to do your job.
 
-Another way to avoid this problem is to work through different variations. If you think there’s more than one way to approach a problem, show how that plays out in the interface. Whenever I’m presenting ideas, I like to share 3 or more options. People tend to make better decisions when there are a few things to choose from. It also gives you a chance to be more creative than finding the one right way to solve a problem.
-
-Don’t get stuck on a content structure or specific wording in design concepts. Explore your options in the language too.
+Another way to avoid this problem is to work through different variations. If you think there’s more than one way to approach a problem, show how that plays out in the interface. Whenever I’m presenting ideas, I like to share 3 or more options. People tend to make better decisions when there are a few things to choose from. It also gives you a chance to be creative. Don’t get stuck on a content structure or specific wording in design concepts. Explore your options in the language too.
 
 #### 4. Design doesn’t sell itself
 
-We all know good design doesn’t sell itself. If it did, Apple wouldn’t spend a gazillion dollars a year on advertising. But if you’re working on a Kickstarter or selling design to the public, you have to explain yourself a little bit. You can use words as material in that process. For me, that often looks like the Mad Libs exercise I showed you. I also have a bunch of [product questions](https://gist.github.com/nicoleslaw/2155621#file-3_product_questions-md) that I like to ask. It’s almost like a spec sheet for planning out the content.
+We all know good design doesn’t sell itself. If it did, Apple wouldn’t spend a gazillion dollars a year on advertising. If you’re working on a Kickstarter or selling design to the public, you’ll have to explain yourself a little bit. You can use words as material in that process. For me, that often looks like the Mad Libs exercise I showed you. I also have a bunch of [product questions](https://gist.github.com/nicoleslaw/2155621#file-3_product_questions-md) that I like to ask. It’s almost like a spec sheet for planning out the content.
 
-Another one of my favorite tricks is to record myself or use speech-to-text to transcribe my words. I write down a few questions I want to answer. Who are my main audiences and what do they need to know? This could be for a pitch or a marketing meeting, anything really. Grab a pair of headphones and a recording device. Walk around and interview yourself. Pick someone specific to talk to, and imagine they’re asking you those questions. It feels a little silly at first, but afterwards, you can print it out and highlight the phrases that are interesting or useful for what you’re making. Cut it up and scrap the rest. I use this trick a lot to write outlines for essays and blog posts.
+Another one of my favorite tricks is to record myself or use speech-to-text to transcribe my words. I write down a few questions I want to answer. Who are my main audiences and what do they need to know? This could be for a pitch or a marketing meeting, anything really. Grab a pair of headphones and a recording device. Walk around and interview yourself. Pick someone specific to talk to, and imagine they’re asking you those questions. It feels a little silly at first, but afterwards, you can print it out and highlight the phrases that are interesting or useful for what you’re making. Cut it up and scrap the rest. I use this trick a lot to write outlines for essays and conference talks.
 
 * * *
-These are some of the ways I use words as material in the design process.
+To summarize, these are some of the ways I use words as material in the design process:
 
 * Ask questions
 * Write a letter
