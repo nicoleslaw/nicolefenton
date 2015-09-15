@@ -2,7 +2,7 @@ Title: Writing
 
 ----
 
-Lede: I write books, talks, and essays about working with language and making digital products.
+Lede: 
 
 ----
 
@@ -63,7 +63,9 @@ More on [Tumblr](//nicoleslaw.com) and [Born Hungry](//bornhungrymag.com).
 
 ----
 
-Published-elsewhere: [Writing for Global Readers](//webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
+Published-elsewhere: [Write an About Page That Gets You Hired](//99u.com/articles/51669/how-to-write-about-me-section), 99u
+
+[Writing for Global Readers](//webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
 
 [Leaning into Longform](//webstandardssherpa.com/reviews/leaning-into-longform/), Web Standards Sherpa
 

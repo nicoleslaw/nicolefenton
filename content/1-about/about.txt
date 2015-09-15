@@ -4,11 +4,11 @@ Title: About
 
 Text: ## Hello ## {.list-section-title}
 
-I believe good writing is clear, honest, and friendly. I wrote a book about that with Kate Kiefer Lee called *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)*. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
+I am a newly-hired innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology agency within the US government. I also edit books for [A Book Apart](//abookapart.com) and coach writers on a limited basis.
 
-I’m currently editing for [A Book Apart](//abookapart.com), writing personal essays, and preparing to teach a writing course in the spring. I’m booked up right now, but always happy to hear from you by email.
+I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
 
-For the curious, I used to be a senior content strategist at [Facebook](//facebook.com), [Lab Zero](//labzero.com), and [Mule Design](//muledesign.com) in San Francisco. I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad. I have an English degree from the University of Texas and an eternal hankering for tacos.
+I spent the last few years consulting, teaching workshops, and speaking at conferences internationally. Previously, I was a senior content strategist at [Facebook](//facebook.com), [Lab Zero](//labzero.com), and [Mule Design](//muledesign.com) in San Francisco. I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad.
 
 I live in Brooklyn with my [husband](//maxfenton.com) and our [little chihuahua](//instagram.com/explore/tags/geoffreyjonesfenton/).
 
