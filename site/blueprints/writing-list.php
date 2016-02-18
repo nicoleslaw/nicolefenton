@@ -1,7 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 title: Writing
-pages: true
+pages: false
 files: false
 fields:
   title:
@@ -10,16 +10,16 @@ fields:
   lede:
     label: Lede
     type:  textarea
-  the_book:
-    label: Featured Writing
-    type:  textarea
-    size:  large
   featured_writing:
     label: Featured Writing
     type:  textarea
     size:  large
   business_writing:
     label: Archived Writing
+    type:  textarea
+    size:  large
+  the_book:
+    label: The Book
     type:  textarea
     size:  large
   personal_writing:
@@ -33,4 +33,3 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large

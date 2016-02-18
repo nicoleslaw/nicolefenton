@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Writing
+title: Speaking
 pages: false
 files: true
 fields:
@@ -10,12 +10,12 @@ fields:
   lede:
     label: Lede
     type:  textarea
-  pubdate:
-    label: Pubdate
-    type:  text
-  footnotes:
-    label: Footnotes
+  upcoming_events:
+    label: Upcoming Events
     type:  textarea
-  header_image:
-    label: Header Image
-    type:  text
+    size:  large
+  past_events:
+    label: Past Events
+    type:  textarea
+    size:  large
+  

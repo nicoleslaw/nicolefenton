@@ -13,6 +13,9 @@ fields:
   lede:
     label: Lede
     type:  textarea
+  tags:
+    label: Tags
+    type:  text
   testimonial:
     label: Testimonial
     type:  textarea
@@ -29,6 +32,6 @@ fields:
   company_name:
     label: Company Name
     type:  text
-  skills:
-    label: Skills
+  services:
+    label: Services
     type:  textarea

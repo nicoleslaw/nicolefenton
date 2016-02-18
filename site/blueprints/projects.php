@@ -1,7 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Writing
-pages: false
+title: Projects
+pages: true
 files: true
 fields:
   title:
@@ -10,12 +10,7 @@ fields:
   lede:
     label: Lede
     type:  textarea
-  pubdate:
-    label: Pubdate
-    type:  text
-  footnotes:
-    label: Footnotes
+  text:
+    label: Text
     type:  textarea
-  header_image:
-    label: Header Image
-    type:  text
+  
