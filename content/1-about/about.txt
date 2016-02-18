@@ -2,19 +2,23 @@ Title: About
 
 ----
 
-Text: ## Hello ## {.list-section-title}
+Text: 
 
-I am a newly-hired innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology agency within the US government. I also edit books for [A Book Apart](//abookapart.com) and coach writers on a limited basis.
+## Hello ## {.list-section-title}
+
+I am an innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology agency within the U.S. government. I also edit books for [A Book Apart](//abookapart.com) and coach writers on a limited basis.
 
 I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
 
 I spent the last few years consulting, teaching workshops, and speaking at conferences internationally. Previously, I was a senior content strategist at [Facebook](//facebook.com), [Lab Zero](//labzero.com), and [Mule Design](//muledesign.com) in San Francisco. I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad.
 
-I live in Brooklyn with my [husband](//maxfenton.com) and our [little chihuahua](//instagram.com/explore/tags/geoffreyjonesfenton/).
+I live in Brooklyn with my [husband](//maxfenton.com), our daughter, and our [little chihuahua](//instagram.com/explore/tags/geoffreyjonesfenton/).
 
 ----
 
-Side-projects: ## Side Projects ##
+Side-projects: 
+
+## Side Projects ##
 
 * [Born Hungry](//bornhungrymag.com)
 * [Tiny Content Framework](//gist.github.com/nicoleslaw/2155621)
@@ -22,7 +26,9 @@ Side-projects: ## Side Projects ##
 
 ----
 
-Interviews: ## Interviews ##
+Interviews: 
+
+## Interviews ##
 
 * [Happy Monday](//www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
 * [Rad Lady](//www.radlady.com/2012/07/nicole-jones.html)
@@ -33,7 +39,9 @@ Interviews: ## Interviews ##
 
 ----
 
-Principles: ## Principles ##
+Principles: 
+
+## Principles ##
 
 * Be clear and be kind.
 * Tell the truth.

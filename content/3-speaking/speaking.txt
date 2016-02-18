@@ -17,7 +17,7 @@ Past Events:
 ### [UXLx](//www.ux-lx.com) ###
 Interface Writing Workshop and *Words as Material*
 Lisbon, June 3–5
-[Transcript](/words-as-materal/)
+[Transcript](/words-as-material/)
 
 ### [99u](//conference.99u.com/) ###
 Conference Mentor
@@ -71,7 +71,7 @@ New York, February and June 2014
 ### [Build Conference](http://2013.buildconf.com) ###
 *Writing for Beginners*
 Belfast, November 2013
-[Slides](//speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing-for-beginners/)
+[Slides](//speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing-for-beginners/), [Video](https://youtu.be/cyWJ1UFjquo)
 
 ### [Confab London](//confabevents.com/past-events/london-2013/index.html) ###
 *Winning Tactics*

@@ -2,24 +2,26 @@ Title: Home
 
 ----
 
-Home Bio:
-
-Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || publishing specialist || educator || information architect || writing coach || occasional speaker || extrovert for pay || professional daydreamer || typical Gemini || amateur photographer || curious home cook || tea drinker || casual surfer }}. She hosts workshops and works with {{ nice people || authors, designers, and developers || startups, nonprofits, and small businesses }} on {{ websites || digital products || books, interfaces, || content }} and publishing projects.
+Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || publishing specialist || educator || information architect || writing coach || occasional speaker || extrovert for pay || professional daydreamer || typical Gemini || new mom || amateur photographer || curious home cook || tea drinker || casual surfer }}. She hosts workshops and works with {{ nice people || authors, designers, and developers || startups, nonprofits, and small businesses }} on {{ websites || digital products || books, interfaces, || content }} and publishing projects.
 
 ----
 
-Text:
+Text: 
 
 ----
 
-Making:
+Making: 
 
+* [Write an About Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section "an article for 99u")
 * [Words as Material](/words-as-material/ "a lecture about writing in the design process")
 
 ----
 
-Reading:
+Reading: 
 
-* [Teach, Breathe, Learn](//teachbreathelearn.com/ "by Meena Srinivasan")
-* [Between the World and Me](//www.penguinrandomhouse.com/books/220290/between-the-world-and-me-by-ta-nehisi-coates/ "by Ta-Nehisi Coates")
-* [More Home Cooking](//www.harpercollins.com/9780062308269/more-home-cooking "by Laurie Colwin")
+* [The Argonauts](https://www.graywolfpress.org/books/argonauts "by Maggie Nelson")
+* [Legs Get Led Astray](//chloecaldwell.com/book/ "by Chloe Caldwell")
+
+----
+
+Testimonial: 
