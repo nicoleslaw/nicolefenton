@@ -6,35 +6,35 @@ Lede:
 
 ----
 
-Upcoming Events:
+Upcoming-events: 
 
 ----
 
-Past Events:
+Past-events: 
 
 ## Past Events ## {.list-section-title}
 
 ### [UXLx](//www.ux-lx.com) ###
 Interface Writing Workshop and *Words as Material*
-Lisbon, June 3–5
+Lisbon, June 2015
 [Transcript](/words-as-material/)
 
 ### [99u](//conference.99u.com/) ###
 Conference Mentor
-New York, April 30–May 1
+New York, April–May 2015
 
 ### [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) ###
 Writing About Yourself Workshop Series
-Brooklyn, March 25–April 8
+Brooklyn, March–April 2015
 
 ### [Huge Inc.](http://www.hugeinc.com/events/content-strategist-event) ###
 Panelist, Editorial Strategy
-Brooklyn, March 24
+Brooklyn, March 2015
 [Video](http://livestream.com/hugeinc/events/3914728)
 
 ### [RISD](http://www.risd-id.org/) ###
 Guest Lecture, School of Industrial Design
-Providence, March 12
+Providence, March 2015
 
 ### [Syracuse University](//newhouse.syr.edu/) ###
 Guest Lecture, School of Public Communications
