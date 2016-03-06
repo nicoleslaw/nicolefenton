@@ -19,9 +19,9 @@
 
   <?php snippet("font-apercu") ?>
 
-  <script src="/_/js/vendor/modernizr.custom.1.0.1.js" type="text/javascript"></script>
+  <script src="/_/js/vendor/modernizr.custom.3.3.1.js" type="text/javascript"></script>
 
-  <link href="/_/css/screen.1.0.5.css" rel="stylesheet">
+  <link href="/_/css/screen.1.0.6.css" rel="stylesheet">
   <?php
     /*
   <script><?php snippet('js-loadcss') ?>; loadCSS( "/_/css/screen.1.0.5.css" );</script>
