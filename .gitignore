@@ -30,3 +30,4 @@ _/wp-theme/
 _/uploads
 _/bower_components
 node_modules
+.vagrant
