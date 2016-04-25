@@ -10,9 +10,3 @@ fields:
   text:
     label: Text
     type:  textarea
-  photo_credit:
-    label: Photo-credit
-    type:  text
-  photo:
-    label: Photo
-    type:  textarea
