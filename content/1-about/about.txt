@@ -6,7 +6,7 @@ Text:
 
 ## Hello ## {.list-section-title}
 
-I am an innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology agency within the U.S. government. I also edit books for [A Book Apart](//abookapart.com) and coach writers on a limited basis.
+I am an innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology agency within the U.S. government. I also edit books for [A Book Apart](//abookapart.com) and teach at the [School of Visual Arts](http://interactiondesign.sva.edu/).
 
 I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
 
