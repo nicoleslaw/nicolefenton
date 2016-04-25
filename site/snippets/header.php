@@ -14,8 +14,8 @@
   <link rel="apple-touch-icon" href="/favicon.png">
 
   <style><?php snippet("css-firstpaint") ?></style>
-  <link rel="dns-prefetch" href="f.fontdeck.com" />
-  <link rel="dns-prefetch" href="www.google-analytics.com" />
+  <link rel="dns-prefetch" href="http://f.fontdeck.com" />
+  <link rel="dns-prefetch" href="http://www.google-analytics.com" />
 
   <?php snippet("font-apercu") ?>
 
