@@ -6,7 +6,7 @@ Lede: I gave this talk at <a href="//www.risd.edu/">RISD</a> in Providence and <
 
 ----
 
-Text:
+Text: 
 
 I want to start with a quote from writer, activist, and teacher, Thich Nhat Hanh. In *Being Peace*, he writes:
 
@@ -267,13 +267,21 @@ Thank you.
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
 <ul>
-	<li><a href="//nicelysaid.co">Nicely Said: Writing for the Web with Style and Purpose</a></li>
-	<li><a href="//gist.github.com/nicoleslaw/2155621">Tiny Content Framework</a></li>
-	<li><a href="/writing-for-beginners">Writing for Beginners</a></li>
-	<li><a href="/honest-marketing">Honest Marketing</a></li>
+  <li><a href="//nicelysaid.co">Nicely Said: Writing for the Web with Style and Purpose</a></li>
+  <li><a href="//gist.github.com/nicoleslaw/2155621">Tiny Content Framework</a></li>
+  <li><a href="/writing-for-beginners">Writing for Beginners</a></li>
+  <li><a href="/honest-marketing">Honest Marketing</a></li>
 </ul>
+
+----
+
+Pubdate: March 12, 2015
+
+----
+
+Header-image: 

@@ -2,7 +2,9 @@ Title: CV
 
 ----
 
-Text: ### Writing and Editing ###
+Text: 
+
+### Writing and Editing ###
 Coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](http://nicelysaid.co)* with Kate Kiefer Lee, New Riders, 2014
 
 Editor of *[How to Make Sense of Any Mess](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)* by Abby Covert, CreateSpace, 2014
@@ -18,6 +20,10 @@ Freelance Editor and Strategist, 2010—present
 * Coaches writers and designers on a limited basis.
 
 ### Speaking and Teaching ###
+
+#### 2016
+
+* Instructor, [School of Visual Arts](//interactiondesign.sva.edu/), Interaction Design Program in New York, NY, Spring 2016
 
 #### 2015
 
@@ -47,6 +53,13 @@ Freelance Editor and Strategist, 2010—present
 * Speaker, [Content Strategy Forum](//2011.csforum.eu/) in London, UK, September 2011
 
 ### Work Experience ###
+
+#### [18F](https://18f.gsa.gov/) ####
+
+Innovation Specialist, 2015–present
+
+* Led onboarding efforts for a three-month rotation, including handbook documentation, bots, checklists, and Slack-based classes.
+* Developed site architecture and content patterns for the [U.S. EITI](https://useiti.doi.gov/) open data website.
 
 #### [Facebook](//facebook.com) ####
 Senior Content Strategist, 2012–2013
