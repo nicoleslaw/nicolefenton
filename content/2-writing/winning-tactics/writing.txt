@@ -6,7 +6,7 @@ Lede: I gave this lightning talk at <a href="//confabevents.com/past-events/lond
 
 ----
 
-Text:
+Text: 
 
 Hi, I’m Nicole. I’m a content strategist at Facebook in New York.
 
@@ -108,7 +108,7 @@ That’s it for today. Thanks, friends!
 
 ----
 
-Footnotes:
+Footnotes: 
 
 ## Further reading
 
@@ -117,3 +117,11 @@ Footnotes:
 * [Writing for Beginners](/writing-for-beginners/)
 * [Baby Steps to Better Product Content](//www.swellcontent.com/2012/02/baby-steps-to-better-product-content/)
 * [Working on Content with Developers](//www.swellcontent.com/2012/04/working-with-developers/)
+
+----
+
+Pubdate: March 25, 2013
+
+----
+
+Header-image: 

@@ -6,7 +6,7 @@ Lede: I gave this talk at <a href="//burlingtonrubyconference.com">Burlington Ru
 
 ----
 
-Text:
+Text: 
 
 The web and the world are full of instructions. Everywhere you go, signs and people are telling you what to do.
 
@@ -269,7 +269,7 @@ Thank you.
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -281,3 +281,11 @@ Footnotes:
 	<li><a href="//www.swellcontent.com/2012/04/working-with-developers/">Working on Content with Developers</a></li>
 	<li><a href="//www.x-entertainment.com/articles/0952/">Dr. Sbaitso</a> from Creative Labs</li>
 </ul>
+
+----
+
+Pubdate: August 2, 2014
+
+----
+
+Header-image: 

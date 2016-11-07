@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || publishing specialist || educator || information architect || writing coach || occasional speaker || extrovert for pay || professional daydreamer || typical Gemini || new mom || amateur photographer || curious home cook || tea drinker || casual surfer }}. She hosts workshops and works with {{ nice people || authors, designers, and developers || startups, nonprofits, and small businesses }} on {{ websites || digital products || books, interfaces, || content }} and publishing projects.
+Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || educator || writing coach || publishing specialist || occasional speaker || extrovert for pay || professional daydreamer || typical Gemini || new parent || amateur photographer || curious home cook || tea drinker || casual surfer }}. She hosts workshops and works with {{ nice people || authors, designers, and developers || civil servants }} on {{ websites || digital products || books, interfaces, }} and publishing projects.
 
 ----
 
@@ -12,15 +12,16 @@ Text:
 
 Making: 
 
-* [Write an About Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section "an article for 99u")
+* [Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/ "on the 18F blog")
+* [How to Write an About Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section "an article for 99u")
 * [Words as Material](/words-as-material/ "a lecture about writing in the design process")
 
 ----
 
 Reading: 
 
-* [Git for Humans](https://abookapart.com/products/git-for-humans)
-* [Real Fast Food ](http://www.amazon.com/Real-Fast-Food-Ready-Eat/dp/1590201159)
+* [And the Heart Says Whatever](http://www.simonandschuster.com/books/And-the-Heart-Says-Whatever/Emily-Gould/9781439123898)
+* [Sprint](http://www.thesprintbook.com/)
 
 ----
 

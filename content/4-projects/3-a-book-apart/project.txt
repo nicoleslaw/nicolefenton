@@ -27,7 +27,7 @@ Project-lede: I occasionally edit books for people who make websites.
 
 Text: 
 
-(figure: abookapart.jpg/ alt: On Web Typography and You’re My Favorite Client)
+(figure: abookapart.jpg/ alt: On Web Typography and You’re My Favorite Client covers)
 
 In 2014, I had the honor of copyediting two titles for A Book Apart: *[On Web Typography](//www.abookapart.com/products/on-web-typography)* by Jason Santa Maria and *[You’re My Favorite Client](//www.abookapart.com/products/youre-my-favorite-client)* by Mike Monteiro, my former boss at Mule Design.
 

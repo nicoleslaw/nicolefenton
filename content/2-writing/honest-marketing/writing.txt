@@ -6,7 +6,7 @@ Lede: This is an adapted version of the workshop I led at <a href="http://nearly
 
 ----
 
-Text:
+Text: 
 
 I’m going to share my personal approach to copywriting with you and then we’ll look at examples and work through two  exercises. Here’s what I want you to take away from this workshop:
 
@@ -232,7 +232,7 @@ I hope you find this useful! I’m all about doing workshops, so let me know if 
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -242,3 +242,11 @@ Footnotes:
 	<li><a href="http://www.amazon.com/gp/product/0805078045?ie=UTF8&tag=bobblycop-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0805078045">The Copywriter’s Handbook</a> by Robert W. Bly</a></li>
 	<li><a href="http://austinkleon.com/show-your-work/">Show Your Work</a> by Austin Kleon</a></li>
 </ul>
+
+----
+
+Pubdate: October 30, 2014
+
+----
+
+Header-image: 

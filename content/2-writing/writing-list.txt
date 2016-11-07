@@ -6,7 +6,9 @@ Lede:
 
 ----
 
-Featured-writing: ## Featured Writing ## {.list-section-title}
+Featured-writing: 
+
+## Featured Writing ## {.list-section-title}
 
 ### [Words as Material](/words-as-material) ###
 I’ve noticed a huge gap between writers and designers in the professional world, and I think it contributes to the larger communication problems we face.
@@ -23,9 +25,14 @@ Have you ever looked someone up in a database? Did you find what you were lookin
 ### [Writing for Beginners](/writing-for-beginners/) ###
 What if writing comes from a place of *not knowing*, a place of exploration, seeking clarity, and wanting to communicate—a place for beginners?
 
+### [Art of the Quiet Interface](/art-of-the-quiet-interface/) ###
+How do we design content to be engaging and distraction-free? Looking at <a href="http://www.bonappetit.com/">Bon Appetit</a>, I serve up a few ideas.
+
 ----
 
-Business-writing: * [Manifesto](/manifesto)
+Business-writing: 
+
+* [Manifesto](/manifesto)
 * [Winning Tactics](/winning-tactics)
 * [Editing the Past](//www.swellcontent.com/2013/02/editing-the-past/)
 * [Dreaming of Writing in Space](//www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
@@ -39,9 +46,11 @@ More on [Swell Content](//swellcontent.com).
 
 ----
 
-The-book: ## The Book ## {.list-section-title}
+The-book: 
 
-(figure: /writing/nicely_said.jpg)
+## The Book ## {.list-section-title}
+
+(figure: /writing/nicely_said.jpg alt: Nicely Said Cover)
 
 ### *[Nicely Said: Writing for the Web with Style and Purpose](//nicelysaid.co)* ###
 
@@ -51,35 +60,40 @@ Whether you’re a writer, designer, developer, or business owner, this book is 
 
 ----
 
-Personal-writing: * [Why I Write](//nicoleslaw.com/post/88447345479/why-i-write)
+Personal-writing: 
+
+* [Why I Write](//nicoleslaw.com/post/88447345479/why-i-write)
 * [First Year in New York](//nicoleslaw.com/post/77885298170/first-year-in-new-york)
 * [Geoffrey the Magnificent](/geoffrey-the-magnificent)
 * [Two Stories](//nicoleslaw.com/post/63658097382/two-stories)
 * [On Feeding and Being Fed](//www.bornhungrymag.com/2012/08/feeding/)
 * [Humble Beginnings](//www.bornhungrymag.com/2012/06/humble-beginnings/)
-* [Beyond the Page](/beyond-the-page)
 
 More on [Tumblr](//nicoleslaw.com) and [Born Hungry](//bornhungrymag.com).
 
 ----
 
-Published-elsewhere: [Write an About Page That Gets You Hired](//99u.com/articles/51669/how-to-write-about-me-section), 99u
+Published-elsewhere: 
+
+[Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/), 18F Blog
+
+[How to Write an About Page That Gets You Hired](//99u.com/articles/51669/how-to-write-about-me-section), 99u
 
 [Writing for Global Readers](//webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
 
 [Leaning into Longform](//webstandardssherpa.com/reviews/leaning-into-longform/), Web Standards Sherpa
 
-[Art of the Quiet Interface](//webstandardssherpa.com/reviews/art-of-the-quiet-interface/), Web Standards Sherpa
-
 [Space to Breathe](//contentsmagazine.com/articles/space-to-breathe/), *Contents* Magazine
 
 [A Year of Ideas](//the-pastry-box-project.net/baker/nicole-fenton/), The Pastry Box Project
+
+[Beyond the Page](http://blog.readmill.com/post/24473807262/guest-post-nicole-jones-beyond-the-page), Readmill Blog
 
 [Wayfinding: Writing for Accessibility](//webstandardssherpa.com/reviews/wayfinding-writing-for-accessibility/), Web Standards Sherpa
 
 [Dear Web](//www.offscreenmag.com/issue5/), *Offscreen* Magazine
 
-[Content Strategy in the Fortune 500](//visitmix.com/writings/content-strategy-in-the-fortune-500), MIX Online
+[Content Strategy in the Fortune 500](https://web.archive.org/web/20150808052740/http://visitmix.com/writings/content-strategy-in-the-fortune-500), MIX Online
 
 ----
 

@@ -14,6 +14,10 @@ Past-events:
 
 ## Past Events ## {.list-section-title}
 
+### [Civic Hall](http://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/) ###
+*How 18F Approaches Digital Strategy and Content Design*
+New York, July 2016
+
 ### [UXLx](//www.ux-lx.com) ###
 Interface Writing Workshop and *Words as Material*
 Lisbon, June 2015

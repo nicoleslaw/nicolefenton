@@ -6,13 +6,13 @@ Text:
 
 ## Hello ## {.list-section-title}
 
-I am an innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology agency within the U.S. government. I also edit books for [A Book Apart](//abookapart.com) and teach at the [School of Visual Arts](http://interactiondesign.sva.edu/).
+I am an innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology consultancy within the U.S. government. I also teach in the MFA Interaction Design program at the [School of Visual Arts](http://interactiondesign.sva.edu/).
 
 I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
 
-I spent the last few years consulting, teaching workshops, and speaking at conferences internationally. Previously, I was a senior content strategist at [Facebook](//facebook.com), [Lab Zero](//labzero.com), and [Mule Design](//muledesign.com) in San Francisco. I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad.
+Before joining 18F, I was an independent user-experience consultant, working directly with clients on web and editorial projects of all sizes. Previously, I was a senior content strategist at [Facebook](https://www.facebook.com/), [Lab Zero](http://labzero.com/), and [Mule Design](http://muledesign.com/). I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years.
 
-I live in Brooklyn with my [husband](//maxfenton.com), our daughter, and our [little chihuahua](//instagram.com/explore/tags/geoffreyjonesfenton/).
+I live in Brooklyn with my [husband](https://maxfenton.com/), our daughter, and our [little chihuahua](https://www.instagram.com/explore/tags/geoffreyjonesfenton/).
 
 ----
 
@@ -21,8 +21,8 @@ Side-projects:
 ## Side Projects ##
 
 * [Born Hungry](//bornhungrymag.com)
-* [Tiny Content Framework](//gist.github.com/nicoleslaw/2155621)
-* [Iterative Writing](//github.com/nicoleslaw/iterative-writing)
+* [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621)
+* [Iterative Writing](https://github.com/nicoleslaw/iterative-writing)
 
 ----
 

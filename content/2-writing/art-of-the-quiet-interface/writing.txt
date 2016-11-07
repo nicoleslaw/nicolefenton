@@ -1,4 +1,4 @@
-﻿Title: Art of the Quiet Interface
+Title: Art of the Quiet Interface
 
 ----
 
@@ -6,10 +6,12 @@ Lede: This article was originally published by <a href="//webstandardssherpa.com
 
 ----
 
-Pubdate:
+Pubdate: April 12, 2012
 
 ----
-Text:
+
+Text: 
+
 <figure class="bordered"><img src="./quiet_home.png" alt="Bon Appétit Home" /> <figcaption>Bon Appétit’s homepage.</figcaption></figure>
 
 <p>As advertisers and publishers fully embrace digital, we’re faced with a hefty editorial challenge. Print books and magazines let you enjoy one piece at a time without interruption. As <a href="//www.wired.com/techbiz/people/magazine/17-06/st_thompson">Clive Thompson</a> says, “One of the chief pleasures of a book is mental solitude, that deep, quiet focus on an author’s thoughts—and your own.” Finding that kind of focus isn’t easy online.</p>
@@ -182,7 +184,7 @@ the brand of salt and link to a <a href="//www.bonappetit.com/blogsandforums/blo
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -190,3 +192,7 @@ Footnotes:
 	<li><a href="//interface-writing/">Interface Writing: Code for Humans</a></li>
 	<li><a href="//nicelysaid.com">Nicely Said: Writing for the Web with Style and Purpose</a></li>
 </ul>
+
+----
+
+Header-image: 
