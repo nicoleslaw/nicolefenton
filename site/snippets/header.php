@@ -14,20 +14,13 @@
   <link rel="apple-touch-icon" href="/favicon.png">
 
   <style><?php snippet("css-firstpaint") ?></style>
-  <link rel="dns-prefetch" href="http://f.fontdeck.com" />
-  <link rel="dns-prefetch" href="http://www.google-analytics.com" />
-
-  <?php snippet("font-apercu") ?>
 
   <script src="/_/js/vendor/modernizr.custom.3.3.1.js" type="text/javascript"></script>
-
-  <link href="/_/css/screen.1.0.6.css" rel="stylesheet">
-  <?php
-    /*
+  <link href="/_/css/screen.1.1.0.css" rel="stylesheet">
+  <?php /*
   <script><?php snippet('js-loadcss') ?>; loadCSS( "/_/css/screen.1.0.5.css" );</script>
   <noscript><link href="/_/css/screen.1.0.5.css" rel="stylesheet"></noscript>
-    */
-  ?>
+  */ ?>
 
   <!--[if lte IE 8]><?php echo css('/_/css/ie.1.0.1.css') ?><![endif]-->
 
