@@ -12,6 +12,12 @@ Upcoming-events:
 
 Past-events: 
 
+## Upcoming Events ## {.list-section-title}
+
+### [Parsons](http://cdt.parsons.edu/) ###
+Guest Lecture, School of Design
+New York, March 2017
+
 ## Past Events ## {.list-section-title}
 
 ### [Civic Hall](http://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/) ###

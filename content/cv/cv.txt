@@ -4,36 +4,30 @@ Title: CV
 
 Text: 
 
-### Writing and Editing ###
-Coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](http://nicelysaid.co)* with Kate Kiefer Lee, New Riders, 2014
-
-Editor of *[How to Make Sense of Any Mess](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)* by Abby Covert, CreateSpace, 2014
-
-Editor of a forthcoming title by Dan Brown and *[Going Responsive](https://abookapart.com/products/going-responsive)* by Karen McGrane, A Book Apart
-
-Copyeditor of *[On Web Typography](http://www.abookapart.com/products/on-web-typography)* by Jason Santa Maria, *[Responsive Design: Patterns and Principles](https://abookapart.com/products/responsive-design-patterns-principles)* by Ethan Marcotte, and *[You’re My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)* by Mike Monteiro, A Book Apart
-
-Contributing author, [99U](http://99u.com/articles/51669/how-to-write-about-me-section), 2015
-
-Contributing Author, [Web Standards Sherpa](http://webstandardssherpa.com/about/authors/nicole-fenton), 2011–2014
-
-
 ### Work Experience ###
 
 #### [18F](https://18f.gsa.gov/) ####
-Innovation Specialist, 2015–present
+Supervisory Design Innovation Specialist, 2016–present
+
+* Managed and coached a remote team of writers and content designers.
+* Led interviews, usability sessions, and content efforts for the [FBI Crime Data Explorer](https://github.com/18F/crime-data-explorer) project.
+* Promoted content strategy as a core design discipline.
+* Developed performance profiles for 18F Experience Design supervisors and content designers.
+* Facilitated remote content workshops and an unconference session on fostering resilience.
+
+Innovation Specialist, 2015–2016
 
 * Led onboarding efforts for a three-month rotation. Developed a program roadmap, onboarding survey, internal documentation, bot messages, checklists, and Slack-based classes for new hires.
 * Wrote high-level principles and interface guidelines for the [18F Content Guide](https://pages.18f.gov/content-guide/).
-* Conducted interviews and analysis to define best practices in government digital transformation.
-* Facilitated workshops, critique groups, and discussions to improve internal 18F Design processes and communication.
+* Conducted interviews and analysis to define [best practices in government digital transformation](https://github.com/18F/transformation-research).
 * Developed site architecture and content patterns for the [U.S. EITI](https://useiti.doi.gov/) open data website.
+* Facilitated workshops, critique groups, and discussions to improve internal 18F Design processes and communication.
 
 #### [School of Visual Arts ](http://www.sva.edu/)  ####
 Instructor, 2015–present
 
-* Developed and taught the first writing-focused course in the [MFA Interaction Design](http://interactiondesign.sva.edu/) program (Spring 2016).
-* Helped students understand the various roles of writing in the design process, reflect on their long term goals, and prepare for their thesis.
+* Developed and taught the first strategic writing course in the [MFA Interaction Design](http://interactiondesign.sva.edu/) program.
+* Helped students understand how writing contributes to the design process, and prepared them for their thesis work.
 
 #### Consultant ####
 Freelance Editor and Strategist, 2010–2016
@@ -73,34 +67,33 @@ Communications Lead, 2005–2010
 * Collaborated with legal, translation, telephony, and logistics teams to improve online help content and deliver consistent, customer-friendly communications across channels and geographies.
 * Launched international online stores in Brazil and French Canada (Team Impact Award).
 
+### Publications ###
+
+* Coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](http://nicelysaid.co)* with Kate Kiefer Lee.
+* Editor of Abby Covert’s *[How to Make Sense of Any Mess](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)*, Dan Brown’s *[Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)*, and Karen McGrane’s *[Going Responsive](https://abookapart.com/products/going-responsive)*.
+* Copyeditor of Jason Santa Maria’s *[On Web Typography](http://www.abookapart.com/products/on-web-typography)*, Ethan Marcotte’s *[Responsive Design: Patterns and Principles](https://abookapart.com/products/responsive-design-patterns-principles)*, and Mike Monteiro’s *[You’re My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)*.
+* Contributor to [99U](http://99u.com/articles/51669/how-to-write-about-me-section), [Web Standards Sherpa](http://webstandardssherpa.com/about/authors/nicole-fenton), [Offscreen Magazine](http://www.offscreenmag.com/), and [Contents Magazine](http://contentsmagazine.com/articles/space-to-breathe/).
+
 ### Speaking ###
 
-#### 2015
-
-* Interface Writing Workshop and Speaker at [UXLx](//www.ux-lx.com/) in Lisbon, Portugal, June 2015
-* Conference Mentor at [99u](//conference.99u.com/) in New York, NY, April 2015
-* Writing About Yourself Workshop Series at [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) in Brooklyn, NY, March–April 2015
-* Panel Speaker, [Huge Inc.](http://www.hugeinc.com/events/content-strategist-event), Brooklyn, NY, April 2015
-* Guest Lecturer, [RISD](//www.risd-id.org/), School of Industrial Design in Providence, RI, March 2015
-* Guest Lecturer, [Syracuse](//newhouse.syr.edu/), Newhouse School of Public Communications, via Skype, February 2015
-* Thesis Advisor, [School of Visual Arts](//interactiondesign.sva.edu/), Interaction Design Program in New York, NY, February–May 2015
-
-#### 2014
-
-* Interface Writing Workshop with [Triangle UXPA](//triuxpa.org/event-1794981) at the Contemporary Art Museum in Raleigh, NC, December 2014
-* Web Writing Workshop at [Confab Higher Ed](//confabevents.com/events/higher-ed) in Atlanta, GA, November 2014
-* Honest Marketing Workshop at [Nearly Impossible](//nearlyimpossible.org/conference/nyc/) in New York, NY, October 2014
-* Speaker, [Blend Conference](//2014.blendconf.com/) in Charlotte, NC, September 2014
-* Speaker, [Burlington Ruby Conference](//burlingtonrubyconference.com/) in Burlington, VT, August 2014
-* Guest Lecturer, [General Assembly](//generalassemb.ly/) in New York, NY, February and June 2014
-
-#### 2013
-
-* Speaker, [Build Conference](//2013.buildconf.com/) in Belfast, Northern Ireland, November 2013
-* Speaker, [Confab London](//confabevents.com/past-events/london-2013/) in London, UK, March 2013
-
-#### 2011
-* Speaker, [Content Strategy Forum](//2011.csforum.eu/) in London, UK, September 2011
+* [Parsons School of Design](http://cdt.parsons.edu/), New York, NY, March 2017
+* [Civic Hall](http://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/), New York, New York, July 2016
+* [UXLx](http://2015.ux-lx.com/), Lisbon, Portugal, June 2015
+* [99u](//conference.99u.com/), New York, NY, April 2015
+* [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/), Writing About Yourself Workshop Series, Brooklyn, NY, March–April 2015
+* [Huge Inc.](http://www.hugeinc.com/events/content-strategist-event), Brooklyn, NY, April 2015
+* [RISD School of Industrial Design](//www.risd-id.org/), Providence, RI, March 2015
+* [Syracuse Newhouse School of Public Communications](//newhouse.syr.edu/), via Skype, February 2015
+* [School of Visual Arts](//interactiondesign.sva.edu/), New York, NY, February–May 2015
+* [Triangle UXPA](//triuxpa.org/event-1794981), Interface Writing Workshop, Contemporary Art Museum, Raleigh, NC, December 2014
+* [Confab Higher Ed](//confabevents.com/events/higher-ed), Web Writing Workshop, Atlanta, GA, November 2014
+* [Nearly Impossible](//nearlyimpossible.org/conference/nyc/), Honest Marketing Workshop, New York, NY, October 2014
+* [Blend Conference](//2014.blendconf.com/), Charlotte, NC, September 2014
+* [Burlington Ruby Conference](//burlingtonrubyconference.com/), Burlington, VT, August 2014
+* [General Assembly](//generalassemb.ly/), User Experience Design Series, New York, NY, February and June 2014
+* [Build Conference](//2013.buildconf.com/), Belfast, Northern Ireland, November 2013
+* [Confab London](//confabevents.com/past-events/london-2013/), London, UK, March 2013
+* [Content Strategy Forum](//2011.csforum.eu/), London, UK, September 2011
 
 ### Education ###
 Bachelor of Arts in English Composition, French minor, University of Texas at Austin, 2004

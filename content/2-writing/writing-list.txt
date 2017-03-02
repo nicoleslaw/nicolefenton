@@ -16,6 +16,9 @@ I’ve noticed a huge gap between writers and designers in the professional worl
 ### [Interface Writing: Code for Humans](/interface-writing/) ###
 We build systems to help real people, but are we being that helpful in our interfaces? Or are we treating words as an afterthought and letting people fend for themselves?
 
+### [Working With and Through Mental Illness](/working-with-and-through-mental-illness/) ###
+More people miss work from stress and anxiety than physical illness or injury. In this post, I share a few things that help me cope with stress and trauma while serving others as best as I can.
+
 ### [Honest Marketing](/honest-marketing) ###
 Most marketing sucks. But you’re making something you love and care about, and it’s not going to sell itself. In this talk, I share principles and activities for writing honestly.
 
@@ -74,6 +77,8 @@ More on [Tumblr](//nicoleslaw.com) and [Born Hungry](//bornhungrymag.com).
 ----
 
 Published-elsewhere: 
+
+[How to Say No](https://handbook.18f.gov/how-to-say-no/), 18F Handbook
 
 [Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/), 18F Blog
 

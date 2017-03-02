@@ -21,11 +21,11 @@ Services:
 
 ----
 
-Project-lede: I recently edited [Abby Covert](http://abbytheia.com/makesense/)’s first book, a guide to information architecture for everyone.
+Project-lede: I edited [Abby Covert](http://abbytheia.com/makesense/)’s first book, a fantastic guide to information architecture for everyone.
 
 ----
 
-Lede: I recently edited [Abby Covert](http://abbytheia.com/makesense/)’s guide to information architecture for everyone.
+Lede: I edited [Abby Covert](http://abbytheia.com/makesense/)’s guide to information architecture for everyone.
 
 ----
 
