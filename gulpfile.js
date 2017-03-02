@@ -3,6 +3,7 @@
 var gulp = require('gulp'),
   autoprefixer = require('gulp-autoprefixer'),
   browserSync = require('browser-sync').create(),
+  concat = require('gulp-concat'),
   cssnano = require('gulp-cssnano'),
   cssnext = require('postcss-cssnext'),
   del = require('del'),
@@ -12,10 +13,10 @@ var gulp = require('gulp'),
   rename = require('gulp-rename'),
   rev = require('gulp-rev'),
   sass = require('gulp-sass'),
+  uglify = require('gulp-uglify'),
   source = require('vinyl-source-stream');
 
-
-gulp.task('serve', ['styles', 'watch'], function() {
+gulp.task('serve', ['plugins', 'styles', 'watch'], function() {
   browserSync.init({
     proxy: 'http://nicolefenton.local',
     notify: false,
@@ -26,9 +27,35 @@ gulp.task('serve', ['styles', 'watch'], function() {
   });
 });
 
+gulp.task('plugins', function() {
+  return gulp.src([
+      '_/js/vendor/jquery.min.js',
+      '_/js/vendor/velocity.min.js',
+      '_/js/vendor/lazyload.min.js',
+      // '_/js/vendor/jquery.easing.min.js',
+      '_/js/vendor/jquery.shuffle.min.js'
+    ])
+    .pipe(concat('plugins.min.js'))
+    // .pipe(rename({suffix: '.min'}))
+    .pipe(gulp.dest('_/js/min'))
+      .on('error', notify.onError());
+});
+
+gulp.task('scripts', function() {
+  del(['_/js/min/main.min.js']);
+
+  return gulp.src('_/js/main.js')
+    .pipe(uglify())
+      .on('error', notify.onError())
+    .pipe(rename({suffix: '.min'}))
+      .pipe(gulp.dest('_/js/min'))
+      .on('error', notify.onError());
+});
+
 gulp.task('watch', function () {
   gulp.watch('_/sass/*.scss', ['styles']);
   gulp.watch('_/sass/**/*.scss', ['styles']);
+  gulp.watch('_/js/main.js', ['scripts']);
   gulp.watch(['site/templates/*.php', 'site/snippets/*.php', 'content/**/*.txt', 'content/**/**/*.txt']).on('change', browserSync.reload);
 });
 

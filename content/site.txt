@@ -53,3 +53,7 @@ Clients:
 - WESTRA & CO.
 - WISHBONE.ORG
 - 45ROYALE
+
+----
+
+Version: 1.2.1

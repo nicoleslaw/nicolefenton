@@ -10,16 +10,9 @@ fields:
     label: Home Bio
     type:  textarea
     size:  large
-  text:
-    label: Text
-    type:  textarea
-    size:  large
-  reading:
-    label: Reading
-    type:  textarea
   making:
     label: Making
     type:  textarea
-  testimonial:
-    label: Testimonial
+  reading:
+    label: Reading
     type:  textarea

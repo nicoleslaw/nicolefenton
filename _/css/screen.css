@@ -1498,6 +1498,12 @@ body.page-template--project figure {
   [id='testimonials'] li:first-child,
   .testimonial-list li:first-child {
     display: block; }
+    html.js [id='testimonials'] li:first-child, html.js
+    .testimonial-list li:first-child {
+      opacity: 0; }
+  html.js [id='testimonials'].shuffled li:first-child, html.js
+  .testimonial-list.shuffled li:first-child {
+    opacity: 1; }
 
 .testimonial--home {
   margin-bottom: 4em; }

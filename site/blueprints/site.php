@@ -30,3 +30,6 @@ fields:
   credits:
     label: Credits
     type:  textarea
+  version:
+    label: Version
+    type:  text
