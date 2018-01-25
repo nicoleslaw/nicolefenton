@@ -1,0 +1,52 @@
+Title: 18F
+
+----
+
+Year: 2015–2017
+
+----
+
+Tags: design, research, strategy, writing, editing
+
+----
+
+Site: https://18f.gsa.gov
+
+----
+
+Services: 
+
+- Leadership
+- Creative Direction
+- Content Design
+- Research
+- Strategy
+- Writing and Editing
+
+----
+
+Project-lede: Since joining 18F, I’ve worked on a wide range of research and content strategy projects.
+
+----
+
+Lede: 
+
+----
+
+Text: 
+
+At the beginning of my two-year term, I developed the information architecture and content patterns for the [U.S. EITI](https://useiti.doi.gov/) website.
+
+As the 18F onboarding lead, I helped launch the [18F Handbook](https://handbook.18f.gov/), developed a roadmap for new hire training, managed Slack-based classes, and contributed to our [open source checklist tool](https://18f.gsa.gov/2016/04/21/checklistomania-makes-it-easy-to-keep-track-of-relative-tasks/).
+
+I am a core contributor to the [18F Content Guide](https://pages.18f.gov/content-guide/). In 2016, I edited and reorganized the guide so it’s easier to read, understand, and add to in the future.
+
+18F has been a great place to hone my research skills. Along with internal design research, I conducted interviews and analysis to define [best practices in government digital transformation](https://github.com/18F/transformation-research). I’m currently working on user and content research for an [open data project with the FBI](https://github.com/18F/crime-data-explorer), and supporting the larger content design team as an experience design supervisor.
+
+----
+
+Testimonial: 
+
+----
+
+Company-name: 

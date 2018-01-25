@@ -11,7 +11,7 @@ fields:
     label: Lede
     type:  textarea
   the_book:
-    label: Featured Writing
+    label: The Book
     type:  textarea
     size:  large
   featured_writing:
@@ -33,4 +33,3 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large

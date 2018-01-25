@@ -2,13 +2,11 @@ Title: Writing for Beginners
 
 ----
 
-Lede:
-
-In 2013, I had the honor of speaking at <a href="//2013.buildconf.com">Build</a> in Belfast. I want to thank Andy for inviting me and bringing us together.
+Lede: In 2013, I had the honor of speaking at <a href="//2013.buildconf.com">Build</a> in Belfast. I want to thank Andy for inviting me and bringing us together.
 
 ----
 
-Text:
+Text: 
 
 <p>Today, I want to talk about writing as a practice—as something beginners do—and how that relates to design.</p>
 
@@ -16,13 +14,13 @@ Text:
 
 <p>When we’re beginners, we come to things playfully and curiously. We’re open to trying different approaches and making messes to figure things out. And I didn’t know it at the time, but beginner’s mind is a Buddhist concept. The Japanese word for it is <a href="//en.wikipedia.org/wiki/Shoshin">shoshin</a>. It refers to having an attitude of openness, eagerness, and a lack of preconceptions.</p>
 
-<p>Suzuki Roshi talks about this extensively in his book, <em><a href="//www.amazon.com/gp/product/B004R9QFGS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004R9QFGS&amp;linkCode=as2&amp;tag=swelcont-20">Zen Mind, Beginner’s Mind</a></em>. He says:</p>
+<p>Suzuki Roshi talks about this extensively in his book, <em><a href="//www.amazon.com/gp/product/B004R9QFGS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004R9QFGS&linkCode=as2&tag=swelcont-20">Zen Mind, Beginner’s Mind</a></em>. He says:</p>
 
-<blockquote>“In the beginner’s mind there are many possibilities, but in the expert’s there are few&#8230; In the beginner’s mind there is no thought, ‘I have attained something.’ When we have no thought of achievement, no thought of self, we are true beginners. Then we can really learn something.”</blockquote>
+<blockquote>“In the beginner’s mind there are many possibilities, but in the expert’s there are few… In the beginner’s mind there is no thought, ‘I have attained something.’ When we have no thought of achievement, no thought of self, we are true beginners. Then we can really learn something.”</blockquote>
 
 <p>When we’re writing and designing, it’s our job to be open to possibilities and explore them through our practice. If we approach our work with a beginner’s mind, we can peel away those layers of expertise and see things as they really are.</p>
 
-<p>In <em><a href="//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1590302613&amp;linkCode=as2&amp;tag=sc0055-20">Writing Down the Bones</a></em>, Natalie Goldberg says:</p>
+<p>In <em><a href="//www.amazon.com/gp/product/1590302613/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590302613&linkCode=as2&tag=sc0055-20">Writing Down the Bones</a></em>, Natalie Goldberg says:</p>
 
 <blockquote>“That beginner’s mind is what we must come back to every time we sit down and write. There is no security, no assurance that because we wrote something good two months ago, we will do it again. Actually, every time we begin, we wonder how we ever did it before. Each time is a new journey with no maps.”</blockquote>
 
@@ -150,7 +148,7 @@ Individually, these are all bits of text. Together, they’re your communication
 
 ### To communicate
 
-Writing and design are both about communicating. The internet is a mass communications platform. And language is our most fundamental technology. Kevin Kelly says just that in his book, <em><a href="//www.amazon.com/gp/product/B0043EV51W/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0043EV51W&amp;linkCode=as2&amp;tag=swelcont-20">What Technology Wants</a></em>.
+Writing and design are both about communicating. The internet is a mass communications platform. And language is our most fundamental technology. Kevin Kelly says just that in his book, <em><a href="//www.amazon.com/gp/product/B0043EV51W/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0043EV51W&linkCode=as2&tag=swelcont-20">What Technology Wants</a></em>.
 
 This is a pretty beefy quote, so we’ll chew through it together. He says:
 
@@ -196,7 +194,7 @@ Language is a shortcut. It’s also a time warp and a sort of immortality. And t
 
 <p>When I was 14, I knew I wanted to be a writer. I lived in a suburban town in Texas. There wasn’t much to do there, so I wrote a lot of poems and decided I wanted to study photography. I took a course in the evenings at a junior college and managed to get a really good teacher. He showed me work from Cartier-Bresson, Nan Goldin, and Robert Mapplethorpe at a young age. But I liked Diane Arbus’s work the best. She photographed kids in the park, circus freaks, artists, and nudists. People on the fringes. And in her book, she says something I still think about:</p>
 
-<blockquote>“My favorite thing is to go where I’ve never been&#8230;If I were just curious, it would be very hard to say to someone, ‘I want to come to your house and have you talk to me and tell me the story of your life.’ I mean people are going to say, ‘You’re crazy.’ Plus they’re going to keep mighty guarded. But the camera is a kind of license.”</blockquote>
+<blockquote>“My favorite thing is to go where I’ve never been…If I were just curious, it would be very hard to say to someone, ‘I want to come to your house and have you talk to me and tell me the story of your life.’ I mean people are going to say, ‘You’re crazy.’ Plus they’re going to keep mighty guarded. But the camera is a kind of license.”</blockquote>
 
 <p>Photo walks are always an excuse to go somewhere new. I think they’re a nice physical way to practice beginner’s mind. Even throughout my 20s, I would creep into old, abandoned buildings or take photos of strangers. It’s not always safe, sure, but I got to see things I wouldn’t see otherwise.</p>
 
@@ -216,7 +214,7 @@ Language is a shortcut. It’s also a time warp and a sort of immortality. And t
 
 <p>So now I start in the middle. I get the most basic thing I know down on the page or the whiteboard, and work my way out, showing my client or my friends, whoever that set of beta readers is for the project, and making it better as I go.</p>
 
-<p>Writing can be a research tool and help you workshop an idea. This is how I cook too — by fumbling along in the right direction. There’s a beautiful book by Tamar Adler called <em><a href="//www.amazon.com/gp/product/B004T4KX9Q/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004T4KX9Q&amp;linkCode=as2&amp;tag=swelcont-20">An Everlasting Meal</a></em>. She says:</p>
+<p>Writing can be a research tool and help you workshop an idea. This is how I cook too — by fumbling along in the right direction. There’s a beautiful book by Tamar Adler called <em><a href="//www.amazon.com/gp/product/B004T4KX9Q/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004T4KX9Q&linkCode=as2&tag=swelcont-20">An Everlasting Meal</a></em>. She says:</p>
 
 <blockquote>“Instinct, whether on the ground or in the kitchen, is not a destination but a path. The word instinct comes from a combination of <em>in</em> meaning ‘toward,’ and <em>stinguere</em> meaning ‘to prick.’ It doesn’t mean knowing anything, but pricking your way toward the answer.”</blockquote>
 
@@ -243,9 +241,9 @@ Language is a shortcut. It’s also a time warp and a sort of immortality. And t
 
 #### Write the way you do
 
-<p>The last thing I want to share is that I learned to write the way I do. This phrase comes from <em><a href="//www.amazon.com/gp/product/0307279413/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307279413&amp;linkCode=as2&amp;tag=sc0055-20">Several Short Sentences About Writing</a></em> by Verlyn Klinkenborg. I found this book earlier this year, and it’s full of good advice. He says:</p>
+<p>The last thing I want to share is that I learned to write the way I do. This phrase comes from <em><a href="//www.amazon.com/gp/product/0307279413/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0307279413&linkCode=as2&tag=sc0055-20">Several Short Sentences About Writing</a></em> by Verlyn Klinkenborg. I found this book earlier this year, and it’s full of good advice. He says:</p>
 
-<blockquote>“Part of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is&#8230;This is a book full of starting points. Perhaps they’ll help you find enough clarity in your own mind and your own writing to discover what it means to write. I don’t mean ‘write the way I do’ or ‘write the way they do.’ I mean ‘write the way you do.’”</blockquote>
+<blockquote>“Part of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is…This is a book full of starting points. Perhaps they’ll help you find enough clarity in your own mind and your own writing to discover what it means to write. I don’t mean ‘write the way I do’ or ‘write the way they do.’ I mean ‘write the way you do.’”</blockquote>
 
 <p>This is another place where beginner’s mind can be useful. There’s a lot of advice about writing out there — including everything we learned in school, and the styles we’ve read in books and articles over the years. I come to writing like I come to cooking or yoga. It’s a practice where I can pick out the techniques or styles that work for me and ignore the rest. I’m always changing things up too.</p>
 
@@ -273,7 +271,7 @@ Language is a shortcut. It’s also a time warp and a sort of immortality. And t
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -281,6 +279,14 @@ Footnotes:
 <li><a href="//nicelysaid.co">Nicely Said: Writing for the Web with Style and Purpose</a></li>
 <li><a href="//tumblr.austinkleon.com/tagged/notknowing">Not Knowing</a>, a collection from Austin Kleon</li>
 <li><a href="//writingprompts.tumblr.com/archive">Writing Prompts</a> from Luke Neff</li>
-<li><a href="//www.amazon.com/gp/product/0062224670/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0062224670&amp;linkCode=as2&amp;tag=sc0055-20">The Art of Communicating</a> by Thich Nhat Hanh</li>
-<li><a href="//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001QNVPPE&amp;linkCode=as2&amp;tag=sc0055-20">Writing to Change the World</a> by Mary Pipher</li>
+<li><a href="//www.amazon.com/gp/product/0062224670/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062224670&linkCode=as2&tag=sc0055-20">The Art of Communicating</a> by Thich Nhat Hanh</li>
+<li><a href="//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20">Writing to Change the World</a> by Mary Pipher</li>
 </ul>
+
+----
+
+Pubdate: November 14, 2013
+
+----
+
+Header-image: 

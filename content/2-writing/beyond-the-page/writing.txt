@@ -2,13 +2,11 @@ Title: Beyond the Page
 
 ----
 
-Lede:
-
-In 2012, <a href="http://readmill.com">Readmill</a> invited me to write a guest post about reading on screens.
+Lede: In 2012, <a href="http://readmill.com">Readmill</a> invited me to write a guest post about <a href="http://blog.readmill.com/post/24473807262/guest-post-nicole-jones-beyond-the-page">reading on screens</a>.
 
 ----
 
-Text:
+Text: 
 
 My reading habits are evolving and I love that.
 
@@ -26,4 +24,12 @@ As I’ve moved from reading 1–2 books a year to several books a month, I’m 
 
 ----
 
-Date: June 5, 2012
+Pubdate: June 5, 2012
+
+----
+
+Footnotes: 
+
+----
+
+Header-image: 

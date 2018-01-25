@@ -102,14 +102,14 @@ Options -Indexes
 </IfModule>
 ## EXPIRES CACHING ##
 
-Header set Cache-Control "max-age=290304000, public"
+# Header set Cache-Control "max-age=290304000, public"
 
 
 ################# WEBFONTS
 
-<FilesMatch ".(eot|ttf|otf|woff)">
-	Header set Access-Control-Allow-Origin "*"
-</FilesMatch>
+#<FilesMatch ".(eot|ttf|otf|woff)">
+#	Header set Access-Control-Allow-Origin "*"
+#</FilesMatch>
 
 
 ################# COMPATIBILITY
@@ -119,7 +119,7 @@ AddDefaultCharset UTF-8
 
 ################# php.ini
 
-php_flag short_open_tag on
+# php_flag short_open_tag off
 php_value upload_max_filesize 2M
 
 

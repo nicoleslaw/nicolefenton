@@ -2,7 +2,7 @@ Title: Nicole Fenton
 
 ----
 
-About: Nicole Fenton is an editor, strategist, and writing teacher in New York City. She designs with words.
+About: Nicole Fenton is a researcher, strategist, and writing teacher in New York City. She designs with words.
 
 ----
 
@@ -10,7 +10,7 @@ Author: Nicole Fenton | http://nicolefenton.com
 
 ----
 
-Copyright: © 2013–2015 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
+Copyright: © 2013–2017 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
 
 ----
 
@@ -18,7 +18,7 @@ Twitter: @nicoleslaw
 
 ----
 
-Address: *For new project inquiries or advising, please email (email: nicole@nicolefenton.com).*
+Address: *For project inquiries or advising, please email (email: nicole@nicolefenton.com).*
 
 ----
 
@@ -38,9 +38,9 @@ Clients:
 - ABOUTLIFE
 - BESPOKEN
 - CHROMA
+- COMPASS
 - EDITORIALLY
 - ENOUGH PEPPER
-- THE FACTORY
 - HAPPY COG
 - MACMILLAN PUBLISHERS
 - MICROSOFT
@@ -53,3 +53,7 @@ Clients:
 - WESTRA & CO.
 - WISHBONE.ORG
 - 45ROYALE
+
+----
+
+Version: 1.2.1

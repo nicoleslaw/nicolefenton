@@ -6,7 +6,7 @@ Lede: Books and articles I recommend reading.
 
 ----
 
-Text:
+Text: 
 
 ### Writing
 
@@ -17,6 +17,7 @@ Text:
 * [Bird by Bird: Some Instructions on Writing and Life](//www.amazon.com/gp/product/0385480016/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385480016&linkCode=as2&tag=nicelysaid-20&linkId=WB52XRBRLJYPLUIK), Anne Lamott
 * [Writing to Change the World](//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20), Mary Pipher
 * [The Writer’s Notebook](//www.amazon.com/The-Writers-Notebook-Craft-Essays/dp/0979419816/ref=as_sl_pc_ss_til?tag=swelcont-20&linkCode=w01&linkId=ESCCRJFQKGKTVER4&creativeASIN=0979419816), Craft Essays from Tin House
+* [Poynter on Writing](https://www.poynter.org/tag/writing/)
 
 ### Interface Writing
 
@@ -36,8 +37,8 @@ Text:
 ### Content Strategy
 
 * [Fire Drills: Communication Strategy in a Crises](//alistapart.com/articles/fire-drills-communications-strategy-in-a-crisis/), Mandy Brown
-* [Free Content Strategy for Free](//secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
-* [Wearing the Content Strategy Pants](//thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
+* [Free Content Strategy for Free](http://web.archive.org/web/20130826135046/http://secondandpark.com/2010/05/free-content-strategy-for-free/), Tiffani Jones Brown
+* [Wearing the Content Strategy Pants](http://web.archive.org/web/20150628140648/http://thingsthatarebrown.com/blog/2012/03/wearing-the-content-strategy-pants/), Tiffani Jones Brown
 * [Testing Content](//alistapart.com/article/testing-content), Angela Colter
 * [Infrequently Asked Questions of FAQs](//alistapart.com/article/infrequently-asked-questions-of-faqs), R. Stephen Gracey
 * [The Elements of Content Strategy](//abookapart.com/products/the-elements-of-content-strategy), Erin Kissane
@@ -50,11 +51,12 @@ Text:
 * [How to Make Sense of Any Mess](//abbytheia.com/makesense/), Abby Covert
 * [The Shape of Design](//shapeofdesignbook.com/), Frank Chimero
 * [Designing in the Borderlands](http://frankchimero.com/talks/designing-in-the-borderlands/transcript/), Frank Chimero
+* [This is What I Have Learned](http://voiceconference.aiga.org/transcripts/presentations/milton_glaser.pdf), Milton Glaser
 * [The Chairs are Where the People Go](//amazon.com/gp/product/0865479453/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0865479453&linkCode=as2&tag=nicelysaid-20&linkId=7VH6DNHTUDFAPTPM), Sheila Heti and Mischa Glouberman
 * [Learning by Heart: Teachings to Free the Creative Spirit](//amazon.com/Learning-Heart-Teachings-Creative-Spirit/dp/0553344455), Corita Kent and Jan Steward
 * [Not Knowing](//tumblr.austinkleon.com/tagged/notknowing), Austin Kleon
 * [10 Timeframes](//contentsmagazine.com/articles/10-timeframes/), Paul Ford
-* [Don’t Go Back to School](//kiostark.com/dont-go-back-to-school/), Kio Stark
+* [Don’t Go Back to School](https://www.amazon.com/Dont-Go-Back-School-Handbook/dp/0988949008/), Kio Stark
 * [Research Questions](//nicelysaid.co/research-questions) from *Nicely Said*
 
 ### Freelance Life ###
@@ -68,14 +70,18 @@ Text:
 
 ### Style Guides
 
+* [18F’s Content Guide](https://pages.18f.gov/content-guide/)
 * [Conscious Style Guide](//consciousstyleguide.com/)
+* [Disability Language Style Guide](http://ncdj.org/style-guide/)
+* [Diversity Style Guide](http://www.diversitystyleguide.com/)
 * [Economist Style Guide](//www.economist.com/styleguide/introduction)
-* [GLAAD Media Reference Guide](//www.glaad.org/publications/reference)
+* [GLAAD Media Reference Guide](http://www.glaad.org/reference)
 * [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
-* [MailChimp Style Guide](//styleguide.mailchimp.com/)
+* [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
 * [MailChimp Voice and Tone Guide](//voiceandtone.com/)
+* [Plain Language Action and Information Network](http://www.plainlanguage.gov/)
 * [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
-* [18F’s Content Guide](//pages.18f.gov/content-guide/index.html)
+* [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents)
 
 ### Tools and Word Nerdery
 
@@ -83,4 +89,16 @@ Text:
 * [Title Capitalization Tool](//titlecapitalization.com)
 * [Google Trends](//google.com/trends) (Keyword Search)
 * [Optimizely](//optimizely.com) or [Google Analytics](//google.com/analytics) (Content Testing)
-* [Content Snippets](//contentsnippets.com)
+* [Treejack](https://www.optimalworkshop.com/treejack) (Site Structure Testing)
+
+----
+
+Pubdate: 
+
+----
+
+Footnotes: 
+
+----
+
+Header-image: 

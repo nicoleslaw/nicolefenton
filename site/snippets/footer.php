@@ -19,14 +19,13 @@
       </div>
     </footer>
 
-  </div><!-- .body-wrap -->
+  </div><?php /* <!-- .body-wrap --> */ ?>
 
-  <?php snippet("jquery") ?>
-
+  <script src="/_/js/min/plugins.min.<?php echo $site->version() ?>.js" type="text/javascript"></script>
 
   <script>
   //<![CDATA[
-    <?php include($_SERVER['DOCUMENT_ROOT']."/_/js/main.min.js"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/_/js/min/main.min.js"); ?>
 
   //]]>
   </script>

@@ -2,38 +2,46 @@ Title: About
 
 ----
 
-Text: ## Hello ## {.list-section-title}
+Text: 
 
-I am a newly-hired innovation specialist at [18F](https://18f.gsa.gov/), a digital design and technology agency within the US government. I also edit books for [A Book Apart](//abookapart.com) and coach writers on a limited basis.
+## Hello ## {.list-section-title}
+
+I lead the content design team at [18F](https://18f.gsa.gov/), a digital design and technology consultancy within the federal government. I also teach a strategic writing course in the MFA Interaction Design program at the [School of Visual Arts](http://interactiondesign.sva.edu/).
 
 I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
 
-I spent the last few years consulting, teaching workshops, and speaking at conferences internationally. Previously, I was a senior content strategist at [Facebook](//facebook.com), [Lab Zero](//labzero.com), and [Mule Design](//muledesign.com) in San Francisco. I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years and helped launch the original iPhone and iPad.
+Before joining 18F, I was an independent book editor and user experience consultant, working directly with clients on web and editorial projects of all sizes. Previously, I was a senior content strategist at [Facebook](https://www.facebook.com/), [Lab Zero](http://labzero.com/), and [Mule Design](http://muledesign.com/). I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years.
 
-I live in Brooklyn with my [husband](//maxfenton.com) and our [little chihuahua](//instagram.com/explore/tags/geoffreyjonesfenton/).
-
-----
-
-Side-projects: ## Side Projects ##
-
-* [Born Hungry](//bornhungrymag.com)
-* [Tiny Content Framework](//gist.github.com/nicoleslaw/2155621)
-* [Iterative Writing](//github.com/nicoleslaw/iterative-writing)
+I live in Brooklyn with [my husband](https://maxfenton.com/) and our daughter.
 
 ----
 
-Interviews: ## Interviews ##
+Side-projects: 
+
+## Side Projects ##
+
+* [Strategic Writing](http://strategicwriting.club/)
+* [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621)
+* [Born Hungry](http://bornhungrymag.com)
+
+----
+
+Interviews: 
+
+## Interviews ##
 
 * [Happy Monday](//www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
-* [Rad Lady](//www.radlady.com/2012/07/nicole-jones.html)
 * [The Setup](//nicole.jones.usesthis.com/)
 * [Subway Book Review](//www.subwaybookreview.com/post/118520803518/a-literary-conversation-with-nicole-fenton)
 * [Together London Podcast](//lucidplot.com/2012/09/12/nicoleslaw-podcast/)
 * [UX Podcast](//soundcloud.com/uxpodcast/nicole-fenton-interview-at-uxlx-2015)
+* [18F Blog](https://18f.gsa.gov/2016/09/06/nicole-fenton-a-wordsmith-joins-government/)
 
 ----
 
-Principles: ## Principles ##
+Principles: 
+
+## Principles ##
 
 * Be clear and be kind.
 * Tell the truth.

@@ -13,10 +13,6 @@ fields:
   pubdate:
     label: Pubdate
     type:  text
-  text:
-    label: Text
-    type:  textarea
-    size:  large
   footnotes:
     label: Footnotes
     type:  textarea

@@ -1,5 +1,5 @@
 /* global console */
-// v.0.2.1
+// v.1.2.0
 // added lazyloac
 
 // ---------------------------------------------------
@@ -15,7 +15,9 @@ jQuery(document).ready( function($) {
   /* ------------------------------------------------- */
   /* Coverup for FOUT                                  */
   /* ------------------------------------------------- */
-  $('.body-wrap').hide().fadeIn('slow', 'easeOutQuint');
+
+  // $('.body-wrap').hide().fadeIn('slow', 'easeOutQuint');
+  $('.body-wrap').velocity({opacity:0},{duration: 0}).velocity('fadeIn', {duration: 'slow', easing: 'easeOutQuint'});
 
   /* ------------------------------------------------- */
   /* Classes for figures
@@ -57,8 +59,10 @@ jQuery(document).ready( function($) {
       $nextway = $this.parent('.waysofbeing').find('span').first();
     }
 
+
     $this.add($nextway).toggleClass('is-active').hide();
-    $nextway.fadeIn('fast');
+    // $nextway.fadeIn('fast');
+    $nextway.velocity('fadeIn', {duration: 'fast'});
   }
 
   $('.waysofbeing').each( function() {
@@ -83,11 +87,17 @@ jQuery(document).ready( function($) {
     });
   }
 
+
   /* ------------------------------------------------- */
   /* Testimonials                                      */
   /* ------------------------------------------------- */
-  if ( $( "#testimonials" ) ) {
-    $( "#testimonials" ).find( "ul" ).shuffle();
+  var $testimonials = $( "#testimonials" );
+  if ( typeof $testimonials != 'undefined' && $testimonials.length  ) {
+    var $testimonialslist = $testimonials.find( "ul.testimonial-list" );
+    if ( typeof $testimonialslist != 'undefined' && $testimonialslist.length  ) {
+      $testimonialslist.shuffle();
+      $testimonialslist.addClass('shuffled');
+    }
   }
 
 });

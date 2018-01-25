@@ -13,7 +13,8 @@
   font-family: $f-sans-regular;
   font-style: normal;
   transition: visibility 0.1s $easing-default;
-  .wf-apercuregular-n4-loading & {
+  html.wf-loading &,
+  html.wf-apercuregular-n4-loading & {
     visibility: hidden;
   }
 }
@@ -22,7 +23,8 @@
   font-family: $f-sans-italic;
   font-style: italic;
   transition: visibility 0.1s $easing-default;
-  .wf-apercuitalic-n4-loading & {
+  html.wf-loading &,
+  html.wf-apercuitalic-n4-loading & {
     visibility: hidden;
   }
 }
