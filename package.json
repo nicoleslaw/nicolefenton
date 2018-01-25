@@ -1,6 +1,6 @@
 {
   "name": "nicolefenton.com",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Kirby based website for Nicole Fenton http://nicolefenton.com",
   "main": "index.php",
   "scripts": {
@@ -18,8 +18,9 @@
   "homepage": "https://github.com/nicoleslaw/nicolefenton/",
   "devDependencies": {
     "browser-sync": "^2.9.11",
+    "bourbon": "^4.0.0",
     "del": "^2.0.2",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-clean-css": "^3.0.0",
     "gulp-concat": "^2.6.1",
