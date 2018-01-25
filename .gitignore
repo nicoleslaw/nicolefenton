@@ -9,3 +9,5 @@ site/accounts/
 /power-and-responsibility/src
 /node_modules
 /.vagrant
+/kirby
+/panel
