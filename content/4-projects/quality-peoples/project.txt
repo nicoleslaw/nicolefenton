@@ -1,0 +1,52 @@
+Title: Quality Peoples
+
+----
+
+Year: 2012
+
+----
+
+Tags: creative direction, writing, strategy
+
+----
+
+Site: http://qualitypeoples.com
+
+----
+
+Company: Quality Peoples
+
+----
+
+Services:
+
+- Creative Direction
+- Strategy
+- Writing and Editing
+
+----
+
+Project Lede:
+
+
+
+----
+
+Lede:
+
+<a href="http://qualitypeoples.com">Quality Peoples</a> ...
+
+----
+
+Text:
+
+
+
+
+----
+
+Testimonial:
+
+> “.”
+
+### Ed Fladung, Cofounder

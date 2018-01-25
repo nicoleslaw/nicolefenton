@@ -1,0 +1,42 @@
+Title: plainlanguage.gov
+
+----
+
+Lede: I recently directed the redesign of [plainlanguage.gov](https://plainlanguage.gov/).
+
+----
+
+Text: 
+
+----
+
+Project-lede: I recently directed the redesign of [plainlanguage.gov](https://plainlanguage.gov/), an online resource and community dedicated to the idea that citizens deserve clear communications from government.
+
+----
+
+Tags: strategy
+
+----
+
+Testimonial: 
+
+----
+
+Site: https://plainlanguage.gov/
+
+----
+
+Year: 2017
+
+----
+
+Company-name: 
+
+----
+
+Services: 
+
+- Creative Direction
+- Strategy
+- Information Architecture
+- Research
