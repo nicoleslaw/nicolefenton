@@ -8,3 +8,4 @@ site/accounts/
 /thumbs
 /power-and-responsibility/src
 /node_modules
+/.vagrant
