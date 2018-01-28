@@ -10,18 +10,18 @@ Text:
 Supervisory Design Innovation Specialist, 2016–present
 
 * Managed and coached a remote team of writers and content designers.
+* Led the redesign of [plainlanguage.gov](https://github.com/GSA/plainlanguage.gov). Hosted a design and prioritization workshop with stakeholders, and led remote usability sessions.
 * Led interviews, usability sessions, and content efforts for the [FBI Crime Data Explorer](https://github.com/18F/crime-data-explorer) project.
-* Promoted content strategy as a core design discipline.
-* Developed performance profiles for 18F Experience Design supervisors and content designers.
-* Facilitated remote content workshops and an unconference session on fostering resilience.
+* Promoted content strategy as a core design discipline through writing, internal events, and public speaking.
+* Developed performance profiles for 18F Experience Design supervisors and content designers. Interviewed, hired, and coached new team members.
 
 Innovation Specialist, 2015–2016
 
 * Led onboarding efforts for a three-month rotation. Developed a program roadmap, onboarding survey, internal documentation, bot messages, checklists, and Slack-based classes for new hires.
-* Wrote high-level principles and interface guidelines for the [18F Content Guide](https://pages.18f.gov/content-guide/).
+* Rearchitected the [18F Content Guide](https://pages.18f.gov/content-guide/). Developed new sections on interface language and writing iteratively.
 * Conducted interviews and analysis to define [best practices in government digital transformation](https://github.com/18F/transformation-research).
 * Developed site architecture and content patterns for the [U.S. EITI](https://useiti.doi.gov/) open data website.
-* Facilitated workshops, critique groups, and discussions to improve internal 18F Design processes and communication.
+* Facilitated workshops, critique groups, and internal discussions to improve 18F design processes and communication.
 
 #### [School of Visual Arts ](http://www.sva.edu/)  ####
 Instructor, 2015–present
@@ -63,7 +63,7 @@ Content Strategist, 2010
 Communications Lead, 2005–2010
 
 * Managed launch communications for the original iPhone and iPad.
-* Trained and led a team of writers for the Apple Online Store. Developed global process documents, training materials, internal announcements, emergency messages, and a communications style guide.
+* Trained and led a team of writers for the Apple Online Store. Developed global process documents, training materials, announcements, and a communications style guide.
 * Collaborated with legal, translation, telephony, and logistics teams to improve online help content and deliver consistent, customer-friendly communications across channels and geographies.
 * Launched international online stores in Brazil and French Canada (Team Impact Award).
 
@@ -76,8 +76,10 @@ Communications Lead, 2005–2010
 
 ### Speaking ###
 
+* [Mayor’s Office of Digital Strategy Social Media Day](https://www.eventbrite.com/e/meetteamdigi-social-media-day-2017-tickets-33258174094), New York, NY, 2017
+* [Content Strategy NYC](https://www.meetup.com/cs-nyc/events/239047433/), Brooklyn, NY, May 2017
 * [Parsons School of Design](http://cdt.parsons.edu/), New York, NY, March 2017
-* [Civic Hall](http://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/), New York, New York, July 2016
+* [Civic Hall](http://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/), New York, NY, July 2016
 * [UXLx](http://2015.ux-lx.com/), Lisbon, Portugal, June 2015
 * [99u](//conference.99u.com/), New York, NY, April 2015
 * [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/), Writing About Yourself Workshop Series, Brooklyn, NY, March–April 2015

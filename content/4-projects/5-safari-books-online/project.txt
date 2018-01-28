@@ -18,7 +18,7 @@ Company: Safari
 
 ----
 
-Services:
+Services: 
 
 - Creative Direction
 - Strategy
@@ -27,32 +27,32 @@ Services:
 
 ----
 
-Project Lede:
-
-I helped Safari improve their digital reading service over a span of two years by contributing to its design, marketing, and editorial style.
+Project-lede: I helped Safari improve their digital reading service over a span of two years by contributing to its design, marketing, and editorial style.
 
 ----
 
-Lede:
-
-[Safari](http://safaribooksonline.com) is a digital library for web professionals.
+Lede: [Safari](http://safaribooksonline.com) is a digital library for web professionals.
 
 ----
 
-Text:
+Text: 
 
 In 2013, [Frank Chimero](http://ofanother.com) and I collaborated on the design, branding, and communications for Safari Flow. I helped with product definition, naming, and content strategy. I wrote the interface and marketing copy and developed a brief communications style guide.
 
 (figure: safari_flow.png alt: Safari Flow Homepage)
 
-Flow went on to become Safari’s core product. In the spring of 2014, Safari invited me to continue my work with their corporate rebranding. I helped them with a little bit of everything from product strategy and copyediting to wireframing new features and reworking the onboarding flow. I also continued my voice and tone work by developing a beefier version of a style guide within their new brand standards.
+Flow went on to become Safari’s core product. In the spring of 2014, Safari invited me to continue my work with their corporate rebranding. I helped them with a little bit of everything from product strategy and copyediting to wireframing new features and reworking the onboarding flow. I also continued my voice and tone work by developing a heftier version of a style guide within their new brand standards.
 
 (figure: safari.png alt: Safari Homepage)
 
 ----
 
-Testimonial:
+Testimonial: 
 
 > “Nicole has been a vital contributor to Safari’s relaunch and rebrand. As well as keeping us clear and honest in the way we communicate, her contribution to product and design decisions, and our company culture has been invaluable. I recommend you work with her—although if you just see her as a writer, you’ll be losing out.”
 
 ### Peter Collingridge, VP of Product
+
+----
+
+Company-name: 

@@ -2,20 +2,20 @@ Title: Home
 
 ----
 
-Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || educator || writing coach || publishing specialist || occasional speaker || extrovert for pay || working mom || professional daydreamer || typical Gemini || amateur photographer || curious home cook || tea drinker }}. She hosts workshops and works with {{ nice people || authors, designers, and developers || startups and nonprofits }} on {{ websites || digital products || books, interfaces, }} and publishing projects.
+Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ design manager || content strategist || educator || occasional speaker || extrovert for pay || working mom || typical Gemini || amateur photographer || curious home cook || tea drinker }}. She hosts workshops and works with {{ nice people || public servants || authors, designers, and developers }} on {{ websites || digital products || books, interfaces, }} and publishing projects.
 
 ----
 
 Making: 
 
-* [Strategic Writing Club](http://strategicwriting.club/syllabus/)
-* [Working With and Through Mental Illness](/working-with-and-through-mental-illness/)
+* [Three Ways to Manage Research Projects Remotely](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/)
 * [Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/ "on the 18F blog")
+* [Open Data Content Strategy](https://github.com/18F/crime-data-explorer/blob/master/presentations/NFenton_Open_Data_Content_Strategy.pdf)
+* [Working With and Through Mental Illness](/working-with-and-through-mental-illness/)
 
 ----
 
 Reading: 
 
-* [The Wave in the Mind](http://www.shambhala.com/the-wave-in-the-mind.html)
-* [The Portable Veblen](http://www.penguinrandomhouse.com/books/319083/the-portable-veblen-by-elizabeth-mckenzie/9781101981597/)
-* [Bad Behavior](http://www.simonandschuster.com/books/Bad-Behavior/Mary-Gaitskill/9781439148877)
+* [Sour Heart](https://www.penguinrandomhouse.com/books/545731/sour-heart-by-jenny-zhang/9780399589386/)
+* [The Lonely City](https://us.macmillan.com/thelonelycity/olivialaing/9781250118035/)

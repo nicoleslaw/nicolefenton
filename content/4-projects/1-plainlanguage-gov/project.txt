@@ -1,0 +1,46 @@
+Title: plainlanguage.gov
+
+----
+
+Lede: I recently directed the redesign of [plainlanguage.gov](https://plainlanguage.gov/).
+
+----
+
+Text: 
+
+<img src="https://nicolefenton.com/content/4-projects/plainlanguage-gov/plainlanguage.gov.png" />
+
+The new site is built with [Federalist](https://federalist.18f.gov/), [Jekyll](https://jekyllrb.com/), and the [U.S. Web Design System](https://designsystem.digital.gov/). This project was a collaborative interagency effort with the [Plain Language Action and Information Network](https://plainlanguage.gov/about/), [DigitalGov](https://www.digitalgov.gov/about/), and [18F](https://18f.gsa.gov/).
+
+----
+
+Project-lede: I recently directed the redesign of [plainlanguage.gov](https://plainlanguage.gov/), an online resource for civil servants and government agencies.
+
+----
+
+Tags: strategy
+
+----
+
+Testimonial: 
+
+----
+
+Site: https://plainlanguage.gov/
+
+----
+
+Year: 2017
+
+----
+
+Company-name: General Services Administration
+
+----
+
+Services: 
+
+- Creative Direction
+- Information Architecture
+- Strategy
+- Research

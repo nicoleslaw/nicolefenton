@@ -28,22 +28,19 @@ Have you ever looked someone up in a database? Did you find what you were lookin
 ### [Writing for Beginners](/writing-for-beginners/) ###
 What if writing comes from a place of *not knowing*, a place of exploration, seeking clarity, and wanting to communicate—a place for beginners?
 
-### [Art of the Quiet Interface](/art-of-the-quiet-interface/) ###
-How do we design content to be engaging and distraction-free? Looking at <a href="http://www.bonappetit.com/">Bon Appetit</a>, I serve up a few ideas.
-
 ----
 
 Business-writing: 
 
-* [Manifesto](/manifesto)
+* [Art of the Quiet Interface](/art-of-the-quiet-interface/)
 * [Winning Tactics](/winning-tactics)
-* [Editing the Past](//www.swellcontent.com/2013/02/editing-the-past/)
-* [Dreaming of Writing in Space](//www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
-* [I Want a World](//www.swellcontent.com/2012/11/i-want-a-world/)
 * [Working in Technology](//www.swellcontent.com/2013/04/working-in-technology/)
 * [Strategy for Small Brands](//www.swellcontent.com/2012/12/small-brand-strategy/)
+* [Dreaming of Writing in Space](//www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
+* [I Want a World](//www.swellcontent.com/2012/11/i-want-a-world/)
 * [Working on Content with Developers](//www.swellcontent.com/2012/04/working-with-developers/)
 * [Writing is Design](/writing-is-design/)
+* [Manifesto](/manifesto)
 
 More on [Swell Content](//swellcontent.com).
 
@@ -71,28 +68,29 @@ Personal-writing:
 * [Two Stories](//nicoleslaw.com/post/63658097382/two-stories)
 * [On Feeding and Being Fed](//www.bornhungrymag.com/2012/08/feeding/)
 * [Humble Beginnings](//www.bornhungrymag.com/2012/06/humble-beginnings/)
+* [Summer Reading Picks](http://www.bornhungrymag.com/2014/06/summer-reading-picks/)
 
-More on [Tumblr](//nicoleslaw.com) and [Born Hungry](//bornhungrymag.com).
+More on [Born Hungry](//bornhungrymag.com) and [Tumblr](//nicoleslaw.com).
 
 ----
 
 Published-elsewhere: 
 
-[How to Say No](https://handbook.18f.gov/how-to-say-no/), 18F Handbook
+[Three Ways to Manage Research Projects Remotely ](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/), 18F Blog
 
 [Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/), 18F Blog
 
+[How to Say No](https://handbook.18f.gov/how-to-say-no/), 18F Handbook
+
 [How to Write an About Page That Gets You Hired](//99u.com/articles/51669/how-to-write-about-me-section), 99u
 
-[Writing for Global Readers](//webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
+[Writing for Global Audiences](//webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
 
 [Leaning into Longform](//webstandardssherpa.com/reviews/leaning-into-longform/), Web Standards Sherpa
 
 [Space to Breathe](//contentsmagazine.com/articles/space-to-breathe/), *Contents* Magazine
 
 [A Year of Ideas](//the-pastry-box-project.net/baker/nicole-fenton/), The Pastry Box Project
-
-[Beyond the Page](http://blog.readmill.com/post/24473807262/guest-post-nicole-jones-beyond-the-page), Readmill Blog
 
 [Wayfinding: Writing for Accessibility](//webstandardssherpa.com/reviews/wayfinding-writing-for-accessibility/), Web Standards Sherpa
 
