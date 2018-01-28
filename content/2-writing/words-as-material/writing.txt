@@ -192,9 +192,9 @@ Card sorting exercises are useful for narrowing things down. I often do card sor
 
 I’ve been known to write multiple choice questions and quiz product managers. Here’s an example from a couple of years ago. Safari is a digital reading service for web professionals.
 
-<figure><img src="http://nicolefenton.com/writing-for-beginners/work_sample1.png" alt="" /></figure>
+<figure><img src="//nicolefenton.com/writing-for-beginners/work_sample1.png" alt="" /></figure>
 
-<figure><img src="http://nicolefenton.com/writing-for-beginners/work_sample2.png" alt="" /></figure>
+<figure><img src="//nicolefenton.com/writing-for-beginners/work_sample2.png" alt="" /></figure>
 
 They had a good product vision, but I had a hard time getting them to decide what was so great about the product. This is one way to play with that. I also like to do a [Mad Libs exercise](https://gist.github.com/nicoleslaw/2155621#file-3_product_mad_libs-md), which is in my Tiny Content Framework. Here’s an example of that for another client:
 
