@@ -32,17 +32,18 @@ of the system, please check out http://getkirby.com/docs
 
 */
 
-c::set('markdown.extra', 'true'); //Enable markdown extra 
+c::set('markdown.extra', 'true'); // Enable markdown extra
 // c::set('markdown.breaks', false);
 
 c::set('cache', true); // Enable caching
+c::set('ssl', true);
 
 /*
 
 ---------------------------------------
-Custom Routing 
+Custom Routing
 to hide /writing from URLs, while keeping /content tidy
-note: Our assumed stub directory is /writing/ 
+note: Our assumed stub directory is /writing/
 cf. http://getkirby.com/docs/advanced/routing#omitting-the-blog-folder-in-urls
 ---------------------------------------
 
@@ -53,27 +54,27 @@ c::set('routes', array(
     'pattern' => '(:any)/([a-zA-Z0-9_-]+(.jpg|.png|.gif|.svg))',
     'action'  => function($stub, $filename) {
 
-    /** 
-      * See if the stub is a real content directory 
+    /**
+      * See if the stub is a real content directory
       * If not, see if it is a sub-directory of our
-      * removed directory: /writing 
+      * removed directory: /writing
       */
       $page = @page($stub);
-      if (!$page) { 
-        $page = @page('writing/'.$stub); 
+      if (!$page) {
+        $page = @page('writing/'.$stub);
       }
 
     /**
-      * If the page exists and is a real page 
-      * (e.g. /error), it will have a url 
+      * If the page exists and is a real page
+      * (e.g. /error), it will have a url
       */
-      if( @$page->url() ) { 
-      /** 
-        * See if the file really exists in that content directory. 
+      if( @$page->url() ) {
+      /**
+        * See if the file really exists in that content directory.
         */
         $file = @$page->files()->find($filename);
         if ( !$file || $file == null ) {
-        /** 
+        /**
           * Handle actual 404 missing images
           */
           return false;
@@ -81,8 +82,8 @@ c::set('routes', array(
         } else {
           $fileURL = $file->url();
         }
-      } 
-    
+      }
+
     /**
       * Load the actual image or the error page if it doesn't exist.
       */
@@ -106,7 +107,7 @@ c::set('routes', array(
   array(
     'pattern' => 'writing/([a-zA-Z0-9_-]+)',
     'action'  => function($uid) {
-      
+
       return go( $uid );
 
     }
