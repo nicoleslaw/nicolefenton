@@ -1,7 +1,7 @@
 {
   "name": "nicolefenton.com",
-  "version": "1.2.0",
-  "description": "Kirby based website for Nicole Fenton http://nicolefenton.com",
+  "version": "1.2.1",
+  "description": "Kirby based website for Nicole Fenton //nicolefenton.com",
   "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
