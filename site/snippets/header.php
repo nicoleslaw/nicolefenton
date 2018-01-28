@@ -15,7 +15,6 @@
 
   <style><?php snippet("css-firstpaint") ?></style>
 
-  <script src="/_/js/vendor/modernizr.custom.3.3.1.js" type="text/javascript"></script>
   <link rel="stylesheet" href="/_/css/screen.<?php echo $site->version() ?>.css" />
   <?php /*
   <script><?php snippet('js-loadcss') ?>; loadCSS( "/_/css/screen.1.0.5.css" );</script>
@@ -23,6 +22,7 @@
   */ ?>
 
   <!--[if lte IE 8]><?php echo css('/_/css/ie.'. $site->version() .'.css') ?><![endif]-->
+  <script src="/_/js/vendor/modernizr.custom.3.3.1.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
