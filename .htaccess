@@ -37,8 +37,19 @@ Options -Indexes
 	# block text files in the content folder from being accessed directly
 	RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
 
-	# block all files in system folders from being accessed directly
-	RewriteRule ^(site|kirby)/(.*) index.php [L]
+	# block all files in the site folder from being accessed directly
+	# except for requests to plugin assets files
+	#RewriteRule ^assets/plugins/([a-zA-Z0-9\.\-_%=]+)/(.*)$ site/plugins/$1/assets/$2 [L,N]
+	#RewriteCond $1 !^plugins/[a-zA-Z0-9\.\-_%=]+/assets/.*
+	RewriteRule ^site/(.*) index.php [L]
+
+	# block direct access to kirby and the panel sources
+	RewriteRule ^(kirby|panel\/app|panel\/tests)/(.*) index.php [L]
+
+	# make panel links work
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^panel/(.*) panel/index.php [L]
 
 	#############
 	### Real Files
@@ -56,20 +67,16 @@ Options -Indexes
 	### Trailing Slashes
 	## if no trailing slash then redirect to url with trailing slash
 	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_URI} !^/(.*)\.xml$
+	RewriteCond %{REQUEST_URI} !^/panel(.*)$
+	RewriteCond %{REQUEST_URI} !(.*)/$
 	RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]+|/)$
 	RewriteRule ^(.*)$ $1/ [L,R=301]
 
-	#############
-	### The Panel
+	# make site links work
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} !-d
-	RewriteRule ^panel/(.*) panel/index.php [L]
-
-	####################
-	### Kirby Site Pages
-	RewriteCond %{REQUEST_FILENAME} !-f
-	RewriteCond %{REQUEST_FILENAME} !-d
-	RewriteRule ^(.*)/? index.php [L]
+	RewriteRule ^(.*) index.php [L]
 
 </IfModule>
 
@@ -102,14 +109,14 @@ Options -Indexes
 </IfModule>
 ## EXPIRES CACHING ##
 
-# Header set Cache-Control "max-age=290304000, public"
+Header set Cache-Control "max-age=290304000, public"
 
 
 ################# WEBFONTS
 
-#<FilesMatch ".(eot|ttf|otf|woff)">
-#	Header set Access-Control-Allow-Origin "*"
-#</FilesMatch>
+<FilesMatch ".(eot|ttf|otf|woff|woff2)">
+	Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
 
 
 ################# COMPATIBILITY
@@ -119,7 +126,7 @@ AddDefaultCharset UTF-8
 
 ################# php.ini
 
-# php_flag short_open_tag off
+php_flag short_open_tag on
 php_value upload_max_filesize 2M
 
 

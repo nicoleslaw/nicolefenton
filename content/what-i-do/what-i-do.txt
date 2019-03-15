@@ -2,29 +2,27 @@ Title: What I Do
 
 ----
 
-Text:
+Text: 
 
 ----
 
-Lede:
-
-I can help you define your goals, improve your editorial process, and earn trust from readers.
+Lede: I can help you define your goals, improve your editorial process, and earn trust from readers.
 
 ----
 
-Services:
+Services: 
 
 ### Creative Direction ###
+* Leadership
 * Advising
 * Project Definition
 * Naming and Concepts
-* Creative Briefs
 
 ### User Experience ###
 * Research
 * Interface Audits
 * Information Architecture
-* Content Strategy
+* Content Design
 
 ### Editorial Experience ###
 * Communication Planning
@@ -48,7 +46,7 @@ I care about people’s needs, feelings, and aspirations. I ask “Why?” and �
 
 ### I collaborate and share what I know. ###
 
-I believe in figuring things out together. I think out loud and on paper. I give honest feedback and workshop ideas with designers, developers, writers, and product leads.
+I believe in figuring things out together. I think out loud and on paper. I give honest feedback and workshop ideas with designers, developers, and product leads.
 
 ### I work in waves. ###
 

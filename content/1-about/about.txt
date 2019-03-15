@@ -6,13 +6,13 @@ Text:
 
 ## Hello ## {.list-section-title}
 
-I lead the content design team at [18F](https://18f.gsa.gov/), a digital design and technology consultancy within the federal government. I also teach a strategic writing course in the MFA Interaction Design program at the [School of Visual Arts](http://interactiondesign.sva.edu/).
+I am the content design manager at [18F](https://18f.gsa.gov/), a digital design and technology consultancy within the federal government. I recently directed the redesign of [plainlanguage.gov](https://www.plainlanguage.gov), and I’m a core contributor to the [18F Content Guide](https://content-guide.18f.gov/).
 
-I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](//ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](//nicelysaid.co) at your favorite bookstore.
+I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](http://ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](http://nicelysaid.co) at your favorite bookstore.
 
-Before joining 18F, I was an independent book editor and user experience consultant, working directly with clients on web and editorial projects of all sizes. Previously, I was a senior content strategist at [Facebook](https://www.facebook.com/), [Lab Zero](http://labzero.com/), and [Mule Design](http://muledesign.com/). I started my professional writing practice at [Apple](//apple.com), where I served as communications lead for five years.
+Before joining 18F, I was an independent editor and user experience consultant, working directly with clients on web and editorial projects of all sizes. I also taught a strategic writing course for interaction designers at the [School of Visual Arts](http://interactiondesign.sva.edu/). Before that, I was a senior content strategist at [Facebook](https://www.facebook.com/), [Lab Zero](http://labzero.com/), and [Mule Design](http://muledesign.com/). I started my professional writing practice at [Apple](http://apple.com), where I served as communications lead for five years.
 
-I live in Brooklyn with [my husband](https://maxfenton.com/) and our daughter.
+I live in Virginia with [my husband](https://maxfenton.com/), our daughter, and our dog.
 
 ----
 
@@ -30,12 +30,11 @@ Interviews:
 
 ## Interviews ##
 
-* [Happy Monday](//www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
-* [The Setup](//nicole.jones.usesthis.com/)
-* [Subway Book Review](//www.subwaybookreview.com/post/118520803518/a-literary-conversation-with-nicole-fenton)
-* [Together London Podcast](//lucidplot.com/2012/09/12/nicoleslaw-podcast/)
-* [UX Podcast](//soundcloud.com/uxpodcast/nicole-fenton-interview-at-uxlx-2015)
 * [18F Blog](https://18f.gsa.gov/2016/09/06/nicole-fenton-a-wordsmith-joins-government/)
+* [Happy Monday](//www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
+* [Huge Inc.](https://magenta.as/in-a-new-era-in-d-c-18f-marches-on-a9e4964196c)
+* [Talking Shop](https://cushionapp.com/talking-shop/nicole-fenton)
+* [UX Podcast](//soundcloud.com/uxpodcast/nicole-fenton-interview-at-uxlx-2015)
 
 ----
 

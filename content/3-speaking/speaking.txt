@@ -14,11 +14,24 @@ Past-events:
 
 ## Upcoming Events ## {.list-section-title}
 
+### [School of Visual Arts](https://productsofdesign.sva.edu/) ###
+Guest Lecture, Products of Design
+via Hangouts, February 2018
+
+## Past Events ## {.list-section-title}
+
+### [Mayor’s Office of Digital Strategy Social Media Day](https://www.eventbrite.com/e/meetteamdigi-social-media-day-2017-tickets-33258174094) ###
+*Voice and Tone: Writing with Feeling*
+New York, May 2017
+
+### [Content Strategy NYC](https://www.meetup.com/cs-nyc/events/239047433/) ###
+*Everything in Context: Open Data Content Strategy*
+Brooklyn, May 2017
+[Slides](https://github.com/18F/crime-data-explorer/blob/master/presentations/NFenton_Open_Data_Content_Strategy.pdf), [Video](https://livestream.com/hugeinc/csmeetup/videos/155985285)
+
 ### [Parsons](http://cdt.parsons.edu/) ###
 Guest Lecture, School of Design
 New York, March 2017
-
-## Past Events ## {.list-section-title}
 
 ### [Civic Hall](http://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/) ###
 *How 18F Approaches Digital Strategy and Content Design*
@@ -37,7 +50,7 @@ New York, April–May 2015
 Writing About Yourself Workshop Series
 Brooklyn, March–April 2015
 
-### [Huge Inc.](http://www.hugeinc.com/events/content-strategist-event) ###
+### [Content Strategy NYC](http://www.hugeinc.com/events/content-strategist-event) ###
 Panelist, Editorial Strategy
 Brooklyn, March 2015
 [Video](http://livestream.com/hugeinc/events/3914728)

@@ -7,12 +7,15 @@ fields:
   title:
     label: Title
     type:  text
-  lede:
-    label: Lede
-    type:  textarea
   pubdate:
     label: Pubdate
     type:  text
+  lede:
+    label: Lede
+    type:  textarea
+  text:
+    label: Text
+    type:  textarea
   footnotes:
     label: Footnotes
     type:  textarea

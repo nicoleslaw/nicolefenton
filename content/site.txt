@@ -2,15 +2,15 @@ Title: Nicole Fenton
 
 ----
 
-About: Nicole Fenton is a researcher, strategist, and writing teacher in New York City. She designs with words.
+About: Nicole Fenton is an editor, researcher, and strategist. She designs with words.
 
 ----
 
-Author: Nicole Fenton | http://nicolefenton.com
+Author: Nicole Fenton | nicolefenton.com
 
 ----
 
-Copyright: © 2013–2017 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
+Copyright: © 2013–2018 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
 
 ----
 
@@ -22,7 +22,7 @@ Address: *For project inquiries or advising, please email (email: nicole@nicolef
 
 ----
 
-Credits: Website by (link: / text: Fenton), (link: http://maxfenton.com text: Fenton), & (link: http://armbrust.co text: Armbrust).
+Credits: Website by (link: / text: Fenton), (link: https://maxfenton.com text: Fenton), & (link: http://armbrust.co text: Armbrust).
 
 ----
 
@@ -32,20 +32,20 @@ Googleauthor:
 
 Clients: 
 
-## Recent Clients ## {.list-section-title}
+## Clients ## {.list-section-title}
 
 - A BOOK APART
-- ABOUTLIFE
 - BESPOKEN
-- CHROMA
 - COMPASS
 - EDITORIALLY
 - ENOUGH PEPPER
 - HAPPY COG
+- LAB ZERO
 - MACMILLAN PUBLISHERS
 - MICROSOFT
-- MINED
+- NAVA
 - PINTEREST
+- PORTIGAL CONSULTING
 - PROPUBLICA
 - QUALITY PEOPLES
 - SAFARI BOOKS ONLINE
