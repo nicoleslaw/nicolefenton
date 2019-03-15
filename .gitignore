@@ -31,3 +31,4 @@ _/uploads
 _/bower_components
 node_modules
 .vagrant
+/site/config/config.php
