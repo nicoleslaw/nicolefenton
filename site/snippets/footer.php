@@ -1,4 +1,3 @@
-
     <footer class="footer cf" role="contentinfo">
       <div class="footer_inner">
         <div class="colophon">
@@ -21,11 +20,15 @@
 
   </div><?php /* <!-- .body-wrap --> */ ?>
 
-  <script src="/_/js/min/plugins.min.<?php echo $site->version() ?>.js" type="text/javascript"></script>
+  <script src="/_/js/min/plugins.min.<?php echo !$kirby->option('debug') ? ($site->version(). '.') : '' ?>js" type="text/javascript"></script>
 
   <script>
   //<![CDATA[
-    <?php include($_SERVER['DOCUMENT_ROOT']."/_/js/min/main.min.js"); ?>
+    <?php 
+      if (!$kirby->option('debug')) {
+        include($_SERVER['DOCUMENT_ROOT']."/_/js/min/main.min.js"); 
+      }
+    ?>
 
   //]]>
   </script>
