@@ -17,7 +17,7 @@ Text:
 * [Bird by Bird: Some Instructions on Writing and Life](//www.amazon.com/gp/product/0385480016/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385480016&linkCode=as2&tag=nicelysaid-20&linkId=WB52XRBRLJYPLUIK), Anne Lamott
 * [Writing to Change the World](//www.amazon.com/gp/product/B001QNVPPE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001QNVPPE&linkCode=as2&tag=sc0055-20), Mary Pipher
 * [The Writer’s Notebook](//www.amazon.com/The-Writers-Notebook-Craft-Essays/dp/0979419816/ref=as_sl_pc_ss_til?tag=swelcont-20&linkCode=w01&linkId=ESCCRJFQKGKTVER4&creativeASIN=0979419816), Craft Essays from Tin House
-* [Poynter on Writing](https://www.poynter.org/tag/writing/)
+* [Poynter on Writing](https://www.poynter.org/tags/writing)
 
 ### Interface Writing
 
@@ -32,7 +32,7 @@ Text:
 ### Editing
 * [The Copyeditor’s Handbook](//www.amazon.com/The-Copyeditors-Handbook-Publishing-Communications/dp/0520271564), Amy Einsohn
 * [The Elements of Editing](//www.amazon.com/The-Elements-Editing-Arthur-Plotnik/dp/0028614518), Arthur Plotnik
-* [The Subversive Copy Editor](http://www.amazon.com/The-Subversive-Copy-Editor-Relationships/dp/0226734250/), Carol Fisher Saller
+* [The Subversive Copy Editor](http://www.amazon.com/Subversive-Copy-Editor-Second-Relationships/dp/022624007X/), Carol Fisher Saller
 
 ### Content Strategy
 
@@ -47,10 +47,10 @@ Text:
 
 ### Design Education
 
-* [Avoiding Bullshit Personas](//speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
-* [How to Make Sense of Any Mess](//abbytheia.com/makesense/), Abby Covert
+* [Avoiding Bullshit Personas](http://speakerdeck.com/boltpeters/avoiding-bullshit-personas), Bolt|Peters
+* [How to Make Sense of Any Mess](http://abbytheia.com/makesense/), Abby Covert
 * [The Shape of Design](//shapeofdesignbook.com/), Frank Chimero
-* [Designing in the Borderlands](http://frankchimero.com/talks/designing-in-the-borderlands/transcript/), Frank Chimero
+* [Designing in the Borderlands](https://frankchimero.com/writing/designing-in-the-borderlands/), Frank Chimero
 * [This is What I Have Learned](http://voiceconference.aiga.org/transcripts/presentations/milton_glaser.pdf), Milton Glaser
 * [The Chairs are Where the People Go](//amazon.com/gp/product/0865479453/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0865479453&linkCode=as2&tag=nicelysaid-20&linkId=7VH6DNHTUDFAPTPM), Sheila Heti and Mischa Glouberman
 * [Learning by Heart: Teachings to Free the Creative Spirit](//amazon.com/Learning-Heart-Teachings-Creative-Spirit/dp/0553344455), Corita Kent and Jan Steward
@@ -71,25 +71,25 @@ Text:
 ### Style Guides
 
 * [18F’s Content Guide](https://pages.18f.gov/content-guide/)
-* [Conscious Style Guide](//consciousstyleguide.com/)
+* [Conscious Style Guide](http://consciousstyleguide.com/)
 * [Disability Language Style Guide](http://ncdj.org/style-guide/)
 * [Diversity Style Guide](http://www.diversitystyleguide.com/)
 * [Economist Style Guide](//www.economist.com/styleguide/introduction)
 * [GLAAD Media Reference Guide](http://www.glaad.org/reference)
 * [GOV.UK Style Guide](//www.gov.uk/guidance/style-guide)
 * [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
-* [MailChimp Voice and Tone Guide](//voiceandtone.com/)
+* [MailChimp Voice and Tone Guide](http://voiceandtone.com)
 * [Plain Language Action and Information Network](http://www.plainlanguage.gov/)
-* [Guide to Understanding Non-binary People](//www.transmediawatch.org/Documents/non_binary.pdf)
+* [Guide to Understanding Non-binary People](http://transmediawatch.org/Documents/non_binary.pdf)
 * [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents)
 
 ### Tools and Word Nerdery
 
-* [Wordnik](//wordnik.com)
-* [Title Capitalization Tool](//titlecapitalization.com)
-* [Google Trends](//google.com/trends) (Keyword Search)
-* [Optimizely](//optimizely.com) or [Google Analytics](//google.com/analytics) (Content Testing)
-* [Treejack](https://www.optimalworkshop.com/treejack) (Site Structure Testing)
+* [Wordnik](http://wordnik.com)
+* [Title Capitalization Tool](http://www.titlecapitalization.com)
+* [Google Trends](//google.com/trends) for finding search keywords
+* [Optimizely](http://optimizely.com) or [Google Analytics](http://google.com/analytics) for content testing
+* [Treejack](https://www.optimalworkshop.com/treejack) for navigation testing
 
 ----
 

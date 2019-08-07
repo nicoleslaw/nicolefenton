@@ -6,13 +6,11 @@ Text:
 
 ## Hello ## {.list-section-title}
 
-I am the content design manager at [18F](https://18f.gsa.gov/), a digital design and technology consultancy within the federal government. I recently directed the redesign of [plainlanguage.gov](https://www.plainlanguage.gov), and I’m a core contributor to the [18F Content Guide](https://content-guide.18f.gov/).
+I manage communications and training for [Chorus](https://getchorus.voxmedia.com/) at Vox Media. I’m also the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](http://www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee.
 
-I am the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee. You can [read an excerpt](http://ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf) of it or [buy a copy](http://nicelysaid.co) at your favorite bookstore.
+Before this, I was head of content design at [18F](https://18f.gsa.gov/), a senior content strategist at Facebook, and an independent editor and user experience consultant. I developed a strategic writing course for interaction designers at the School of Visual Arts. I’m also a core contributor to the [18F Content Guide](https://content-guide.18f.gov/). Over the years, I’ve worked with all sorts of clients including A Book Apart, Happy Cog, Macmillan Publishers, Microsoft, Pinterest, ProPublica, Safari Books Online, and the FBI. I started my professional writing practice at Apple, where I served as communications lead for five years.
 
-Before joining 18F, I was an independent editor and user experience consultant, working directly with clients on web and editorial projects of all sizes. I also taught a strategic writing course for interaction designers at the [School of Visual Arts](http://interactiondesign.sva.edu/). Before that, I was a senior content strategist at [Facebook](https://www.facebook.com/), [Lab Zero](http://labzero.com/), and [Mule Design](http://muledesign.com/). I started my professional writing practice at [Apple](http://apple.com), where I served as communications lead for five years.
-
-I live in Virginia with [my husband](https://maxfenton.com/), our daughter, and our dog.
+I live in Virginia with [my partner](https://maxfenton.com/), our daughter, and a dog named TK.
 
 ----
 
@@ -30,11 +28,11 @@ Interviews:
 
 ## Interviews ##
 
-* [18F Blog](https://18f.gsa.gov/2016/09/06/nicole-fenton-a-wordsmith-joins-government/)
-* [Happy Monday](//www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton)
+* [Every Word Matters](https://medium.com/everywordmatters/nicole-fenton-nicely-said-and-vox-3a8d3e077155)
+* [Happy Monday](https://happymonday.simplecast.fm/dcb862cd)
 * [Huge Inc.](https://magenta.as/in-a-new-era-in-d-c-18f-marches-on-a9e4964196c)
 * [Talking Shop](https://cushionapp.com/talking-shop/nicole-fenton)
-* [UX Podcast](//soundcloud.com/uxpodcast/nicole-fenton-interview-at-uxlx-2015)
+* [UX Podcast](https://soundcloud.com/uxpodcast/nicole-fenton-interview-at-uxlx-2015)
 
 ----
 
@@ -50,8 +48,8 @@ Principles:
 
 ----
 
-Photo-credit: Portrait by [George Baier IV](//georgebaier.com/).
+Photo-credit: Portrait by [George Baier IV](https://www.georgebaier.com/).
 
 ----
 
-Photo: <img src="/_/images/nicoleslaw_circle.png" width="100" height="100" alt="Nicole Fenton" class="aligncenter" />
+Photo: <img src="/_/images/nicoleslaw_circle.png" width="100" height="100" alt="Nicole Fenton smiling with her eyes closed" class="aligncenter" />

@@ -192,9 +192,36 @@ Card sorting exercises are useful for narrowing things down. I often do card sor
 
 I’ve been known to write multiple choice questions and quiz product managers. Here’s an example from a couple of years ago. Safari is a digital reading service for web professionals.
 
-<figure><img src="//nicolefenton.com/writing-for-beginners/work_sample1.png" alt="" /></figure>
+---
+Are any of these true about the books? These are the _____ titles.
+* newest / most up-to-date
+* most popular
+* highest rated
+* most essential
+* most authoritative / trusted / definitive
+* most useful / helpful
 
-<figure><img src="//nicolefenton.com/writing-for-beginners/work_sample2.png" alt="" /></figure>
+Safari Flow is a(n):
+* discovery tool
+* learning tool
+* learning service
+* modern / online / digital library
+* platform
+* reading app
+* reading environment
+* reference library
+* community
+
+Pick two. Safari Flow helps me, because:
+* it shows me things I didn’t know existed
+* it gives me the best reading experience
+* I can take it anywhere
+* it saves me time and money
+* it’s always up-to-date
+* it teaches me new skills
+* it helps me stay relevant with trends and techniques
+
+---
 
 They had a good product vision, but I had a hard time getting them to decide what was so great about the product. This is one way to play with that. I also like to do a [Mad Libs exercise](https://gist.github.com/nicoleslaw/2155621#file-3_product_mad_libs-md), which is in my Tiny Content Framework. Here’s an example of that for another client:
 

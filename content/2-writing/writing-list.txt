@@ -34,15 +34,13 @@ Business-writing:
 
 * [Art of the Quiet Interface](/art-of-the-quiet-interface/)
 * [Winning Tactics](/winning-tactics)
-* [Working in Technology](//www.swellcontent.com/2013/04/working-in-technology/)
-* [Strategy for Small Brands](//www.swellcontent.com/2012/12/small-brand-strategy/)
-* [Dreaming of Writing in Space](//www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
-* [I Want a World](//www.swellcontent.com/2012/11/i-want-a-world/)
-* [Working on Content with Developers](//www.swellcontent.com/2012/04/working-with-developers/)
+* [Working in Technology](http://www.swellcontent.com/2013/04/working-in-technology/)
+* [Strategy for Small Brands](http://www.swellcontent.com/2012/12/small-brand-strategy/)
+* [Dreaming of Writing in Space](http://www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
+* [Working on Content with Developers](http://www.swellcontent.com/2012/04/working-with-developers/)
+* [I Want a World](http://www.swellcontent.com/2012/11/i-want-a-world/)
 * [Writing is Design](/writing-is-design/)
 * [Manifesto](/manifesto)
-
-More on [Swell Content](//swellcontent.com).
 
 ----
 
@@ -62,39 +60,42 @@ Whether you’re a writer, designer, developer, or business owner, this book is 
 
 Personal-writing: 
 
-* [Why I Write](//nicoleslaw.com/post/88447345479/why-i-write)
-* [First Year in New York](//nicoleslaw.com/post/77885298170/first-year-in-new-york)
-* [Geoffrey the Magnificent](/geoffrey-the-magnificent)
-* [Two Stories](//nicoleslaw.com/post/63658097382/two-stories)
-* [On Feeding and Being Fed](//www.bornhungrymag.com/2012/08/feeding/)
-* [Humble Beginnings](//www.bornhungrymag.com/2012/06/humble-beginnings/)
+* [Why I Write](/why-i-write/)
+* [First Year in New York](/first-year-in-new-york/)
+* [Geoffrey the Magnificent](/geoffrey-the-magnificent/)
+* [Two Stories](/two-stories/)
+* [On Feeding and Being Fed](http://www.bornhungrymag.com/2012/08/feeding/)
+* [Humble Beginnings](http://www.bornhungrymag.com/2012/06/humble-beginnings/)
 * [Summer Reading Picks](http://www.bornhungrymag.com/2014/06/summer-reading-picks/)
-
-More on [Born Hungry](//bornhungrymag.com) and [Tumblr](//nicoleslaw.com).
+* [Ginger Lemon Apple Cider](http://www.bornhungrymag.com/2013/12/ginger-lemon-apple-cider/)
 
 ----
 
 Published-elsewhere: 
 
-[Three Ways to Manage Research Projects Remotely ](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/), 18F Blog
+[Copywriting Tips for Designers](https://medium.com/@jesseddy/tips-for-designers-to-become-better-copywriters-from-the-experts-part-1-cbd3720cbd88), Medium
+
+[A New Home for the Federal Plain Language Community](https://18f.gsa.gov/2018/02/22/new-home-for-the-federal-plain-language-community/), 18F Blog
+
+[Three Ways to Manage Research Projects Remotely](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/), 18F Blog
 
 [Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/), 18F Blog
 
 [How to Say No](https://handbook.18f.gov/how-to-say-no/), 18F Handbook
 
-[How to Write an About Page That Gets You Hired](//99u.com/articles/51669/how-to-write-about-me-section), 99u
+[How to Write an About Page That Gets You Hired](https://99u.adobe.com/articles/51669/how-to-write-about-me-section), 99u
 
-[Writing for Global Audiences](//webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
+[Writing for Global Audiences](https://webstandardssherpa.com/reviews/writing-for-global-audiences/), Web Standards Sherpa
 
-[Leaning into Longform](//webstandardssherpa.com/reviews/leaning-into-longform/), Web Standards Sherpa
+[Leaning into Longform](https://webstandardssherpa.com/reviews/leaning-into-longform/), Web Standards Sherpa
 
-[Space to Breathe](//contentsmagazine.com/articles/space-to-breathe/), *Contents* Magazine
+[Wayfinding: Writing for Accessibility](https://webstandardssherpa.com/reviews/wayfinding-writing-for-accessibility/), Web Standards Sherpa
 
-[A Year of Ideas](//the-pastry-box-project.net/baker/nicole-fenton/), The Pastry Box Project
+[Space to Breathe](http://contentsmagazine.com/articles/space-to-breathe/), *Contents* Magazine
 
-[Wayfinding: Writing for Accessibility](//webstandardssherpa.com/reviews/wayfinding-writing-for-accessibility/), Web Standards Sherpa
+[A Year of Ideas](https://the-pastry-box-project.net/baker/nicole-fenton), Pastry Box Project
 
-[Dear Web](//www.offscreenmag.com/issue5/), *Offscreen* Magazine
+[Dear Web](http://archive.offscreenmag.com/issue5/), *Offscreen* Magazine
 
 [Content Strategy in the Fortune 500](https://web.archive.org/web/20150808052740/http://visitmix.com/writings/content-strategy-in-the-fortune-500), MIX Online
 

@@ -10,7 +10,7 @@ Author: Nicole Fenton | nicolefenton.com
 
 ----
 
-Copyright: © 2013–2018 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
+Copyright: © 2013–2019 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
 
 ----
 
@@ -18,7 +18,7 @@ Twitter: @nicoleslaw
 
 ----
 
-Address: *For project inquiries or advising, please email (email: nicole@nicolefenton.com).*
+Address: *For general inquiries or advising, please email (email: nicole@nicolefenton.com).*
 
 ----
 
@@ -37,7 +37,6 @@ Clients:
 - A BOOK APART
 - BESPOKEN
 - COMPASS
-- EDITORIALLY
 - ENOUGH PEPPER
 - HAPPY COG
 - LAB ZERO
@@ -49,7 +48,6 @@ Clients:
 - PROPUBLICA
 - QUALITY PEOPLES
 - SAFARI BOOKS ONLINE
-- TEUXDEUX
 - WESTRA & CO.
 - WISHBONE.ORG
 - 45ROYALE

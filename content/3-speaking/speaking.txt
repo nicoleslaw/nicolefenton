@@ -12,13 +12,11 @@ Upcoming-events:
 
 Past-events: 
 
-## Upcoming Events ## {.list-section-title}
+## Past Events ## {.list-section-title}
 
 ### [School of Visual Arts](https://productsofdesign.sva.edu/) ###
 Guest Lecture, Products of Design
 via Hangouts, February 2018
-
-## Past Events ## {.list-section-title}
 
 ### [Mayor’s Office of Digital Strategy Social Media Day](https://www.eventbrite.com/e/meetteamdigi-social-media-day-2017-tickets-33258174094) ###
 *Voice and Tone: Writing with Feeling*

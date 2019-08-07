@@ -31,7 +31,7 @@ Project-lede: I helped Safari improve their digital reading service over a span 
 
 ----
 
-Lede: [Safari](http://safaribooksonline.com) is a digital library for web professionals.
+Lede: [Safari](http://safaribooksonline.com) is digital library for web professionals.
 
 ----
 

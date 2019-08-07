@@ -4,7 +4,6 @@ Title: Error
 
 Text: 
 
-Eeep. That page doesn’t exist.
-Sorry about that. Perhaps you’d enjoy a photo of Geoffrey instead?
+Sorry, that page doesn’t exist.
 
-(figure: /error/geoffrey.jpg alt: Geoffrey)
+Perhaps you’d like to [head home](/)?

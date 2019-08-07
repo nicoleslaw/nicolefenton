@@ -31,7 +31,7 @@ Text:
 
 In 2014, I had the honor of copyediting two titles for A Book Apart: *[On Web Typography](//www.abookapart.com/products/on-web-typography)* by Jason Santa Maria and *[You’re My Favorite Client](//www.abookapart.com/products/youre-my-favorite-client)* by Mike Monteiro, my former boss at Mule Design.
 
-Since then, I’ve continued my work with A Book Apart as a developmental editor for Dan Brown’s *[Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)* and Karen McGrane’s *[Going Responsive](http://abookapart.com/products/going-responsive)*. I also copyedited Ethan Marcotte’s *[Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)*.
+Since then, I’ve worked with A Book Apart as a developmental editor for Dan Brown’s *[Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)* and Karen McGrane’s *[Going Responsive](http://abookapart.com/products/going-responsive)*. I also copyedited Ethan Marcotte’s *[Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)*.
 
 ----
 

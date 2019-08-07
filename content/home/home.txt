@@ -2,20 +2,15 @@ Title: Home
 
 ----
 
-Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ design manager || content strategist || educator || occasional speaker || extrovert for pay || working mom || typical Gemini || amateur photographer || curious home cook || tea drinker }}. She hosts workshops and works with {{ nice people || public servants || authors, designers, and developers }} on {{ websites || digital products || books, interfaces, }} and publishing projects.
+Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || researcher || information architect || creative director || educator || occasional speaker || extrovert for pay || typical Gemini || amateur photographer || curious home cook || tea drinker }}. She hosts workshops and works with {{ nice people || designers and developers || authors and editors }} on {{ websites || digital products || books, interfaces, }} and publishing projects.
 
 ----
 
 Making: 
 
+* [Notes on Accessibility Updates for Chorus](https://product.voxmedia.com/2019/7/31/20696395/chorus-accessibility-improvements) 
 * [Three Ways to Manage Research Projects Remotely](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/)
-* [Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/ "on the 18F blog")
-* [Open Data Content Strategy](https://github.com/18F/crime-data-explorer/blob/master/presentations/NFenton_Open_Data_Content_Strategy.pdf)
-* [Working With and Through Mental Illness](/working-with-and-through-mental-illness/)
 
 ----
 
-Reading: 
-
-* [Sour Heart](https://www.penguinrandomhouse.com/books/545731/sour-heart-by-jenny-zhang/9780399589386/)
-* [The Lonely City](https://us.macmillan.com/thelonelycity/olivialaing/9781250118035/)
+Reading: * [Sing, Unburied, Sing](https://www.indiebound.org/book/9781501126079)

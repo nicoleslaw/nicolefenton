@@ -13,13 +13,13 @@ Lede: I can help you define your goals, improve your editorial process, and earn
 Services: 
 
 ### Creative Direction ###
-* Leadership
+* Design Leadership
 * Advising
 * Project Definition
 * Naming and Concepts
 
 ### User Experience ###
-* Research
+* User Research
 * Interface Audits
 * Information Architecture
 * Content Design

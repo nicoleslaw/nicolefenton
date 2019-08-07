@@ -25,7 +25,7 @@ Services:
 
 ----
 
-Project-lede: Since joining 18F, I’ve worked on a wide range of research and content strategy projects.
+Project-lede: In my 2.5 years at 18F, I worked on a wide range of research and content strategy projects.
 
 ----
 
@@ -35,22 +35,20 @@ Lede:
 
 Text: 
 
-As an experience design supervisor at 18F, I manage a distributed team of content designers. My supervisory duties include scoping design projects, facilitating staffing decisions, coaching my team through difficult situations, developing hiring and performance criteria, recommending professional development opportunities, jumping through bureaucratic hoops, and promoting content strategy as a core design discipline.
+As an experience design supervisor at 18F, I managed a distributed team of nine content designers. My supervisory duties included scoping design projects, facilitating staffing decisions, coaching my team through difficult situations, developing hiring and performance criteria, recommending professional development opportunities, jumping through bureaucratic hoops, and promoting content strategy as a core design discipline.
 
-Along with leading a team, I work on a billable projects. These have included:
+Along with leading a team, I worked on a billable projects. These included:
 
 * [plainlanguage.gov](https://www.plainlanguage.gov)
-* [Medicaid funding request app](https://github.com/18F/cms-hitech-apd)
 * [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov/)
+* [worker.gov](https://www.worker.gov/)
 * [Best practices in government digital transformation](https://github.com/18F/transformation-research)
 * [clinicaltrials.gov](https://clinicaltrials.gov/)
 * [dotgov.gov](https://home.dotgov.gov)
-* [worker.gov](https://github.com/18F/worker-dol-gov) (launching soon)
-* [eRegulations](https://eregs.github.io/)
-* [OMB Policy Library](https://omb-eregs-demo.app.cloud.gov/)
-* [U.S. EITI](https://useiti.doi.gov/)
+* [Medicaid funding request app](https://github.com/18F/cms-hitech-apd)
+* [Natural Resources Revenue Data](https://useiti.doi.gov/)
 
-As part of these efforts, I have led interviews and usability sessions with policymakers, program managers, journalists, technical experts, and members of the public. I host content workshops with stakeholders—both in person and remotely—and have written all sorts of recommendations, [design principles](https://github.com/18F/crime-data-explorer/wiki/Experience-Principles), and research reports.
+As part of these efforts, I led interviews and usability sessions with policymakers, program managers, journalists, technical experts, and members of the public. I hosted content workshops with stakeholders and wrote all sorts of recommendations, [design principles](https://github.com/18F/crime-data-explorer/wiki/Experience-Principles), and research reports.
 
 Shortly after becoming a supervisor, I led an unconference session about fostering resilience and mental health in the workplace. (I wrote [this personal essay](http://nicolefenton.com/working-with-and-through-mental-illness/) beforehand.)
 

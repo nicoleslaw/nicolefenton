@@ -69,7 +69,7 @@ This one’s obvious, but we all know what it’s like to get home with somethin
 
 Don’t *bend* the truth. Apple used to be great at marketing themselves in an honest way, but more and more, they’re promising things they can’t deliver. Here’s an example from the [iPhone 6](https://www.apple.com/iphone-6/) product page:
 
-<figure><img src="/honest-marketing/marketing01.png" alt="Apple iPhone 6" /></figure>
+<figure><img src="/honest-marketing/marketing01.png" alt="Apple iPhone 6 landing page" /></figure>
 
 > “iPhone 6 isn’t simply bigger — it’s better in every way. Larger, yet dramatically thinner. More powerful, but remarkably power efficient. With a smooth metal surface that seamlessly meets the new Retina HD display. It’s one continuous form where hardware and software function in perfect unison, creating a new generation of iPhone that’s better by any measure.”
 
@@ -81,7 +81,7 @@ I use this as an example, because a lot of people try to compare themselves with
 
 This is the kind of truth journalists and scientists talk about. You can be really specific with technical specifications or focus on the ingredients or materials you use. Here’s an example from [Poblano Farm](http://www.poblanofarm.com/products.html#pasta). They make a flavorful pasta sauce I can’t stop eating.
 
-<figure><img src="/honest-marketing/marketing02.png" alt="Poblano Farm" /></figure>
+<figure><img src="/honest-marketing/marketing02.png" alt="Poblano Farm products screenshot" /></figure>
 
 > “Our pasta sauce is inspired by traditional Italian flavors and fresh local ingredients. This classic sauce is made with the best sun-ripened tomatoes, extra virgin olive oil, fresh garlic and a touch of sweet basil. There are no onions or added sugars, only the tomatoes’ natural sweetness. All natural ingredients with no preservatives.”
 
@@ -91,7 +91,7 @@ There’s a little bit of flavor there, but it’s pretty straightforward. What 
 
 We’ll dig into this in a minute, but here’s a quick example from [Almond](https://www.almondsurfboards.com/pages/sano-special), my favorite surfboard maker.
 
-<figure><img src="/honest-marketing/marketing03.png" alt="Almond Surf Boards" /></figure>
+<figure><img src="/honest-marketing/marketing03.png" alt="Screenshot of Almond Surfboards site" /></figure>
 
 > “The Sano Special was designed specifically for soft, log-friendly waves like San Onofre. Extremely stable from the nose, and extra curve in the tail, for a more favorable turning radius. Catches waves like a dream.”
 
@@ -120,7 +120,7 @@ Now that you’ve got your product in mind and you know why it matters to you, l
 
 Your voice is your style; it’s what your writing sounds like. It doesn’t change much over time. Here are two examples for the same product, a deodorant cream from [Fat and the Moon](http://fatandthemoon.com/deodorant-cream).
 
-<figure><img src="/honest-marketing/marketing04.png" alt="Fat and the Moon Deodorant Cream" /></figure>
+<figure><img src="/honest-marketing/marketing04.png" alt="Fat and the Moon deodorant cream product page" /></figure>
 
 > “Got that ‘wha, wha’ feeling every time you buy natural deodorants? We all want to switch our chemical laden products but don’t necessarily want to be stinker for it!”
 
@@ -130,7 +130,7 @@ They’re funny, right? It works because they’re being playful and informative
 
 Here’s a shorter version from [Storq](http://storq.com/products/deodorant). They make maternity wear and sell body products for women.
 
-<figure><img src="/honest-marketing/marketing05.png" alt="Fat and the Moon Deodorant Cream on Storq" /></figure>
+<figure><img src="/honest-marketing/marketing05.png" alt="Fat and the Moon Deodorant Cream on Storq’s website" /></figure>
 
 > “Do you know what’s in your average drug store deodorant? Let’s not get into it. Needless to say, they’re full of things you probably want to avoid. This deodorant cream is all-natural, easy to apply, and really does prevent you from becoming very smelly. And it won’t clog up your pores with scary chemicals. Oops, we got into it.”
 
@@ -138,7 +138,7 @@ Storq’s voice is so friendly that it sounds like one of your lady friends. The
 
 As a contrast, here’s a quote from [No 6.](http://no6store.com/no6-clogs/classic-shoe-on-high-heel.html) about their high-heel clogs:
 
-<figure><img src="/honest-marketing/marketing06.png" alt="High Heel Clog in Black" /></figure>
+<figure><img src="/honest-marketing/marketing06.png" alt="Product page for No6 high heel clogs in black leather" /></figure>
 
 > “Closed back clog with delicate ankle strap and buckle closure. 3” heel with .5” platform in front. Modern and minimal design creates styling versatility. Water repellant leather and lacquered wooden base. This clog runs slightly narrow across the width, but will give and soften with wear. Please note when wearing a closed back clog, your heel will lift while walking.”
 
@@ -150,7 +150,7 @@ Take a few minutes to think about your company, its personality, and what you wa
 
 These traits should already exist within your team. If you’re the only person behind your products, your voice should probably sound like you when you’re in a good mood. If you have several colleagues, it should sound like your team when it’s at its best—maybe warm, optimistic, humble, enthusiastic, goofy, or quirky.
 
-You can refine this list over time and use it to guide your writing. You may also want to include a list of associations to avoid. In *[Nicely Said](//nicelysaid.co)*, we call this combo a *This But Not That List*. Here’s what it looks like for my studio.
+You can refine this list over time and use it to guide your writing. You may also want to include a list of associations to avoid. In *[Nicely Said](https://nicelysaid.co)*, we call this combo a *This But Not That List*. Here’s what it looks like for my studio.
 
 #### My voice is...
 
@@ -224,7 +224,7 @@ Check for these basics:
 * Is every word true?
 * Can you cut any adjectives or modifiers?
 
-Take out any white lies or fluff. Watch out for filler words like *incredibly*, *bespoke*, *unique*, and *beautiful*. (More examples of these in Chapter 4 of [the book](//nicelysaid.co)!) Scrutinize every single word and keep working toward the truth.
+Take out any white lies or fluff. Watch out for filler words like *incredibly*, *bespoke*, *unique*, and *beautiful*. (More examples of these in Chapter 4 of [the book](https://nicelysaid.co)!) Scrutinize every single word and keep working toward the truth.
 
 Edit your work until it’s clear, honest, and sounds like something you’d say to a friend or a neighbor. Tell them how you really feel, and be patient with yourself while you rework the copy.
 

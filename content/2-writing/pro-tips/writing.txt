@@ -1,0 +1,29 @@
+Title: Tips for Writing Better Copy
+
+----
+
+Lede: 
+
+----
+
+Text: 
+
+Spend more time thinking about words. It’s not just semantics or “a copy issue.” Clear language makes your products more trustworthy, accessible, and engaging.
+
+Listen to your users. What are they trying to do? What do they call things? How do they ask for help? Do research to understand their word choices and points of confusion. Ask them to read something and then read it again slowly. How do they interpret it? What do they notice? Use their questions, reactions, and actual words as inputs in the design process.
+
+Be willing to do the tedious work of auditing your content. Do your error messages and tooltips make sense? Are you using nouns and verbs consistently? Does your support team have to do linguistic gymnastics to explain what you shipped last week? Look to your customer service, analytics, and operations teams for more insight.
+
+Good product writing is conversational. So use words people would actually say to each other *in a conversation*. Imagine you’re talking to a neighbor or friend you admire. How would you describe this feature to them? Think out loud to them as you write, and read your work aloud to review it. Keep editing and refining the language until everything is clear, friendly, and useful.
+
+----
+
+Pubdate: April 24, 2018
+
+----
+
+Footnotes: 
+
+----
+
+Header-image: 

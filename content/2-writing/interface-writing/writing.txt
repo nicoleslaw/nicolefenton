@@ -64,7 +64,7 @@ As developers and writers, you have a lot of power. The user wants something. Ma
 
 <figure><img src="/interface-writing/interfaces10.png" alt="strength" /></figure>
 
-With clear instructions and a warm tone, you can help them find what they need quickly, without having to ask someone for help.
+With clear instructions and a warm tone, you can help them find what they need quickly without having to ask anyone for help.
 
 * * *
 
@@ -72,7 +72,7 @@ Let me tell you a story. This is my dad. He’s a test engineer. He works on sem
 
 <figure><img src="/interface-writing/interfaces11.jpg" alt="dad" /></figure>
 
-We used to have this program called Dr. Sbaitso, which you may have heard of. It was a computerized psychologist slash artificial intelligence program designed to show off sound cards, but I thought it was a game, and I used to play with it for hours.
+We used to have this program called Dr. Sbaitso, which you may have heard of. It was a computerized psychologist slash artificial intelligence program designed to show off sound cards, but I thought it was a game and used to play with it for hours.
 
 This is what it looked like. A typical, boring DOS interface.
 
@@ -132,7 +132,7 @@ Here are some examples of things you might be asking:
 
 You probably wouldn’t ask a complete stranger these things without a conversation or consent.
 
-Each of these interactions should feel like a conversation between two people who trust each other and deserve each other’s trust. It can’t be one-sided. Unless you want to be cold like Dr. Sbaitso or creepy like HAL, you need to take the time to think about these prompts and put yourself in the reader’s shoes. So let’s talk about how to do this.
+Each of these interactions should feel like a conversation between two people who trust each other and deserve each other’s trust. It can’t be one-sided. Unless you want to be cold like Dr. Sbaitso or creepy like [HAL](https://en.wikipedia.org/wiki/HAL_9000), you need to take the time to think about these prompts and put yourself in the reader’s shoes. So let’s talk about how to do this.
 
 ### Tips
 
@@ -153,7 +153,7 @@ It’s easy to ship something out in a hurry. Before you do, ask yourself a few 
 * What do they need to understand?
 * Why does this matter to them?
 
-When you’re looking at a particular interface label or message, keep it short and focused on what the reader needs. (See the full list of [design questions](//www.nicelysaid.co/resources/).)
+When you’re looking at a particular interface label or message, keep it short and focused on what the reader needs. (See the full list of [research questions](https://www.nicelysaid.co/research-questions) from my book.)
 
 #### 2. Be a good tour guide.
 
@@ -163,9 +163,9 @@ Think about what you’d do if one of your close friends came to visit you at wo
 
 If you’re not sure where to start, make a map for yourself. Take screenshots of each part of a flow and look at them together. Start with your signup, checkout, or donation flows. See where you can add specific details and useful examples to simplify your instructions.
 
-Think about the hidden gems on your site too. If the user isn’t ready to make a purchase or sign up, what else can they do? I like to think of this as the _Choose Your Own Adventure_ approach to web design. Don’t leave the user hanging. There shouldn’t be any dead-ends.
+Think about the hidden gems on your site too. If the user isn’t ready to make a purchase or sign up, what else can they do? I like to think of this as the _Choose Your Own Adventure_ approach to web design. Don’t leave the user hanging, and watch out for dead-ends. Tell them what to expect and help them accomplish their goal.
 
-Tell them what to expect and help them accomplish their goal. Remember that you’re working with hypertext. You can include links or images to make your point.
+Remember that you’re working with hypertext. You can include links or images to make your point.
 
 Here’s an example from [Pinterest](https://pinterest.com). You can see the cocktail my friend Tom pinned, along with other pins he relates to this one and other pins from the source. Pinterest is also prompting me to sign up, since it only takes a second or two. They’re making all of those paths clear.
 
@@ -183,7 +183,7 @@ Every now and then, check your terms for clarity too. Make a list of the buttons
 
 Right away, you can see which ones are too similar. They’re using both “Log in” and “Sign in,” so I’d suggest cutting the “Log in” language to simplify. You can also see that they’re having a trouble deciding if the reader is “you” or “me.” I usually go with “you” to avoid the confusion, but you could also cut the pronouns and possessive adjectives.
 
-The terms you choose are a style choice; it’s not about right and wrong. But you should be consistent and match the language your users relate to. If you call something “notifications” in one place, call them “notifications” everywhere. That will help you reduce cognitive load on your readers and save money on translations too.
+The terms you choose are a style choice; it’s not about right and wrong. But you should be consistent and match the language your users relate to. If you call something “notifications” in one place, call them “notifications” everywhere. That will help you reduce cognitive load on your readers and save money on translations, too.
 
 #### 3. Turn your chair.
 
@@ -221,7 +221,7 @@ Now’s the time when I’ll tell you what _not_ to do, since some people find t
 
 One way to avoid this is to read your work aloud before you ship it. If you work in an open office, it may seem embarrassing to mumble strings to yourself, but it makes a huge difference. Make sure it sounds like you, not too formal or stuffy.
 
-Here’s an example from GitHub.
+Here’s a good example from GitHub.
 
 <figure><img src="/interface-writing/interfaces25.png" alt="github 501 error" /></figure>
 
