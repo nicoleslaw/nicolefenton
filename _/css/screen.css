@@ -1388,6 +1388,7 @@ figcaption em {
 
 .writing-elsewhere .wrapper {
   max-width: 33rem;
+  padding-bottom: 1em;
   margin-right: auto;
   margin-left: auto;
 }

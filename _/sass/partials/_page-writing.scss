@@ -58,6 +58,7 @@
   }
   .wrapper {
     max-width: $body-wrap-width;
+    padding-bottom: 1em;
 
     @include center;
   }
