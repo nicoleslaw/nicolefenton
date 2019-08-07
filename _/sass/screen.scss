@@ -14,7 +14,8 @@
 
 // BOURBON - http://bourbon.io/docs/
 // @import '../../node_modules/bourbon/core/_bourbon.scss';
-@import '../../node_modules/bourbon/app/assets/stylesheets/_bourbon.scss';
+// @import '../../node_modules/bourbon/app/assets/stylesheets/_bourbon.scss';
+@import 'vendor/bourbon4/stylesheets/_bourbon.scss';
 $output-bourbon-deprecation-warnings: false !important;
 
 // CUSTOM RESET
@@ -34,6 +35,7 @@ $output-bourbon-deprecation-warnings: false !important;
 
 // LAYOUT
 @import 'base/layout';
+@import 'base/background';
 
 /////////////////////////////////////
 // COMPONENTS

@@ -16,8 +16,8 @@
   }
   @include media(not-mobile) {
     @include font-size(15);
-    @include flex(1);
-    @include display(flex);
+    flex: 1;
+    display: flex;
   }
   li:last-of-type {
     margin-right: 0;
@@ -29,7 +29,7 @@
     // height: 12px;
     // content: url("/_/images/dec/circle-menu.svg");
     // content: url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNCAxNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGNpcmNsZSBmaWxsPSIjRjA0QzIzIiBjeD0iNyIgY3k9IjciIHI9IjciIGlkPSJjaXJjbGUtbWVudSIgLz48L2c+PC9zdmc+);
-    // @include flex-grow(0);
+    // flex-grow: 0;
   }
 }
 .menu a {
@@ -73,14 +73,14 @@
     padding-left: 0.125em;
     text-align: right;
 
-    @include flex-grow(1);
+    flex-grow: 1;
   }
   &.home-link {
     padding-left: 0;
     @include media(not-mobile) {
       margin-right: 1em;
-      @include order(-1);
-      @include flex-grow(0);
+      order: -1;
+      flex-grow: 0;
     }
   }
 }

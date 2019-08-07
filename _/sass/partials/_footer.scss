@@ -10,7 +10,7 @@
 }
 .footer_inner {
   @include media(not-mobile) {
-    @include display(flex);
+    display: flex;
   }
 }
 .footer_wrap {
@@ -25,9 +25,9 @@
   @include media('(min-width: 900px)') {
     padding-left: 5.625rem;
   }
-  @include flex(1);
-  @include flex-grow(1);
-  @include flex-wrap(nowrap);
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: nowrap;
   @include center;
 }
 .footer-links {
@@ -129,9 +129,9 @@
 
 @include media('(max-width: 780px)') {
   .footer {
-    @include display(flex);
+    display: flex;
     @include flex-wrap(wrap);
-    @include flex-direction(column);
+    flex-direction: column;
   }
   .footer-links,
   .colophon {
