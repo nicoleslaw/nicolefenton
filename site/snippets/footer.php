@@ -1,3 +1,4 @@
+
     <footer class="footer cf" role="contentinfo">
       <div class="footer_inner">
         <div class="colophon">
@@ -20,27 +21,13 @@
 
   </div><?php /* <!-- .body-wrap --> */ ?>
 
-  <script src="/_/js/min/plugins.min.<?php echo !$kirby->option('debug') ? ($site->version(). '.') : '' ?>js" type="text/javascript"></script>
+  <script src="/_/js/min/plugins.min.<?php echo $site->version() ?>.js" type="text/javascript"></script>
 
   <script>
   //<![CDATA[
-    <?php 
-      if (!$kirby->option('debug')) {
-        include($_SERVER['DOCUMENT_ROOT']."/_/js/min/main.min.js"); 
-      }
-    ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/_/js/min/main.min.js"); ?>
 
   //]]>
-  </script>
-
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-42875888-1', 'auto');
-    ga('send', 'pageview');
   </script>
 
 </body>

@@ -2,7 +2,7 @@ Title: Nicole Fenton
 
 ----
 
-About: Nicole Fenton is an editor, researcher, and strategist. She designs with words.
+About: Nicole Fenton is an editor, researcher, and strategist. They design with words.
 
 ----
 
@@ -10,7 +10,7 @@ Author: Nicole Fenton | nicolefenton.com
 
 ----
 
-Copyright: © 2013–2019 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
+Copyright: © 2013–2021 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
 
 ----
 
@@ -32,25 +32,21 @@ Googleauthor:
 
 Clients: 
 
-## Clients ## {.list-section-title}
+## Select Clients ## {.list-section-title}
 
+- 45ROYALE
 - A BOOK APART
-- BESPOKEN
 - COMPASS
 - ENOUGH PEPPER
 - HAPPY COG
 - LAB ZERO
 - MACMILLAN PUBLISHERS
 - MICROSOFT
-- NAVA
 - PINTEREST
-- PORTIGAL CONSULTING
 - PROPUBLICA
-- QUALITY PEOPLES
 - SAFARI BOOKS ONLINE
 - WESTRA & CO.
 - WISHBONE.ORG
-- 45ROYALE
 
 ----
 
