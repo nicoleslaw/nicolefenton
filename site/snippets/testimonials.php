@@ -2,13 +2,13 @@
 			<ul class="testimonial-list">
 				<li>
 					<blockquote>
-						<p>She asks the questions others are either afraid to or don’t know how to ask.</p>
+						<p>Nicole asks the questions others are either afraid to or don’t know how to ask.</p>
 					</blockquote>
 					<h3 class="testimonial-source">Julia Elman, Frontend Designer</h3>
 				</li>
 				<li>
 					<blockquote>
-						<p>Having her on a project means that the language will not only be beautifully written and thoughtfully edited, but also thoroughly considered, technically sound, and sensitive to the needs and feelings of the people who will encounter it.</p>
+						<p>Having Nicole on a project means that the language will not only be beautifully written and thoughtfully edited, but also thoroughly considered, technically sound, and sensitive to the needs and feelings of the people who will encounter it.</p>
 					</blockquote>
 					<h3 class="testimonial-source">Amy Thibodeau, Content Strategist</h3>
 				</li>

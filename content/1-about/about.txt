@@ -6,11 +6,11 @@ Text:
 
 ## Hello ## {.list-section-title}
 
-I manage communications and training for [Chorus](https://getchorus.voxmedia.com/) at Vox Media. I’m also the coauthor of *[Nicely Said: Writing for the Web with Style and Purpose](http://www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)* with Kate Kiefer Lee.
+I’m a senior product writer, design manager, and researcher based in central Virginia. I work on critical government services for the public at [Nava](https://www.navapbc.com/).
 
-Before this, I was head of content design at [18F](https://18f.gsa.gov/), a senior content strategist at Facebook, and an independent editor and user experience consultant. I developed a strategic writing course for interaction designers at the School of Visual Arts. I’m also a core contributor to the [18F Content Guide](https://content-guide.18f.gov/). Over the years, I’ve worked with all sorts of clients including A Book Apart, Happy Cog, Macmillan Publishers, Microsoft, Pinterest, ProPublica, Safari Books Online, and the FBI. I started my professional writing practice at Apple, where I served as communications lead for five years.
+I believe that good content is clear, conversational, and inclusive. You can learn more about my approach to developing user-centered products in the archives here and in my book, *[Nicely Said: Writing for the Web with Style and Purpose](https://nicelysaid.co)*.
 
-I live in Virginia with [my partner](https://maxfenton.com/), our daughter, and a dog named TK.
+For over 15 years, I’ve worked to make the web more friendly, accessible, and honest. Before joining Nava, I was the communications and training manager for Chorus at Vox Media, head of content design at [18F](https://18f.gsa.gov/), a graduate instructor and thesis advisor at the School of Visual Arts, a senior content strategist at Facebook, and a communications lead at Apple. As an independent editor and user experience consultant, I’ve worked with all kinds of clients including A Book Apart, Happy Cog, Lab Zero, Macmillan Publishers, Pinterest, and ProPublica.
 
 ----
 
@@ -18,9 +18,9 @@ Side-projects:
 
 ## Side Projects ##
 
-* [Strategic Writing](http://strategicwriting.club/)
+* [Strategic Writing](https://strategicwriting.club/)
 * [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621)
-* [Born Hungry](http://bornhungrymag.com)
+* [Born Hungry](https://bornhungrymag.com)
 
 ----
 
@@ -52,4 +52,4 @@ Photo-credit: Portrait by [George Baier IV](https://www.georgebaier.com/).
 
 ----
 
-Photo: <img src="/_/images/nicoleslaw_circle.png" width="100" height="100" alt="Nicole Fenton smiling with her eyes closed" class="aligncenter" />
+Photo: <img src="/_/images/nicoleslaw_circle.png" width="100" height="100" alt="Nicole Fenton smiling with their eyes closed" class="aligncenter" />

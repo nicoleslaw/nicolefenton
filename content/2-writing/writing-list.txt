@@ -10,7 +10,10 @@ Featured-writing:
 
 ## Featured Writing ## {.list-section-title}
 
-### [Words as Material](/words-as-material) ###
+### [Putting Plain Language to the Test](/content-research-methods/) ###
+Our work has to be clear—for hundreds of millions of people. If we want to get as close to that as possible, we need to test our content and our assumptions along the way.
+
+### [Words as Material](/words-as-material/) ###
 I’ve noticed a huge gap between writers and designers in the professional world, and I think it contributes to the larger communication problems we face.
 
 ### [Interface Writing: Code for Humans](/interface-writing/) ###
@@ -18,12 +21,6 @@ We build systems to help real people, but are we being that helpful in our inter
 
 ### [Working With and Through Mental Illness](/working-with-and-through-mental-illness/) ###
 More people miss work from stress and anxiety than physical illness or injury. In this post, I share a few things that help me cope with stress and trauma while serving others as best as I can.
-
-### [Honest Marketing](/honest-marketing) ###
-Most marketing sucks. But you’re making something you love and care about, and it’s not going to sell itself. In this talk, I share principles and activities for writing honestly.
-
-### [Power and Responsibility](/power-and-responsibility/) ###
-Have you ever looked someone up in a database? Did you find what you were looking for?
 
 ### [Writing for Beginners](/writing-for-beginners/) ###
 What if writing comes from a place of *not knowing*, a place of exploration, seeking clarity, and wanting to communicate—a place for beginners?
@@ -33,14 +30,11 @@ What if writing comes from a place of *not knowing*, a place of exploration, see
 Business-writing: 
 
 * [Art of the Quiet Interface](/art-of-the-quiet-interface/)
+* [Honest Marketing](/honest-marketing)
+* [Manifesto](/manifesto/)
+* [Power and Responsibility](/power-and-responsibility/)
 * [Winning Tactics](/winning-tactics)
-* [Working in Technology](http://www.swellcontent.com/2013/04/working-in-technology/)
-* [Strategy for Small Brands](http://www.swellcontent.com/2012/12/small-brand-strategy/)
-* [Dreaming of Writing in Space](http://www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
-* [Working on Content with Developers](http://www.swellcontent.com/2012/04/working-with-developers/)
-* [I Want a World](http://www.swellcontent.com/2012/11/i-want-a-world/)
 * [Writing is Design](/writing-is-design/)
-* [Manifesto](/manifesto)
 
 ----
 
@@ -60,28 +54,28 @@ Whether you’re a writer, designer, developer, or business owner, this book is 
 
 Personal-writing: 
 
-* [Why I Write](/why-i-write/)
 * [First Year in New York](/first-year-in-new-york/)
-* [Geoffrey the Magnificent](/geoffrey-the-magnificent/)
 * [Two Stories](/two-stories/)
 * [On Feeding and Being Fed](http://www.bornhungrymag.com/2012/08/feeding/)
-* [Humble Beginnings](http://www.bornhungrymag.com/2012/06/humble-beginnings/)
-* [Summer Reading Picks](http://www.bornhungrymag.com/2014/06/summer-reading-picks/)
 * [Ginger Lemon Apple Cider](http://www.bornhungrymag.com/2013/12/ginger-lemon-apple-cider/)
+* [Humble Beginnings](http://www.bornhungrymag.com/2012/06/humble-beginnings/)
+* [Why I Write](/why-i-write/)
 
 ----
 
 Published-elsewhere: 
 
+[Content Strategy for User Onboarding](https://www.navapbc.com/toolkits/content-strategy-for-user-onboarding.html), Nava PBC
+
+[Notes on Accessibility Updates for Chorus](https://product.voxmedia.com/2019/7/31/20696395/chorus-accessibility-improvements), Vox Product
+
 [Copywriting Tips for Designers](https://medium.com/@jesseddy/tips-for-designers-to-become-better-copywriters-from-the-experts-part-1-cbd3720cbd88), Medium
 
-[A New Home for the Federal Plain Language Community](https://18f.gsa.gov/2018/02/22/new-home-for-the-federal-plain-language-community/), 18F Blog
+[A New Home for the Federal Plain Language Community](https://18f.gsa.gov/2018/02/22/new-home-for-the-federal-plain-language-community/), 18F
 
-[Three Ways to Manage Research Projects Remotely](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/), 18F Blog
+[Three Ways to Manage Research Projects Remotely](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/), 18F
 
-[Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/), 18F Blog
-
-[How to Say No](https://handbook.18f.gov/how-to-say-no/), 18F Handbook
+[Taking an Agile Approach to Content](https://18f.gsa.gov/2016/05/31/taking-an-agile-approach-to-content/), 18F
 
 [How to Write an About Page That Gets You Hired](https://99u.adobe.com/articles/51669/how-to-write-about-me-section), 99u
 
@@ -92,10 +86,6 @@ Published-elsewhere:
 [Wayfinding: Writing for Accessibility](https://webstandardssherpa.com/reviews/wayfinding-writing-for-accessibility/), Web Standards Sherpa
 
 [Space to Breathe](http://contentsmagazine.com/articles/space-to-breathe/), *Contents* Magazine
-
-[A Year of Ideas](https://the-pastry-box-project.net/baker/nicole-fenton), Pastry Box Project
-
-[Dear Web](http://archive.offscreenmag.com/issue5/), *Offscreen* Magazine
 
 [Content Strategy in the Fortune 500](https://web.archive.org/web/20150808052740/http://visitmix.com/writings/content-strategy-in-the-fortune-500), MIX Online
 

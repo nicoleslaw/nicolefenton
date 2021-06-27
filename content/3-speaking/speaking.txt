@@ -14,92 +14,71 @@ Past-events:
 
 ## Past Events ## {.list-section-title}
 
+### (link: https://www.eventbrite.com/e/new-book-launch-research-practice-with-gregg-bernstein-tickets-143623990221 text: IxDA NYC) ###
+Online, March 2021
+
+### [Georgetown Law School](https://www.law.georgetown.edu/) ###
+Online, January 2021
+
+### [Plain Language Summit](https://digital.gov/event/2020/10/27/plain-language-summit-2020/) ###
+Online, October 2020
+
 ### [School of Visual Arts](https://productsofdesign.sva.edu/) ###
-Guest Lecture, Products of Design
-via Hangouts, February 2018
+Online, February 2018
 
 ### [Mayor’s Office of Digital Strategy Social Media Day](https://www.eventbrite.com/e/meetteamdigi-social-media-day-2017-tickets-33258174094) ###
-*Voice and Tone: Writing with Feeling*
 New York, May 2017
 
 ### [Content Strategy NYC](https://www.meetup.com/cs-nyc/events/239047433/) ###
-*Everything in Context: Open Data Content Strategy*
 Brooklyn, May 2017
-[Slides](https://github.com/18F/crime-data-explorer/blob/master/presentations/NFenton_Open_Data_Content_Strategy.pdf), [Video](https://livestream.com/hugeinc/csmeetup/videos/155985285)
 
-### [Parsons](http://cdt.parsons.edu/) ###
-Guest Lecture, School of Design
+### [Parsons School of Design](http://cdt.parsons.edu/) ###
 New York, March 2017
 
-### [Civic Hall](http://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/) ###
-*How 18F Approaches Digital Strategy and Content Design*
+### [Civic Hall](https://civichall.org/events/how-18f-approaches-digital-strategy-and-content-design/) ###
 New York, July 2016
 
 ### [UXLx](//www.ux-lx.com) ###
-Interface Writing Workshop and *Words as Material*
 Lisbon, June 2015
-[Transcript](/words-as-material/)
 
 ### [99u](//conference.99u.com/) ###
-Conference Mentor
 New York, April–May 2015
 
-### [Makeshift Society](//legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) ###
-Writing About Yourself Workshop Series
-Brooklyn, March–April 2015
+### [Makeshift Society](https://web.archive.org/web/20160320130346/https://legacy.makeshiftsociety.com/event/planning-your-portfolio-strategy-for-small-brands-325-700pm-900pm/) ###
+Brooklyn, March–May 2015
 
 ### [Content Strategy NYC](http://www.hugeinc.com/events/content-strategist-event) ###
-Panelist, Editorial Strategy
 Brooklyn, March 2015
-[Video](http://livestream.com/hugeinc/events/3914728)
 
-### [RISD](http://www.risd-id.org/) ###
-Guest Lecture, School of Industrial Design
+### [RISD](https://www.risd.edu/academics/industrial-design/) ###
 Providence, March 2015
 
-### [Syracuse University](//newhouse.syr.edu/) ###
-Guest Lecture, School of Public Communications
-via Skype, February 2015
+### [Syracuse University](https://newhouse.syr.edu/) ###
+Online, February 2015
 
 ### [Triangle UXPA](//triuxpa.org/event-1794981) ###
-Interface Writing Workshop
 Raleigh, December 2014
 
 ### [Confab Higher Ed](//confabevents.com/events/higher-ed) ###
-Web Writing Workshop with Kate Kiefer Lee  
 Atlanta, November 2014
 
 ### [Nearly Impossible](//nearlyimpossible.org/conference/nyc/) ###
-Honest Marketing Workshop
 New York, October 2014
-[Slides](//speakerdeck.com/nicoleslaw/honest-marketing), [Transcript](/honest-marketing/)
 
 ### [Blend Conference](//blendconf.com) ###
-*Interface Writing: Code for Humans*
 Charlotte, September 2014
-[Slides](//speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/)
 
 ### [Burlington Ruby Conference](http://burlingtonrubyconference.com) ###
-*Interface Writing: Code for Humans*
 Burlington, August 2014
-[Slides](//speakerdeck.com/nicoleslaw/interface-writing-code-for-humans), [Transcript](/interface-writing/), [Video](//vimeo.com/103526258)
 
 ### [General Assembly](http://generalassemb.ly) ###
-Guest Lecture, User Experience Design Series
 New York, February and June 2014
-[Slides](//speakerdeck.com/nicoleslaw/designing-with-words)
 
 ### [Build Conference](http://2013.buildconf.com) ###
-*Writing for Beginners*
 Belfast, November 2013
-[Slides](//speakerdeck.com/nicoleslaw/writing-for-beginners), [Transcript](/writing-for-beginners/), [Video](https://youtu.be/cyWJ1UFjquo)
 
 ### [Confab London](//confabevents.com/past-events/london-2013/index.html) ###
-*Winning Tactics*
 London, March 2013
-[Slides](//speakerdeck.com/nicoleslaw/winning-tactics), [Transcript](/winning-tactics)
 
 ### [Content Strategy Forum](http://2011.csforum.eu) ###
-*The Intentional Strategist*
 London, September 2011
-[Slides](//speakerdeck.com/nicoleslaw/the-intentional-strategist), [Transcript](//www.swellcontent.com/2011/10/being-intentional/)

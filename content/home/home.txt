@@ -2,15 +2,15 @@ Title: Home
 
 ----
 
-Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ content strategist || researcher || information architect || creative director || educator || occasional speaker || extrovert for pay || typical Gemini || amateur photographer || curious home cook || tea drinker }}. She hosts workshops and works with {{ nice people || designers and developers || authors and editors }} on {{ websites || digital products || books, interfaces, }} and publishing projects.
+Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ senior content strategist || design manager || researcher || information architect || occasional speaker || extrovert for pay || typical Gemini || amateur photographer || curious home cook || home gardener || tea drinker }}. They host workshops and work with {{ nice people || designers and developers || authors and editors }} on {{ websites || digital products }} and publishing projects.
 
 ----
 
 Making: 
 
-* [Notes on Accessibility Updates for Chorus](https://product.voxmedia.com/2019/7/31/20696395/chorus-accessibility-improvements) 
-* [Three Ways to Manage Research Projects Remotely](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/)
+* [Content Strategy for User Onboarding](https://www.navapbc.com/toolkits/content-strategy-for-user-onboarding.html)
+* [Putting Plain Language to the Test ](https://www.nicolefenton.com/content-research-methods/)
 
 ----
 
-Reading: * [Sing, Unburied, Sing](https://www.indiebound.org/book/9781501126079)
+Reading: * [A Swim in a Pond in the Rain](https://www.penguinrandomhouse.com/books/609280/a-swim-in-a-pond-in-the-rain-by-george-saunders/)
