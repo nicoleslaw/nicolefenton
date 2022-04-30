@@ -1,0 +1,11 @@
+title: Speaking
+tabs:
+  # CONTENT
+  content: tabs/speaking
+
+  # Files
+  files: tabs/files
+
+  # SEO
+  seo: tabs/seo/meta
+

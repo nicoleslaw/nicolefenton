@@ -1,0 +1,7 @@
+title: About
+tabs:
+  # CONTENT
+  content: tabs/about
+
+  # SEO
+  seo: tabs/seo/meta

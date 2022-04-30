@@ -1,0 +1,10 @@
+title: What I Do
+tabs:
+  # CONTENT
+  content: tabs/what-i-do
+
+  # Files
+  files: tabs/files
+
+  # SEO
+  seo: tabs/seo/meta

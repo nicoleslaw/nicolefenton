@@ -1,0 +1,60 @@
+label: Writing List
+icon: text
+
+columns:
+  # CONTENT
+  left:
+    width: 2/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          lede:
+            label: Lede
+            type:  textarea
+          the_book:
+            label: The Book
+            type:  textarea
+            size:  large
+          featured_writing:
+            label: Featured Writing
+            type:  textarea
+            size:  large
+          business_writing:
+            label: Archived Writing
+            type:  textarea
+            size:  large
+          personal_writing:
+            label: Personal Writing
+            type:  textarea
+            size:  large
+          published_elsewhere:
+            label: Published Elsewhere
+            type:  textarea
+            size:  large
+          text:
+            label: Text
+            type:  textarea
+
+  right:
+    width: 1/3
+    sections:
+      # Pages
+      drafts:
+        headline: Drafts
+        type: pages
+        status: drafts
+        sortBy: title
+      listed:
+        headline: Listed
+        type: pages
+        unlisted: true
+        status: listed
+        sortBy: title
+      unlisted:
+        headline: Unlisted
+        type: pages
+        unlisted: true
+        status: unlisted
+        sortBy: title

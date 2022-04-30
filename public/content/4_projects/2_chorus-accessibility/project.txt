@@ -1,0 +1,48 @@
+Title: Chorus Accessibility
+
+----
+
+Lede:
+
+----
+
+Text:
+
+I wrote the (link: https://www.voxmedia.com/accessibility text: Chorus accessibility statement) and created modular training for editorial teams to help meet a company-wide commitment to inclusivity. The curriculum includes topic-based accessibility guidelines for text, images, videos, audio files and podcasts, tables, motion, and color contrast.
+
+(image: accessibility-statement.png alt: Screenshot of voxmedia.com/accessibility)
+
+I developed videos and a longform explainer to demonstrate how screen readers work when reading stories, navigating by heading level, and announcing various combinations of alt text, captions, and image credits from Chorus. Throughout the process, I worked closely with [Ethan Marcotte](https://ethanmarcotte.com/) and accessibility experts at [PAC](https://pac.bz/) to ensure the materials were accurate and thorough.
+
+Learn more about the updates we made to the Chorus platform on the (link: https://product.voxmedia.com/2019/7/31/20696395/chorus-accessibility-improvements#Tw3o2k text: Vox Product blog).
+
+----
+
+Project-lede: In 2019, I worked on a series of communications and training efforts to help Vox Media meet a company and platform-wide commitment to accessibility.
+
+----
+
+Tags: writing, strategy
+
+----
+
+Testimonial:
+
+----
+
+Site: https://www.voxmedia.com/accessibility
+
+----
+
+Year: 2019
+
+----
+
+Company-name: Vox Media
+
+----
+
+Services:
+
+- Content Design
+- Writing and Editing

@@ -1,0 +1,23 @@
+label: Speaking
+icon: text
+
+columns:
+  # CONTENT
+  left:
+    width: 3/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          lede:
+            label: Lede
+            type:  textarea
+          upcoming_events:
+            label: Upcoming Events
+            type:  textarea
+            size:  large
+          past_events:
+            label: Past Events
+            type:  textarea
+            size:  large

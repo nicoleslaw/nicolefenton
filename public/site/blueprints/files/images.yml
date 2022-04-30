@@ -1,0 +1,25 @@
+title:                 Images
+
+
+
+tabs:
+
+  # BASIC
+  basic:
+    label:             Basic
+    icon:              text
+    columns:
+
+      # LEFT COLUMN
+      left:
+        width:         3/3
+        sections:
+          meta:
+            type:      fields
+            fields:
+              alt:
+                label: Alt
+                type:  text
+              caption:
+                label: Caption
+                type:  textarea

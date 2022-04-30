@@ -1,0 +1,15 @@
+label: Content
+icon: text
+
+columns:
+  # CONTENT
+  left:
+    width: 3/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          pagetext:
+            label: Content
+            type: textarea

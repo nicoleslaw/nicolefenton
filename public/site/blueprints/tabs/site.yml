@@ -1,0 +1,50 @@
+label: Site Meta
+icon: globe
+
+columns:
+  # CONTENT
+  left:
+    width: 2/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          about:
+            label: About
+            type: textarea
+          clients:
+            label: Clients
+            type: textarea
+          address:
+            label: Address
+            type: textarea
+          credits:
+            label: Credits
+            type: textarea
+
+          copyright:
+            label: Copyright
+            type: textarea
+
+  right:
+    width: 1/3
+    sections:
+      # FIELDS
+      meta:
+        type: fields
+        fields:
+          author:
+            label: Author
+            type: text
+          googleauthor:
+            label: Google Author
+            type: text
+
+          twitter:
+            label: Twitter
+            type: text
+
+          version:
+            label: Version
+            type: text

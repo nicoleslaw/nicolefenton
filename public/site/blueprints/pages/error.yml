@@ -1,0 +1,12 @@
+title:     Error
+
+tabs:
+
+  # CONTENT
+  content: tabs/error
+
+  # SEO
+  seo: tabs/seo/meta
+  
+  # PAGE FILES
+  files:   tabs/files

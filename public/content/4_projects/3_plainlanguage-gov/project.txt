@@ -1,0 +1,65 @@
+Title: plainlanguage.gov
+
+----
+
+Project-lede: I directed the redesign of [plainlanguage.gov](https://plainlanguage.gov/), an online resource for civil servants and government agencies.
+
+----
+
+Lede: I pitched and directed the redesign of [plainlanguage.gov](https://plainlanguage.gov/).
+
+----
+
+Testimonial: 
+
+----
+
+Text:
+
+(image: plainlanguage.gov.png alt: Screenshot of plainlanguage.gov )
+
+We built the site with [Federalist](https://federalist.18f.gov/), [Jekyll](https://jekyllrb.com/), and the [U.S. Web Design System](https://designsystem.digital.gov/). This project was a collaborative interagency effort with the [Plain Language Action and Information Network](https://plainlanguage.gov/about/) (PLAIN), [DigitalGov](https://www.digitalgov.gov/about/), and [18F](https://18f.gsa.gov/).
+
+Learn more about the project in my [interview with PLAIN](https://18f.gsa.gov/2018/02/22/new-home-for-the-federal-plain-language-community/).
+
+----
+
+Services:
+
+- Creative Direction
+- Information Architecture
+- Strategy
+- Editing
+- Research
+
+----
+
+Tags: strategy
+
+----
+
+Site: https://plainlanguage.gov/
+
+----
+
+Year: 2017
+
+----
+
+Company-name: General Services Administration
+
+----
+
+Seotitle: 
+
+----
+
+Seotags: 
+
+----
+
+Seometa: 
+
+----
+
+Shareimage: 

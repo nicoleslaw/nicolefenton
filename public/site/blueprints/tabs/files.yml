@@ -1,0 +1,19 @@
+label: Files
+icon: file
+columns:
+  # main
+  left:
+    width: 3/3
+    sections:
+      # files
+      imagefiles:
+        headline: Image Files
+        type: files
+        template: images
+        layout: cards
+        sortBy: title
+        size: medium
+        image:
+          cover: true
+          back: black
+          ratio: 16/9

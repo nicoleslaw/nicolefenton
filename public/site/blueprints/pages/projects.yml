@@ -1,0 +1,7 @@
+title: Projects
+tabs:
+  # CONTENT
+  content: tabs/projects
+
+  # SEO
+  seo: tabs/seo/meta

@@ -1,0 +1,48 @@
+label: Project
+icon: text
+
+columns:
+  # CONTENT
+  left:
+    width: 2/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          project_lede:
+            label: Project Lede
+            type: textarea
+          lede:
+            label: Lede
+            type: textarea
+          testimonial:
+            label: Testimonial
+            type: textarea
+          text:
+            label: Text
+            type: textarea
+            size: large
+          services:
+            label: Services
+            type: textarea
+
+  right:
+    width: 1/3
+    sections:
+      # FIELDS
+      meta:
+        type: fields
+        fields:
+          tags:
+            label: Tags
+            type: text
+          site:
+            label: Site
+            type: text
+          year:
+            label: Year
+            type: text
+          company_name:
+            label: Company Name
+            type: text

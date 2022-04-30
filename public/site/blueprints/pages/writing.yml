@@ -1,0 +1,10 @@
+title: Writing List
+tabs:
+  # CONTENT
+  content: tabs/writing
+
+  # Files
+  files: tabs/files
+
+  # SEO
+  seo: tabs/seo/meta

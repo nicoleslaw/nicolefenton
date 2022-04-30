@@ -1,0 +1,27 @@
+label: What I Do
+icon: text
+
+columns:
+  # CONTENT
+  left:
+    width: 3/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          lede:
+            label: Lede
+            type:  textarea
+          text:
+            label: Text
+            type:  textarea
+            size:  large
+          services:
+            label: Services
+            type:  textarea
+            size:  large
+          process:
+            label: Process
+            type:  textarea
+            size:  large

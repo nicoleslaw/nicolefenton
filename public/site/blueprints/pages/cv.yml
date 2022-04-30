@@ -1,0 +1,7 @@
+title: CV
+tabs:
+  # CONTENT
+  content: tabs/cv
+
+  # SEO
+  seo: tabs/seo/meta

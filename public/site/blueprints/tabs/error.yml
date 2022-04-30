@@ -1,0 +1,16 @@
+label: Error
+icon: text
+
+columns:
+  # CONTENT
+  left:
+    width: 3/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          text:
+            label: Text
+            type:  textarea
+            size:  large

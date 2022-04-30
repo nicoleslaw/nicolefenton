@@ -1,0 +1,30 @@
+{
+    "name": "hashandsalt/nicolefenton",
+    "description": "A site for Nicole Fenton",
+    "type": "project",
+    "keywords": [
+        "kirby",
+        "cms"
+    ],
+    "homepage": "https://nicolefenton.com",
+    "authors": [
+        {
+            "name": "James Steel",
+            "email": "hello@hashandsalt.com",
+            "homepage": "https://hashandsalt.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "getkirby/cms": "^3.5.0",
+        "hashandsalt/kirby3-seo": "^1.0",
+        "schnti/cachebuster": "^1.0",
+        "hashandsalt/kirby3-schema": "^0.0.2"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
+    }
+}

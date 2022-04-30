@@ -1,0 +1,22 @@
+label: Content
+icon: text
+
+columns:
+  # CONTENT
+  left:
+    width: 3/3
+    sections:
+      # FIELDS
+      content:
+        type: fields
+        fields:
+          home_bio:
+            label: Home Bio
+            type:  textarea
+            size:  large
+          making:
+            label: Making
+            type:  textarea
+          reading:
+            label: Reading
+            type:  textarea

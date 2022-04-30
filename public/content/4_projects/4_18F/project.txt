@@ -1,0 +1,81 @@
+Title: 18F
+
+----
+
+Project-lede: In my 2.5 years at 18F, I worked on a wide range of research and content strategy projects.
+
+----
+
+Lede: [18F](https://18f.gsa.gov) is an innovative product team within the federal government.
+
+----
+
+Testimonial: 
+
+----
+
+Text:
+
+As an experience design supervisor, I managed a distributed team of nine content designers. My supervisory duties included scoping design projects, facilitating staffing decisions, coaching my team through difficult situations, developing hiring and performance criteria, recommending professional development opportunities, jumping through bureaucratic hoops, and promoting content strategy as a core design discipline.
+
+Along with leading a team, I worked on billable projects such as:
+
+* [plainlanguage.gov](https://www.plainlanguage.gov)
+* [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov/)
+* [worker.gov](https://www.worker.gov/)
+* [Best practices in government digital transformation](https://github.com/18F/transformation-research)
+* [clinicaltrials.gov](https://clinicaltrials.gov/)
+* [dotgov.gov](https://home.dotgov.gov)
+* [Medicaid funding request app](https://github.com/18F/cms-hitech-apd)
+* [Natural Resources Revenue Data](https://useiti.doi.gov/)
+
+As part of these efforts, I led interviews and usability sessions with policymakers, program managers, journalists, technical experts, and members of the public. I hosted content workshops with stakeholders and wrote all sorts of recommendations, [design principles](https://github.com/18F/crime-data-explorer/wiki/Experience-Principles), and research reports.
+
+Shortly after becoming a supervisor, I led an unconference session about fostering resilience and mental health in the workplace. (I wrote [this personal essay](http://nicolefenton.com/working-with-and-through-mental-illness/) beforehand.)
+
+I am also a core contributor to the [18F Content Guide](https://content-guide.18f.gov/). In 2016, I edited and reorganized the guide so it’s easier to read, understand, and add to in the future.
+
+As the 18F onboarding lead, I helped launch the [18F Handbook](https://handbook.18f.gov/), developed a roadmap for new hire training, managed Slack-based classes, and helped develop an [open source checklist tool](https://18f.gsa.gov/2016/04/21/checklistomania-makes-it-easy-to-keep-track-of-relative-tasks/).
+
+----
+
+Services:
+
+- Leadership
+- Creative Direction
+- Content Design
+- Research
+- Strategy
+- Writing and Editing
+
+----
+
+Tags: design, research, strategy, writing, editing
+
+----
+
+Site: https://18f.gsa.gov
+
+----
+
+Year: 2015–2018
+
+----
+
+Company-name: General Services Administration
+
+----
+
+Seotitle: 
+
+----
+
+Seotags: 
+
+----
+
+Seometa: 
+
+----
+
+Shareimage: 
