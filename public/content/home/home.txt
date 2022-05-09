@@ -2,11 +2,15 @@ Title: Home
 
 ----
 
-Pagetext: 
+Home-bio: Nicole Fenton is {{ a writer || an author }}, researcher, and {{ information architect || experience designer || strategic consultant || occasional speaker || extrovert for pay || typical Gemini || curious home cook || vegetable gardener || tea drinker }}. They host workshops and work with {{ nice people || clients || agencies and nonprofits || product teams || designers and developers }} on {{ websites || digital services || research }} and publishing projects.
 
 ----
 
-Seotitle: Nicole Fenton
+Making: * [Letters from Nicole](https://nicolefenton.eo.page/subscribe)
+
+----
+
+Reading: * [Know My Name](https://www.penguinrandomhouse.com/books/553663/know-my-name-by-chanel-miller/)
 
 ----
 
@@ -14,23 +18,8 @@ Seotags:
 
 ----
 
-Seometa: Nicole Fenton is a writer, editor, and senior content strategist. They host workshops and work with nice people on websites and publishing projects.
+Seometa: Nicole Fenton is a writer, editor, and senior content strategist. They host workshops and work with nice people on websites and publtishing projects.
 
 ----
 
 Shareimage: 
-
-----
-
-Home-bio: Nicole Fenton is {{ a writer || an author }}, editor, and {{ senior content strategist || design manager || researcher || information architect || occasional speaker || extrovert for pay || typical Gemini || amateur photographer || curious home cook || home gardener || tea drinker }}. They host workshops and work with {{ nice people || designers and developers || authors and editors }} on {{ websites || digital products }} and publishing projects.
-
-----
-
-Making:
-
-* [Content Strategy for User Onboarding](https://www.navapbc.com/toolkits/content-strategy-for-user-onboarding.html)
-* [Putting Plain Language to the Test ](https://www.nicolefenton.com/content-research-methods/)
-
-----
-
-Reading: * [A Swim in a Pond in the Rain](https://www.penguinrandomhouse.com/books/609280/a-swim-in-a-pond-in-the-rain-by-george-saunders/)

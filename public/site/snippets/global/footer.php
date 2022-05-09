@@ -13,7 +13,7 @@
         <div class="footer-links">
           <div class="footer_wrap">
             <?= snippet("global/linklist") ?>
-            <?= snippet("global/newslettersignup"); ?>
+            <?php /* snippet("global/newslettersignup"); */ ?>
           </div>
         </div>
       </div>
@@ -21,10 +21,8 @@
 
   </div><?php /* <!-- .body-wrap --> */ ?>
 
-
   <?= js('assets/js/plugins.js') ?>
   <?= js('assets/js/main.js') ?>
-
 
 </body>
 </html>

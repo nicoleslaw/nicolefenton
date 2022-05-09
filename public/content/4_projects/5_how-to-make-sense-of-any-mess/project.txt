@@ -2,6 +2,25 @@ Title: How to Make Sense of Any Mess
 
 ----
 
+Year: 2014
+
+----
+
+Tags: editing
+
+----
+
+Site: http://abbytheia.com/makesense/
+
+----
+
+Services: 
+
+- Developmental Editing
+- Copyediting
+
+----
+
 Project-lede: I edited [Abby Covert](http://abbytheia.com/makesense/)’s first book, a fantastic guide to information architecture for everyone.
 
 ----
@@ -10,11 +29,7 @@ Lede: I edited [Abby Covert](http://abbytheia.com/makesense/)’s guide to infor
 
 ----
 
-Testimonial: 
-
-----
-
-Text:
+Text: 
 
 (image: makesense.jpg alt: How to Make Sense of Any Mess cover)
 
@@ -36,39 +51,8 @@ She took one more pass at the manuscript, typeset it with her illustrations, and
 
 ----
 
-Services:
-
-- Developmental Editing
-- Copyediting
-
-----
-
-Tags: editing
-
-----
-
-Site: http://abbytheia.com/makesense/
-
-----
-
-Year: 2014
+Testimonial: 
 
 ----
 
 Company-name: 
-
-----
-
-Seotitle: 
-
-----
-
-Seotags: 
-
-----
-
-Seometa: 
-
-----
-
-Shareimage: 

@@ -2,25 +2,11 @@ Title: Writing
 
 ----
 
-Lede:
+Lede: 
 
 ----
 
-The-book:
-
-## The Book ## {.list-section-title}
-
-(image: nicely_said.jpg alt: Nicely Said Cover)
-
-### *[Nicely Said: Writing for the Web with Style and Purpose](//nicelysaid.co)* ###
-
-Whether you’re a writer, designer, developer, or business owner, this book is for you. Kate Kiefer Lee and I share our methods for developing clear, friendly, and useful content in what *.net* Magazine calls a “fantastic, practical, and elegant guide to improving your web writing.”
-
-- [Buy the Book](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)
-
-----
-
-Featured-writing:
+Featured-writing: 
 
 ## Featured Writing ## {.list-section-title}
 
@@ -41,21 +27,33 @@ What if writing comes from a place of *not knowing*, a place of exploration, see
 
 ----
 
-Business-writing:
+Business-writing: 
 
 * [Art of the Quiet Interface](/art-of-the-quiet-interface/)
 * [Honest Marketing](/honest-marketing)
-* [Manifesto](/manifesto/)
 * [Power and Responsibility](/power-and-responsibility/)
 * [Winning Tactics](/winning-tactics)
 * [Writing is Design](/writing-is-design/)
 
 ----
 
-Personal-writing:
+The-book: 
+
+## The Book ## {.list-section-title}
+
+(image: nicely_said.jpg alt: Nicely Said Cover)
+
+### *[Nicely Said: Writing for the Web with Style and Purpose](//nicelysaid.co)* ###
+
+Whether you’re a writer, designer, developer, or business owner, this book is for you. Kate Kiefer Lee and I share our methods for developing clear, friendly, and useful content in what *.net* Magazine calls a “fantastic, practical, and elegant guide to improving your web writing.”
+
+- [Buy the Book](//www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20)
+
+----
+
+Personal-writing: 
 
 * [First Year in New York](/first-year-in-new-york/)
-* [Two Stories](/two-stories/)
 * [On Feeding and Being Fed](http://www.bornhungrymag.com/2012/08/feeding/)
 * [Ginger Lemon Apple Cider](http://www.bornhungrymag.com/2013/12/ginger-lemon-apple-cider/)
 * [Humble Beginnings](http://www.bornhungrymag.com/2012/06/humble-beginnings/)
@@ -63,7 +61,7 @@ Personal-writing:
 
 ----
 
-Published-elsewhere:
+Published-elsewhere: 
 
 [Content Strategy for User Onboarding](https://www.navapbc.com/toolkits/content-strategy-for-user-onboarding.html), Nava PBC
 
@@ -87,24 +85,6 @@ Published-elsewhere:
 
 [Space to Breathe](http://contentsmagazine.com/articles/space-to-breathe/), *Contents* Magazine
 
-[Content Strategy in the Fortune 500](https://web.archive.org/web/20150808052740/http://visitmix.com/writings/content-strategy-in-the-fortune-500), MIX Online
-
 ----
 
-Text:
-
-----
-
-Seotitle: Writing
-
-----
-
-Seotags:
-
-----
-
-Seometa: Writing
-
-----
-
-Shareimage:
+Text: 

@@ -2,6 +2,29 @@ Title: 18F
 
 ----
 
+Year: 2015–2018
+
+----
+
+Tags: design, research, strategy, writing, editing
+
+----
+
+Site: https://18f.gsa.gov
+
+----
+
+Services: 
+
+- Leadership
+- Creative Direction
+- Content Design
+- Research
+- Strategy
+- Writing and Editing
+
+----
+
 Project-lede: In my 2.5 years at 18F, I worked on a wide range of research and content strategy projects.
 
 ----
@@ -10,11 +33,7 @@ Lede: [18F](https://18f.gsa.gov) is an innovative product team within the federa
 
 ----
 
-Testimonial: 
-
-----
-
-Text:
+Text: 
 
 As an experience design supervisor, I managed a distributed team of nine content designers. My supervisory duties included scoping design projects, facilitating staffing decisions, coaching my team through difficult situations, developing hiring and performance criteria, recommending professional development opportunities, jumping through bureaucratic hoops, and promoting content strategy as a core design discipline.
 
@@ -39,43 +58,8 @@ As the 18F onboarding lead, I helped launch the [18F Handbook](https://handbook.
 
 ----
 
-Services:
-
-- Leadership
-- Creative Direction
-- Content Design
-- Research
-- Strategy
-- Writing and Editing
-
-----
-
-Tags: design, research, strategy, writing, editing
-
-----
-
-Site: https://18f.gsa.gov
-
-----
-
-Year: 2015–2018
+Testimonial: 
 
 ----
 
 Company-name: General Services Administration
-
-----
-
-Seotitle: 
-
-----
-
-Seotags: 
-
-----
-
-Seometa: 
-
-----
-
-Shareimage: 

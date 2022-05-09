@@ -10,7 +10,7 @@ Pubdate: April 12, 2012
 
 ----
 
-Text:
+Text: 
 
 (image: quiet_home.png alt: Bon Appétit Home caption: Bon Appétit’s homepage.)
 
@@ -116,7 +116,7 @@ your friends are reading.</li>
 	<li>Medium-length recipes and menus</li>
 	<li>Quick instructional videos and slideshows</li>
 	<li>Bite-sized tips and status updates</li>
-</ul>
+	</ul>
 
 <p>With this much variety in topics, depth, and breadth, planning the content’s timing is imperative.
 Longer reads deserve slow consideration. Recipes may take even longer; though the sentences may be
@@ -183,7 +183,7 @@ the brand of salt and link to a <a href="//www.bonappetit.com/blogsandforums/blo
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -194,4 +194,4 @@ Footnotes:
 
 ----
 
-Header-image:
+Header-image: 

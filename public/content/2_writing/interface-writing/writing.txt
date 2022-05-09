@@ -6,7 +6,7 @@ Lede: I gave this talk at <a href="//burlingtonrubyconference.com">Burlington Ru
 
 ----
 
-Text:
+Text: 
 
 The web and the world are full of instructions. Everywhere you go, signs and people are telling you what to do.
 
@@ -86,7 +86,7 @@ Dr. Sbaitso would tell me what to do and I’d tell him about my 9-year-old prob
 
 And then he would ask, “Why are you bored?” or “Are you sure you are bored?” And then I would say, yes, I’m sure and start repeating myself. Next thing I know, he’s shouting a zen koan at me like this:
 
-(image: interfaces15.png alt: zen ko)
+(image: interfaces15.png alt: zen koan"></figure>
 
 And this would result in me having a tiny existential freakout. I would get sick of that topic and switch over to cussing or saying something inappropriate. And if I did that long enough, Dr. Sbaitso would throw a [parity error](https://www.youtube.com/watch?v=1GaWfCWcW3M).
 
@@ -269,7 +269,7 @@ Thank you.
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -288,4 +288,4 @@ Pubdate: August 2, 2014
 
 ----
 
-Header-image:
+Header-image: 

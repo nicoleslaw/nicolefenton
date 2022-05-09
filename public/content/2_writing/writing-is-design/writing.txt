@@ -6,9 +6,11 @@ Lede: This was originally posted on the <a href="https://web.archive.org/web/201
 
 ----
 
-Text:
+Pubdate: June 17, 2010
 
-Writing is design. Writers design stories and communicate with words. You need a story to connect people with your site or application. Clear, effective copy involves and informs.
+----
+
+Text: Writing is design. Writers design stories and communicate with words. You need a story to connect people with your site or application. Clear, effective copy involves and informs.
 
 (image: designelements.png alt: Design Elements, illustration by Mike Monteiro)
 
@@ -37,31 +39,3 @@ Writers inform people about companies and products with language, structure, ima
 When I write a refund policy, hover message, error message, FAQ, or tagline, I design the story. Writing, like interface design, is shaped by a series of decisions. It shows what a company chooses to say and chooses not to say to customers. Writing influences perception and understanding. Writing shapes the experience.
 
 Good writing takes strategic-thinking, research, focus, testing, and editing. We plan, pattern, create, and compose; all of these acts are part of the design process.
-
-----
-
-Footnotes: 
-
-----
-
-Pubdate: June 17, 2010
-
-----
-
-Header-image: 
-
-----
-
-Seotitle: 
-
-----
-
-Seotags: 
-
-----
-
-Seometa: 
-
-----
-
-Shareimage: 

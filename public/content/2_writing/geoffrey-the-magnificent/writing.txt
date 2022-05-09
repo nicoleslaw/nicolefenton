@@ -6,7 +6,11 @@ Lede: To celebrate Geoffrey’s 11th birthday, I wrote this for <a href="http://
 
 ----
 
-Text:
+Pubdate: September 24, 2013
+
+----
+
+Text: 
 
 Are there any animals that have changed your life? Do you have pets? What do they mean to you?
 
@@ -26,28 +30,8 @@ It was hard to write about him without picking him up, so he’s in my lap now, 
 
 ----
 
-Footnotes:
+Footnotes: 
 
 ----
 
-Pubdate: September 24, 2013
-
-----
-
-Header-image:
-
-----
-
-Seotitle: Geoffrey the Magnificent
-
-----
-
-Seotags:
-
-----
-
-Seometa: To celebrate Geoffrey’s 11th birthday, I wrote this for  my newsletter.
-
-----
-
-Shareimage:
+Header-image: 

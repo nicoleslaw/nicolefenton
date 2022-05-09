@@ -6,7 +6,7 @@ Lede: In 2013, I had the honor of speaking at <a href="//2013.buildconf.com">Bui
 
 ----
 
-Text:
+Text: 
 
 <p>Today, I want to talk about writing as a practice—as something beginners do—and how that relates to design.</p>
 
@@ -271,7 +271,7 @@ Language is a shortcut. It’s also a time warp and a sort of immortality. And t
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -290,19 +290,3 @@ Pubdate: November 14, 2013
 ----
 
 Header-image: 
-
-----
-
-Seotitle: 
-
-----
-
-Seotags: 
-
-----
-
-Seometa: 
-
-----
-
-Shareimage: 

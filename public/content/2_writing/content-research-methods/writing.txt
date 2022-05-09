@@ -2,7 +2,7 @@ Title: Putting Plain Language to the Test
 
 ----
 
-Lede:
+Lede: 
 
 <p>I gave this talk at the <a href="https://digital.gov/event/2020/10/27/plain-language-summit-2020/">Plain Language Summit</a> in October 2020.</p>
 
@@ -10,7 +10,7 @@ Lede:
 
 ----
 
-Text:
+Text: 
 
 Katherine asked me to share some of the thinking behind the [plainlanguage.gov redesign](https://www.nicolefenton.com/projects/plainlanguage-gov/). I had an opportunity to work closely with her and PLAIN during my time at 18F. I thought it might be helpful to start with a brief history of the project, and then walk through some of the content research practices that I bring to my work.
 
@@ -277,7 +277,11 @@ If you have other ways of testing your content and your assumptions, I’d love 
 
 ----
 
-Footnotes:
+Pubdate: October 29, 2020
+
+----
+
+Footnotes: 
 
 <h2>Further Reading</h2>
 <ul>
@@ -291,24 +295,4 @@ Footnotes:
 
 ----
 
-Pubdate: October 29, 2020
-
-----
-
 Header-image: 
-
-----
-
-Seotitle: 
-
-----
-
-Seotags: 
-
-----
-
-Seometa: 
-
-----
-
-Shareimage: 

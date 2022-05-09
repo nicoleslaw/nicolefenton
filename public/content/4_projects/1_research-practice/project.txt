@@ -10,11 +10,15 @@ Lede: I worked closely with Gregg Bernstein as the editor of his book, [Research
 
 ----
 
-Testimonial:
+Tags: editing
 
 ----
 
-Text:
+Testimonial: 
+
+----
+
+Text: 
 
 (image: img_4705.jpg alt: The cover of Research Practice by Gregg Bernstein)
 
@@ -30,18 +34,6 @@ I have so many other things to say about this process and this book, but for now
 
 ----
 
-Services:
-
-- Developmental Editing
-- Copyediting
-- Naming
-
-----
-
-Tags: editing
-
-----
-
 Site: http://gregg.io/book/
 
 ----
@@ -54,18 +46,8 @@ Company-name: Greggcorp LLC
 
 ----
 
-Seotitle: Research Practice
+Services: 
 
-----
-
-Seotags:
-
-----
-
-Seometa: When Gregg reached out to me about this project in early 2017, he had an outline—a seed of a book that sprouted from a popular talk he gave at conferences.
-
-----
-
-Shareimage:
-
-- img_4705.jpg
+- Developmental Editing
+- Copyediting
+- Naming

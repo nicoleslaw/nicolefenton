@@ -2,7 +2,7 @@ Title: Nicole Fenton
 
 ----
 
-About: Nicole Fenton is an editor, researcher, and strategist. They design with words.
+About: Nicole Fenton is a writer, design leader, and UX consultant based in Virginia.
 
 ----
 
@@ -10,7 +10,7 @@ Author: Nicole Fenton | nicolefenton.com
 
 ----
 
-Copyright: © 2013–2021 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
+Copyright: © 2013–2022 (email: nicole@nicolefenton.com text: Nicole Fenton). All rights reserved.
 
 ----
 
@@ -18,11 +18,11 @@ Twitter: @nicoleslaw
 
 ----
 
-Address: *For general inquiries or advising, please email (email: nicole@nicolefenton.com).*
+Address: *For project inquiries or advising, please email (email: nicole@nicolefenton.com).*
 
 ----
 
-Credits: Website by (link: / text: Fenton), (link: https://maxfenton.com text: Fenton), & (link: http://armbrust.co text: Armbrust).
+Credits: Website by (link: / text: Fenton), (link: https://maxfenton.com text: Fenton), and (link: http://armbrust.co text: Armbrust).
 
 ----
 
@@ -34,18 +34,20 @@ Clients:
 
 ## Select Clients ## {.list-section-title}
 
-- 45ROYALE
 - A BOOK APART
 - COMPASS
+- DEPARTMENT OF JUSTICE
+- DEPARTMENT OF LABOR
 - ENOUGH PEPPER
 - HAPPY COG
 - LAB ZERO
 - MACMILLAN PUBLISHERS
 - MICROSOFT
+- NATIONAL LIBRARY OF MEDICINE
+- O'REILLY MEDIA
 - PINTEREST
+- POSTLIGHT
 - PROPUBLICA
-- SAFARI BOOKS ONLINE
-- WESTRA & CO.
 - WISHBONE.ORG
 
 ----

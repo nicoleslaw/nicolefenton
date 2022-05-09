@@ -14,7 +14,7 @@ Text:
 
 Staying productive is incredibly difficult when you’re living with a mental illness, sleep deprived, taking care of a loved one, grieving, or overstimulated from reading the news. Right now, I am struggling with all of the above. I have complex post traumatic stress disorder (C-PTSD), and the past year has pushed my symptoms back up to distracting levels.
 
-This isn’t new. I’ve been dealing with anxiety and depression for over 20 years. One thing that keeps me productive is work itself. I realize that work doesn’t solve everything, and it’s not a treatment plan. But it has given me something to focus on when I’ve needed it most: a deadline or a marker in the distance. From school work, food service, and retail, to customer service and design jobs, it is not an understatement to say that goals and assignments have kept me alive.
+This isn’t new. I’ve been dealing with anxiety and depression for over 20 years. One thing that keeps me productive is work itself. I realize that work doesn’t solve everything, and it’s not a treatment plan. But it has given me something to focus on when I’ve needed it most: a deadline or a marker in the distance. From school work, food service, and retail, to customer service and design jobs, it is not an exaggeration to say that goals and assignments have kept me alive.
 
 Work has always been my primary coping mechanism. It gives me a sense of purpose when I’m feeling restless or worthless. It helped me through tough adolescent years and a decade of misdiagnoses. It gives me something to identify with beyond illness, like being a writer, for example. And it reminds me that there are plenty of more interesting things to think about than myself—namely, helping other people.
 
@@ -28,7 +28,7 @@ As I look ahead to the coming year, I wanted to share a few things that help me 
 
 **Take note of things you want to do.** Listen to yourself without judgment. Jot down questions people ask you, and try to find themes within them. Focus on things you can control. If you’re feeling keyed up, empty your heart into an unsendable letter. Read it in the morning. [Set goals](https://www.nami.org/Blogs/NAMI-Blog/April-2016/Five-Ways-to-Stay-Productive-During-Depression#sthash.ufmdbdd9.dpuf) that you’re excited to work on. Give yourself space to daydream.
 
-**Do one thing at a time, and do it slowly.** Treat your attention as a valuable resource. Block off the first two hours of your day so you can concentrate. Experiment with [structuring your time](http://jessicahische.is/thinkingthoughtsonscheduling). If you’re feeling rushed, communicate more. Resist the urge to keep up with everything. [Practice saying no](https://handbook.18f.gov/how-to-say-no/). Choose a few things you can actually do today. And then just do them. One at a time. Slowly.
+**Do one thing at a time, and do it slowly.** Treat your attention as a valuable resource. Block off the first two hours of your day so you can concentrate. Experiment with [structuring your time](http://jessicahische.is/thinkingthoughtsonscheduling). If you’re feeling rushed, communicate more. Resist the urge to keep up with everything. [Practice saying no](https://web.archive.org/web/20190602212356/https://handbook.18f.gov/how-to-say-no/). Choose a few things you can actually do today. And then just do them. One at a time. Slowly.
 
 **Find quiet or make quiet.** If you find yourself getting overwhelmed with interruptions or distractions, step away for a while. Make tea or get a snack. Drink water. Look outside. Better yet, go outside. Move your feet. Listen to one of your favorite albums. Lie down if you need to. Remember your body and your breath.
 
@@ -45,13 +45,12 @@ Footnotes:
 * [Five Ways to Stay Productive During Depression](https://www.nami.org/Blogs/NAMI-Blog/April-2016/Five-Ways-to-Stay-Productive-During-Depression)
 * [Living with a Mental Health Condition](https://www.nami.org/Find-Support/Living-with-a-Mental-Health-Condition)
 * [Mental Health First Aid](https://www.mentalhealthfirstaid.org/cs/)
-* [Mental Health Problems in the Workplace](http://www.health.harvard.edu/newsletter_article/mental-health-problems-in-the-workplace)
 * [Mental Health and Work: Impact, Issues, and Good Practices](http://www.who.int/mental_health/media/en/712.pdf)
-* [A Mentally Healthy Workforce](http://www.workplacementalhealth.org/Business-Case/The-Business-Case-Brochure.aspx?FT=.pdf)
-* [Coping at Work](http://www.depressiontoolkit.org/takecare/Coping_at_work.asp)
+* [A Mentally Healthy Workforce](https://workplacementalhealth.org/making-the-business-case)
 * [Depression at Work](http://www.rightdirectionforme.com/DepressionatWork.html)
 * [Self Care and Peer Support](http://dartcenter.org/topic/self-care-peer-support)
 * [What Google Learned from Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+* [It’s a New Era for Mental Health at Work](https://hbr.org/2021/10/its-a-new-era-for-mental-health-at-work)
 
 ----
 

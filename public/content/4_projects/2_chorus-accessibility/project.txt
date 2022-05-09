@@ -2,11 +2,11 @@ Title: Chorus Accessibility
 
 ----
 
-Lede:
+Lede: 
 
 ----
 
-Text:
+Text: 
 
 I wrote the (link: https://www.voxmedia.com/accessibility text: Chorus accessibility statement) and created modular training for editorial teams to help meet a company-wide commitment to inclusivity. The curriculum includes topic-based accessibility guidelines for text, images, videos, audio files and podcasts, tables, motion, and color contrast.
 
@@ -26,7 +26,7 @@ Tags: writing, strategy
 
 ----
 
-Testimonial:
+Testimonial: 
 
 ----
 
@@ -42,7 +42,7 @@ Company-name: Vox Media
 
 ----
 
-Services:
+Services: 
 
 - Content Design
 - Writing and Editing

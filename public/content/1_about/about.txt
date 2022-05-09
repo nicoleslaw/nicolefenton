@@ -6,21 +6,25 @@ Text:
 
 ## Hello ## {.list-section-title}
 
-I’m a senior product writer, design manager, and researcher based in central Virginia. I work on critical government services for the public at [Nava](https://www.navapbc.com/).
+I’m Nicole (they/them or she/her). I’m a principal writer, researcher, and design leader based in Virginia.
 
-I believe that good content is clear, conversational, and inclusive. You can learn more about my approach to developing user-centered products in the archives here and in my book, *[Nicely Said: Writing for the Web with Style and Purpose](https://nicelysaid.co)*.
+I believe that good design is clear, honest, and accessible. For over 15 years, I’ve led complex UX projects for clients in tech, publishing, education, finance, and government. Most recently, I oversaw design and research for state benefits programs at Nava.
 
-For over 15 years, I’ve worked to make the web more friendly, accessible, and honest. Before joining Nava, I was the communications and training manager for Chorus at Vox Media, head of content design at [18F](https://18f.gsa.gov/), a graduate instructor and thesis advisor at the School of Visual Arts, a senior content strategist at Facebook, and a communications lead at Apple. As an independent editor and user experience consultant, I’ve worked with all kinds of clients including A Book Apart, Happy Cog, Lab Zero, Macmillan Publishers, Pinterest, and ProPublica.
+As a generalist, I tend to follow my interests and people I respect. That strategy has shaped my career—from writing for Apple and Facebook, to researching across industries, teaching at [SVA](https://interactiondesign.sva.edu/), and managing remote teams at [Nava](https://www.navapbc.com/), [18F](https://18f.gsa.gov/), and [Vox Media](https://corp.voxmedia.com/).
+
+In 2014, I cowrote *[Nicely Said: Writing for the Web with Style and Purpose](https://nicelysaid.co)*, which has been called practical, approachable, and timeless. (I hope to write another book someday.)
 
 ----
 
 Side-projects: 
 
-## Side Projects ##
+## Press ##
 
-* [Strategic Writing](https://strategicwriting.club/)
-* [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621)
-* [Born Hungry](https://bornhungrymag.com)
+* [Adobe](https://creativecloud.adobe.com/discover/article/how-to-create-a-personal-website-from-scratch)
+* [Design in Tech](https://designintech.report/wp-content/uploads/2017/03/dit-2017-1-0-7-compressed.pdf)
+* [Dropbox](https://dropbox.design/article/designers-who-play-with-words)
+* [The Good Copy](https://thegoodcopy.com.au/products/nicely-said)
+* [New America](https://improveunemployment.com/)
 
 ----
 
@@ -29,8 +33,8 @@ Interviews:
 ## Interviews ##
 
 * [Every Word Matters](https://medium.com/everywordmatters/nicole-fenton-nicely-said-and-vox-3a8d3e077155)
-* [Happy Monday](https://happymonday.simplecast.fm/dcb862cd)
 * [Huge Inc.](https://magenta.as/in-a-new-era-in-d-c-18f-marches-on-a9e4964196c)
+* [Subway Book Review](https://subwaybookreview.tumblr.com/post/118520803518/a-literary-conversation-with-nicole-fenton)
 * [Talking Shop](https://cushionapp.com/talking-shop/nicole-fenton)
 * [UX Podcast](https://soundcloud.com/uxpodcast/nicole-fenton-interview-at-uxlx-2015)
 

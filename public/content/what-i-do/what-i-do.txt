@@ -1,4 +1,4 @@
-Title: What I Do
+Title: Services
 
 ----
 
@@ -6,23 +6,23 @@ Text:
 
 ----
 
-Lede: I can help you define your goals, improve your editorial process, and earn trust from readers.
+Lede: I can help you clarify your goals, understand user needs, and build more inclusive products.
 
 ----
 
 Services: 
 
-### Creative Direction ###
-* Design Leadership
-* Advising
+### Design Leadership ###
+* Creative Direction
+* Coaching for Designers
 * Project Definition
 * Naming and Concepts
 
-### User Experience ###
-* User Research
-* Interface Audits
+### Experience Design ###
+* Design Research
 * Information Architecture
 * Content Design
+* Usability and Accessibility 
 
 ### Editorial Experience ###
 * Communication Planning
@@ -30,7 +30,7 @@ Services:
 * Brand and Style Guides
 * Voice and Tone
 
-### Editing ###
+### Editorial Strategy ###
 * Coaching for Writers
 * Workshops and Training
 * Developmental Editing

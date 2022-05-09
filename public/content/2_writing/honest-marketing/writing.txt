@@ -6,7 +6,7 @@ Lede: This is an adapted version of the workshop I led at <a href="http://nearly
 
 ----
 
-Text:
+Text: 
 
 I’m going to share my personal approach to copywriting with you and then we’ll look at examples and work through two  exercises. Here’s what I want you to take away from this workshop:
 
@@ -232,7 +232,7 @@ I hope you find this useful! I’m all about doing workshops, so let me know if 
 
 ----
 
-Footnotes:
+Footnotes: 
 
 <h2>Further Reading</h2>
 
@@ -250,19 +250,3 @@ Pubdate: October 30, 2014
 ----
 
 Header-image: 
-
-----
-
-Seotitle: 
-
-----
-
-Seotags: 
-
-----
-
-Seometa: 
-
-----
-
-Shareimage: 

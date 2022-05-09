@@ -6,7 +6,7 @@ Lede: I gave this lightning talk at <a href="//confabevents.com/past-events/lond
 
 ----
 
-Text:
+Text: 
 
 Hi, I’m Nicole. I’m a content strategist at Facebook in New York.
 
@@ -108,7 +108,7 @@ That’s it for today. Thanks, friends!
 
 ----
 
-Footnotes:
+Footnotes: 
 
 ## Further reading
 
@@ -125,19 +125,3 @@ Pubdate: March 25, 2013
 ----
 
 Header-image: 
-
-----
-
-Seotitle: 
-
-----
-
-Seotags: 
-
-----
-
-Seometa: 
-
-----
-
-Shareimage: 
